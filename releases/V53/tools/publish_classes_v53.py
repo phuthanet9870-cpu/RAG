@@ -1,0 +1,16 @@
+from pathlib import Path
+import json,hashlib
+exec(Path('/workspace/RAG/tools/publish_recast_v47.py').read_text().split('z=D/')[0])
+E=R/'evidence/classes-v53';P=R/'tools/download-v53';P.mkdir(exist_ok=True);D=R/'dist';packs=json.loads((E/'packages.json').read_text());pack=packs[0];data=(D/pack['name']).read_bytes();assert hashlib.sha256(data).hexdigest()==pack['sha256'];files={};parts=[]
+for i,start in enumerate(range(0,len(data),80*1024*1024)):
+ p=D/('Runevale-V53.part'+str(i+1));p.write_bytes(data[start:start+80*1024*1024]);parts.append({'name':p.name,'bytes':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()});files['downloads/V53/'+p.name]=p
+files['downloads/V53/'+packs[1]['name']]=D/packs[1]['name']
+for n in ['build.json','validation.json','preservation.json','skill-guide.json','packages.json']:files['releases/V53/'+n]=E/n
+files['releases/V53/combat-regression.json']=E/'combat-regression/validation.json';files['releases/V53/README.txt']=R/'build/Runevale-Recast-V53/อ่านก่อนเล่น.txt'
+for n in ['classes53-design.py','art_classes_v53.py','classes-v53-definitions.js','classes-v53-ui.js','build_classes_v53.py','test_classes_v53.py','test_combat_regression_v53.py','package_classes_v53.py','publish_classes_v53.py']:files['releases/V53/tools/'+n]=R/'tools'/n
+c=push('runevale-game-download',files,'Publish V53 all12 locked classes,72 original skills and native12-frame VFX')
+for p in parts:p['url']='https://raw.githubusercontent.com/phuthanet9870-cpu/RAG/'+c+'/downloads/V53/'+p['name']
+(P/'config.json').write_text(json.dumps({**pack,'parts':parts}));old=(R/'tools/download-v52/index.html').read_text();script=old[old.index('<script>'):].replace('V52','V53');head=old[:old.index('<main>')].replace('V52','V53');art='https://raw.githubusercontent.com/phuthanet9870-cpu/RAG/'+c+'/downloads/V53/'+packs[1]['name']
+(P/'index.html').write_text(head+'''<main><small>RUNEVALE ONLINE · V53</small><h1>เปิดครบ12คลาสขั้นสูง · 72สกิลต้นฉบับ</h1><ul><li>รวมเล่นได้33คลาส มี218สกิลทั้งหมด</li><li>คลาสใหม่แต่ละคลาสมีสกิลติดตัว1และใช้งาน5 พร้อมไอคอนและVFX12เฟรม</li><li>เปลี่ยนจากอาชีพก่อนหน้าที่NPCในปราสาท: Base90 / Job70</li><li>ทหารและเงานักสู้ใช้คลาสใหม่และสกิลจริงได้ อุปกรณ์สุ่มส่วนตัว</li><li>GM: G → stefan-gm → คลาสเปิดใหม่V53 ทดลองเต็ม จ้างฟรี เสกเงา และตรวจเฟรมVFX</li><li>คงพื้นผิวเดิมตามV52 ไม่ใส่Texture ResourceV49/V51กลับมา</li></ul><button id="get" disabled>กำลังเตรียมดาวน์โหลด…</button><p id="status" role="status"></p><p>แตกZIP แล้วเปิด <b>index.html</b><br>มีคู่มือสกิลใหม่ในZIPและในหน้าเปลี่ยนอาชีพของเกม</p><p><a href="'''+art+'''">ดาวน์โหลดชีตVFX / ไอคอน / คู่มือ / หน้าแสดงแอนิเมชันแยก</a></p><small>ตรวจสกิลใหม่600กรณี ครบ5ระดับทั้ง2ฝ่าย · AIสกิลเฉพาะคลาส24กรณี · ทดสอบ33คลาสทั้ง2ฝ่าย66กรณี<br>ทดสอบChromiumและขนาดจอมือถือจำลอง</small></main>'''+script)
+(P/'sw.js').write_text((R/'tools/download-v52/sw.js').read_text().replace('V52','V53'))
+c2=push('gh-pages',{'v53/'+n:P/n for n in ['index.html','sw.js','config.json']},'Publish V53 original advanced class skills playable download page');(E/'publish.json').write_text(json.dumps({'partsCommit':c,'pagesCommit':c2,'page':'https://phuthanet9870-cpu.github.io/RAG/v53/'},indent=2));print('PARTS',c,'PAGES',c2,flush=True)

@@ -1,0 +1,11 @@
+{
+  "base": 52,
+  "unchanged": [
+    "const WORLD33_MATERIALS=",
+    "const WORLD33_PLANS=",
+    "const WORLD33_PLACEMENTS=",
+    "window.SHEET_DATA=",
+    "window.COSTUME36_DATA=",
+    "window.MONSTER_DATA="
+  ]
+}

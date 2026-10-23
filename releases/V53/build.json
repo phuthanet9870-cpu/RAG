@@ -1,0 +1,12 @@
+{
+  "version": 53,
+  "base": 52,
+  "classesAdded": 12,
+  "skillsAdded": 72,
+  "activeSkillsAdded": 60,
+  "passivesAdded": 12,
+  "totalClasses": 33,
+  "totalSkills": 218,
+  "framesPerSkill": 12,
+  "htmlSha256": "d2d1ed5da560502747a23600f65d11b7943340f78267cf509c7f4c788dcdda25"
+}

@@ -1,0 +1,376 @@
+{
+  "classes": [
+    {
+      "cls": "novice",
+      "HP": 4355,
+      "ATK": 942.1333333333334,
+      "MATK": 132.33333333333331,
+      "weapon": "dagger",
+      "skills": 2
+    },
+    {
+      "cls": "sword",
+      "HP": 10120,
+      "ATK": 839.9000000000001,
+      "MATK": 159.6,
+      "weapon": "dagger",
+      "skills": 8
+    },
+    {
+      "cls": "mage",
+      "HP": 3643,
+      "ATK": 311.8666666666667,
+      "MATK": 1678.8666666666668,
+      "weapon": "staff",
+      "skills": 11
+    },
+    {
+      "cls": "archer",
+      "HP": 4293,
+      "ATK": 933,
+      "MATK": 178.6,
+      "weapon": "bow",
+      "skills": 7
+    },
+    {
+      "cls": "acolyte",
+      "HP": 6082,
+      "ATK": 295.2733333333333,
+      "MATK": 1636.3533333333332,
+      "weapon": "staff",
+      "skills": 9
+    },
+    {
+      "cls": "merchant",
+      "HP": 8260,
+      "ATK": 1073.2666666666667,
+      "MATK": 139.66666666666669,
+      "weapon": "axe1",
+      "skills": 8
+    },
+    {
+      "cls": "thief",
+      "HP": 7232,
+      "ATK": 827.7333333333333,
+      "MATK": 108.73333333333333,
+      "weapon": "dagger",
+      "skills": 9
+    },
+    {
+      "cls": "knight",
+      "HP": 19009,
+      "ATK": 1204.9333333333334,
+      "MATK": 83.73333333333333,
+      "weapon": "sword2",
+      "skills": 31
+    },
+    {
+      "cls": "crusader",
+      "HP": 18394,
+      "ATK": 977.7333333333333,
+      "MATK": 100.33333333333333,
+      "weapon": "spear1",
+      "skills": 31
+    },
+    {
+      "cls": "wizard",
+      "HP": 5057,
+      "ATK": 294.2733333333333,
+      "MATK": 1928.824,
+      "weapon": "staff",
+      "skills": 30
+    },
+    {
+      "cls": "sage",
+      "HP": 6363,
+      "ATK": 445.85333333333335,
+      "MATK": 1458.3519999999999,
+      "weapon": "book",
+      "skills": 30
+    },
+    {
+      "cls": "hunter",
+      "HP": 6372,
+      "ATK": 1026.9266666666667,
+      "MATK": 213.46666666666667,
+      "weapon": "bow",
+      "skills": 25
+    },
+    {
+      "cls": "bard",
+      "HP": 5738,
+      "ATK": 1012.0666666666666,
+      "MATK": 254.66666666666666,
+      "weapon": "instr",
+      "skills": 25
+    },
+    {
+      "cls": "dancer",
+      "HP": 5942,
+      "ATK": 1074.02,
+      "MATK": 151,
+      "weapon": "whip",
+      "skills": 25
+    },
+    {
+      "cls": "priest",
+      "HP": 6614,
+      "ATK": 281.5333333333333,
+      "MATK": 1687.5333333333333,
+      "weapon": "staff",
+      "skills": 25
+    },
+    {
+      "cls": "monk",
+      "HP": 12272,
+      "ATK": 953.2133333333334,
+      "MATK": 95.93333333333334,
+      "weapon": "knuckle",
+      "skills": 25
+    },
+    {
+      "cls": "blacksmith",
+      "HP": 12017,
+      "ATK": 1203.4666666666667,
+      "MATK": 80.86666666666667,
+      "weapon": "axe2",
+      "skills": 21
+    },
+    {
+      "cls": "alchemist",
+      "HP": 10021,
+      "ATK": 1003.1933333333334,
+      "MATK": 185.33333333333331,
+      "weapon": "axe1",
+      "skills": 21
+    },
+    {
+      "cls": "assassin",
+      "HP": 8099,
+      "ATK": 1019.4533333333334,
+      "MATK": 73.13333333333333,
+      "weapon": "katar",
+      "skills": 23
+    },
+    {
+      "cls": "rogue",
+      "HP": 8732,
+      "ATK": 859.8533333333332,
+      "MATK": 93.73333333333333,
+      "weapon": "dagger",
+      "skills": 23
+    },
+    {
+      "cls": "dk",
+      "HP": 20343,
+      "ATK": 1181.0533333333333,
+      "MATK": 83.53333333333333,
+      "weapon": "spear2",
+      "skills": 32
+    },
+    {
+      "cls": "honor_guardian",
+      "HP": 19424,
+      "ATK": 887,
+      "MATK": 135.8,
+      "weapon": "spear1",
+      "skills": 38
+    },
+    {
+      "cls": "twilight_knight",
+      "HP": 21441,
+      "ATK": 1220.9333333333334,
+      "MATK": 88.73333333333333,
+      "weapon": "sword2",
+      "skills": 38
+    },
+    {
+      "cls": "death_knight",
+      "HP": 21067,
+      "ATK": 971.4266666666667,
+      "MATK": 131.26666666666665,
+      "weapon": "spear2",
+      "skills": 38
+    },
+    {
+      "cls": "storm_weaver",
+      "HP": 5043,
+      "ATK": 302.88,
+      "MATK": 2120.448,
+      "weapon": "staff",
+      "skills": 36
+    },
+    {
+      "cls": "ice_scholar",
+      "HP": 6135,
+      "ATK": 554.3333333333334,
+      "MATK": 1822.8639999999998,
+      "weapon": "book",
+      "skills": 36
+    },
+    {
+      "cls": "sniper",
+      "HP": 6770,
+      "ATK": 1027.5266666666666,
+      "MATK": 280.8666666666667,
+      "weapon": "bow",
+      "skills": 31
+    },
+    {
+      "cls": "high_priest",
+      "HP": 7466,
+      "ATK": 281.40666666666664,
+      "MATK": 1602.4866666666667,
+      "weapon": "staff",
+      "skills": 31
+    },
+    {
+      "cls": "fist_champion",
+      "HP": 11766,
+      "ATK": 829.0866666666667,
+      "MATK": 119.46666666666667,
+      "weapon": "knuckle",
+      "skills": 31
+    },
+    {
+      "cls": "white_smith",
+      "HP": 13138,
+      "ATK": 1294.9333333333334,
+      "MATK": 83.13333333333333,
+      "weapon": "axe2",
+      "skills": 27
+    },
+    {
+      "cls": "life_creator",
+      "HP": 10467,
+      "ATK": 809.4666666666667,
+      "MATK": 1043.0666666666666,
+      "weapon": "axe1",
+      "skills": 27
+    },
+    {
+      "cls": "cross_assassin",
+      "HP": 10089,
+      "ATK": 928.9466666666667,
+      "MATK": 158.46666666666667,
+      "weapon": "katar",
+      "skills": 29
+    },
+    {
+      "cls": "shadow_stalker",
+      "HP": 8918,
+      "ATK": 974.9266666666667,
+      "MATK": 188.46666666666667,
+      "weapon": "bow",
+      "skills": 29
+    }
+  ],
+  "modes": [
+    {
+      "n": 1,
+      "blue": 1,
+      "red": 1
+    },
+    {
+      "n": 3,
+      "blue": 3,
+      "red": 3
+    },
+    {
+      "n": 5,
+      "blue": 5,
+      "red": 5
+    },
+    {
+      "n": 10,
+      "blue": 10,
+      "red": 10
+    }
+  ],
+  "deep": {
+    "classAICombinations": 66,
+    "casts": 1654,
+    "noFriendlyFire": true,
+    "teamBuffIsolation": true,
+    "playerCanSpectate": true,
+    "lossOnce": true,
+    "resurrection": true
+  },
+  "partyTotal": 10,
+  "rosterCap": 10,
+  "realClassSkillCasts": [
+    {
+      "kind": "cast",
+      "cls": "shadow_stalker",
+      "team": "shadow",
+      "id": "r53_veil",
+      "sp": 32,
+      "at": 658.6916999996748
+    },
+    {
+      "kind": "cast",
+      "cls": "shadow_stalker",
+      "team": "shadow",
+      "id": "firstaid",
+      "sp": 3,
+      "at": 658.9166999996746
+    },
+    {
+      "kind": "cast",
+      "cls": "shadow_stalker",
+      "team": "shadow",
+      "id": "th_back",
+      "sp": 7,
+      "at": 659.1416999996744
+    },
+    {
+      "kind": "cast",
+      "cls": "shadow_stalker",
+      "team": "shadow",
+      "id": "as_venom",
+      "sp": 20,
+      "at": 659.3666999996742
+    },
+    {
+      "kind": "cast",
+      "cls": "shadow_stalker",
+      "team": "shadow",
+      "id": "r53_echo",
+      "sp": 26,
+      "at": 659.591699999674
+    },
+    {
+      "kind": "cast",
+      "cls": "shadow_stalker",
+      "team": "shadow",
+      "id": "r53_web",
+      "sp": 29,
+      "at": 659.8166999996738
+    },
+    {
+      "kind": "cast",
+      "cls": "shadow_stalker",
+      "team": "shadow",
+      "id": "r53_sever",
+      "sp": 35,
+      "at": 660.0416999996736
+    },
+    {
+      "kind": "cast",
+      "cls": "shadow_stalker",
+      "team": "shadow",
+      "id": "r53_hunt",
+      "sp": 65,
+      "at": 660.2666999996734
+    },
+    {
+      "kind": "cast",
+      "cls": "shadow_stalker",
+      "team": "shadow",
+      "id": "r53_echo",
+      "sp": 26,
+      "at": 664.6916999996694
+    }
+  ],
+  "browserErrors": []
+}
