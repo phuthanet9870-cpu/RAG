@@ -34,6 +34,8 @@ patch('function updatePlayer(dt) {','function updatePlayer(dt) { if(Team48.contr
 patch('if (t.pvp) dmg *= .5;', 'if (t.pvp || c.src.fighter48) dmg *= .5;')
 patch('if (!tr.done && Math.hypot(m.x - tr.x', 'if (!tr.done && Team48.enemy(tr.owner,m) && Math.hypot(m.x - tr.x')
 patch('if (p.room) { enterZone', "if(p.room==='arena'){openWindow('arena');return;} if (p.room) { enterZone")
+patch("document.createTextNode(' · สกิลวาดใหม่ V47 · 8 เฟรมตรง')", "document.createTextNode(' · V48 · ทีม10คน / ประลอง')")
+patch("document.title='Runevale Online · สกิลวาดใหม่ V47 · 8 เฟรมตรง'", "document.title='Runevale Online V48 · ทีม10คน / ประลอง'")
 # Controller initializes after all prior UI/render hooks, before DOMContentLoaded boot.
 s=s.replace('</script></body></html>',(R/'tools/team-combat-v48.js').read_text()+'\n</script></body></html>')
 O=R/'build/Runevale-Recast-V48';O.mkdir(exist_ok=True);(O/'index.html').write_text(s)

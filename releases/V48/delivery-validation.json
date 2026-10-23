@@ -1,0 +1,10 @@
+{
+  "gmAuthentication": true,
+  "gmFreeHire": true,
+  "gmShadowSummon": true,
+  "live10v10": true,
+  "saveAndReloadRoster10": true,
+  "poisonDoesNotBreakSave": true,
+  "mobilePartyViewport": 390,
+  "browserErrors": []
+}

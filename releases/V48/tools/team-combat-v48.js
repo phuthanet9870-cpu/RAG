@@ -2,6 +2,8 @@
 const Team48=(()=>{
  const aliases={tank:'knight',healer:'priest',smith:'blacksmith'};
  let roster=[],owner=null,field=null,mode=1,selected=new Set(),serial=0;
+ const style48=document.createElement('style');style48.textContent=`#party{position:fixed!important;top:240px!important;left:14px!important;right:auto!important;bottom:auto!important;width:180px!important;max-height:min(300px,calc(100dvh - 470px));overflow:auto;overscroll-behavior:contain;scrollbar-width:thin;z-index:12}#party:has(.pm):before{content:attr(data-team48);display:block;background:#fff8e8;color:#55472e;border:1px solid #b99d64;border-radius:7px;padding:5px;font:600 12px system-ui}#party .pm{width:auto!important;margin:4px 0!important;padding:6px!important}#party .pm span{font-size:11px!important}@media(max-width:700px){#party{top:174px!important;left:10px!important;width:145px!important;max-height:155px!important}#party .pm{padding:4px!important}}@media(max-height:500px){#party{top:150px!important;max-height:85px!important;width:145px!important}}`;document.head.append(style48);
+ const hud48=updateHud;updateHud=function(...args){const r=hud48(...args),el=document.querySelector('#party');if(el&&P&&W)el.dataset.team48='ปาร์ตี้ '+(W.allies.length+1)+'/10'+(W.arena?.team48&&P.dead?' · กำลังชมทีม':'');return r;};
  const log=[];SKIP.add('st');SKIP.add('dmgBy');
  const clsOf=k=>aliases[k]||MERC[k]?.cls||k;
  const team=u=>u?.fighter48?'shadow':u?.isMon?'monster':'player';
@@ -19,8 +21,8 @@ const Team48=(()=>{
   a.wt=M.wt;a.falcon=M.falcon;a._dvf=-1;targetStats(a);
  }
  function make(kind){const cls=clsOf(kind);if(!CLS[cls])return null;const a={kind:cls,cls,uid48:'merc48-'+(++serial),name:CLS[cls].n+'รับจ้าง',isAlly:1,stats:{},skills:{},buffs:{},cd:{},equip:{},x:P.x-30,y:P.y+20,face:0,hp:1,sp:1,atkT:0,st:{},look:{hair:serial%6,hc:'#684b38',skin:'#f0c8a0'}};sync(a);a.hp=derive(a).maxHP;a.sp=derive(a).maxSP;return a;}
- function persist(){P.merc48=roster.map(a=>a.cls);P.party=(field||W.allies).map(a=>a.kind);saveSoon();}
- function ensure(){if(owner===P?.id)return;owner=P?.id;field=null;roster=(P.merc48||(P.party||[]).map(k=>k==='mage'?'wizard':k)).slice(0,10).map(make).filter(Boolean);W.allies=roster.slice(0,9);persist();}
+ function persist(){P.merc48=roster.map(a=>a.cls);P.mercActive48=(field||W.allies).map(a=>roster.indexOf(a)).filter(i=>i>=0);P.party=(field||W.allies).map(a=>a.kind);saveSoon();}
+ function ensure(){if(owner===P?.id){for(const a of roster)if(a.lv!==P.lv){const d=derive(a),hp=a.hp/d.maxHP,sp=a.sp/d.maxSP;sync(a);a.hp=derive(a).maxHP*hp;a.sp=derive(a).maxSP*sp;}return;}owner=P?.id;field=null;roster=(P.merc48||(P.party||[]).map(k=>k==='mage'?'wizard':k)).slice(0,10).map(make).filter(Boolean);W.allies=Array.isArray(P.mercActive48)?[...new Set(P.mercActive48)].slice(0,9).map(i=>roster[i]).filter(Boolean):roster.slice(0,9);persist();}
  function hire(cls,free=false){ensure();if(W.arena?.team48)return note('ออกจากประลองก่อนจัดทีม');if(roster.length>=10)return note('จ้างได้สูงสุด10คน');cls=clsOf(cls);if(!CLS[cls])return;if(!free&&!spendZeny(mercCost(P.lv),'merc'))return;const a=make(cls);roster.push(a);if(W.allies.length<9)W.allies.push(a);persist();uiDirty('party');}
  function dismiss(i){ensure();if(W.arena?.team48)return;const a=roster.splice(i,1)[0];if(a)selected.delete(a.uid48);W.allies=W.allies.filter(x=>x!==a);if(W.allies.length<9){const reserve=roster.find(x=>!W.allies.includes(x));if(reserve)W.allies.push(reserve);}persist();}
  function control(u,dt){if(!u||u.dead)return false;targetStats(u);if(u===P)for(const tr of [...W.traps])if(enemy(tr.owner,u)&&!tr.done&&dist(u,tr)<T*.6+u.r)triggerTrap(tr);for(const k of ['stun','freeze','root','slow','taunt','mark','weak'])if(u.st[k]>0)u.st[k]=Math.max(0,u.st[k]-dt);if(u.st.defdown?.t>0)u.st.defdown.t-=dt;const poison=u.st.poison;if(poison?.t>0){poison.t-=dt;poison.acc+=dt;if(poison.acc>=1){poison.acc--;dmgUnit(u,poison.dps,poison.src,'poison');}}return u.dead||u.st.stun>0||u.st.freeze>0||u.st.root>0;}
@@ -32,7 +34,7 @@ const Team48=(()=>{
  const excluded=new Set(['th_steal','ro_snatch','ro_copy','nv_sit','nv_basic','mc_discount','mc_over','mc_vend']);
  function ai(a,dt){
   if(a.dead){if(!W.arena?.team48){a.deadT=(a.deadT??25)-dt;if(a.deadT<=0){reviveUnit(a,.5);a.x=P.x-20;a.y=P.y+20;}}return;}
-  a.moving=false;if(W.arena?.team48&&W.arena.done)return;tickBuffs(a,dt);regenTick(a,dt);if(a.anim){a.anim.t+=dt;if(a.anim.t>a.anim.d)a.anim=null;}if(a.hurtT>0)a.hurtT-=dt;
+  if(a.lv!==P.lv){const old=derive(a),hp=a.hp/old.maxHP,sp=a.sp/old.maxSP;sync(a);a.hp=derive(a).maxHP*hp;a.sp=derive(a).maxSP*sp;}a.moving=false;if(W.arena?.team48&&W.arena.done)return;tickBuffs(a,dt);regenTick(a,dt);if(a.anim){a.anim.t+=dt;if(a.anim.t>a.anim.d)a.anim=null;}if(a.hurtT>0)a.hurtT-=dt;
   if(control(a,dt)){a.cast=null;return;}for(const tr of [...W.traps])if(enemy(tr.owner,a)&&!tr.done&&dist(a,tr)<T*.6+a.r)triggerTrap(tr);
   if(a.cast){stepCast(a,dt,false);return;}
   const d=derive(a);let t=a.target&&enemy(a,a.target)&&a.target.hp>0&&!a.target.dead?a.target:null;

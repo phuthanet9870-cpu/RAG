@@ -1,6 +1,6 @@
 {
   "version": 48,
-  "sha256": "09c71852339a21332f1609ef2bb44ed01f25405eec4a507d05d3fe6d28e7c95a",
+  "sha256": "388ee819ebafa4dede31445c8263e8af455dd888bc53f0bd005f3d8232e1242b",
   "unchangedAssetLibraries": [
     "window.SHEET_DATA=",
     "window.COSTUME36_DATA=",
@@ -22,5 +22,8 @@
   ],
   "hiredRosterCap": 10,
   "activePartyCapIncludingPlayer": 10,
-  "usesExistingSkillExecutors": true
+  "usesExistingSkillExecutors": true,
+  "scrollablePartyHud": true,
+  "activeRosterSelectionPersists": true,
+  "npcLevelTracksPlayer": true
 }

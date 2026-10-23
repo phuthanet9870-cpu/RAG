@@ -9,8 +9,8 @@ head=old[:old.index('<main>')].replace('V47','V48')
 pack=json.loads((E/'package.json').read_text());z=D/pack['name'];data=z.read_bytes();assert hashlib.sha256(data).hexdigest()==pack['sha256'];parts=[];files={}
 for i,start in enumerate(range(0,len(data),80*1024*1024)):
  p=D/('Runevale-V48.part'+str(i+1));p.write_bytes(data[start:start+80*1024*1024]);parts.append({'name':p.name,'bytes':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()});files['downloads/V48/'+p.name]=p
-for n in ['build.json','validation.json','package.json']:files['releases/V48/'+n]=E/n
-for n in ['team-combat-v48.js','build_team_combat_v48.py','test_team_v48.py','package_team_v48.py','publish_team_v48.py']:files['releases/V48/tools/'+n]=R/'tools'/n
+for n in ['build.json','validation.json','delivery-validation.json','package.json']:files['releases/V48/'+n]=E/n
+for n in ['team-combat-v48.js','build_team_combat_v48.py','test_team_v48.py','test_team_delivery_v48.py','test_public_download_v48.py','package_team_v48.py','publish_team_v48.py']:files['releases/V48/tools/'+n]=R/'tools'/n
 files['releases/V48/README.txt']=R/'build/Runevale-Recast-V48/อ่านก่อนเล่น.txt'
 c=push('runevale-game-download',files,'Publish V48 class-skilled teams, mercenary roster and four arena modes')
 for p in parts:p['url']='https://raw.githubusercontent.com/phuthanet9870-cpu/RAG/'+c+'/downloads/V48/'+p['name']
