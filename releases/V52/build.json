@@ -1,0 +1,11 @@
+{
+  "version": 52,
+  "base": 50,
+  "htmlSha256": "60ebe1bd43caa1c7140db07a661092291718a1d41c6afa995b9d36dbbf0d496e",
+  "materialsRestoredExactlyFrom": 48,
+  "removedTextureResourceVersions": [
+    49,
+    51
+  ],
+  "preservedCityNpcCostumeAndCombat": true
+}

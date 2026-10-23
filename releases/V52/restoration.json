@@ -1,0 +1,135 @@
+{
+  "htmlSha256": "60ebe1bd43caa1c7140db07a661092291718a1d41c6afa995b9d36dbbf0d496e",
+  "exactOriginalMaterialSet": true,
+  "v49AndV51ResourceSpritesRemoved": true,
+  "gmTextureControlsRemoved": true,
+  "maps": [
+    {
+      "key": "0",
+      "spawnFree": true
+    },
+    {
+      "key": "1",
+      "spawnFree": true
+    },
+    {
+      "key": "2",
+      "spawnFree": true
+    },
+    {
+      "key": "3",
+      "spawnFree": true
+    },
+    {
+      "key": "4",
+      "spawnFree": true
+    },
+    {
+      "key": "5",
+      "spawnFree": true
+    },
+    {
+      "key": "6",
+      "spawnFree": true
+    },
+    {
+      "key": "7",
+      "spawnFree": true
+    },
+    {
+      "key": "8",
+      "spawnFree": true
+    },
+    {
+      "key": "9",
+      "spawnFree": true
+    },
+    {
+      "key": "10",
+      "spawnFree": true
+    },
+    {
+      "key": "11",
+      "spawnFree": true
+    },
+    {
+      "key": "12",
+      "spawnFree": true
+    },
+    {
+      "key": "13",
+      "spawnFree": true
+    },
+    {
+      "key": "14",
+      "spawnFree": true
+    },
+    {
+      "key": "15",
+      "spawnFree": true
+    },
+    {
+      "key": "16",
+      "spawnFree": true
+    },
+    {
+      "key": "17",
+      "spawnFree": true
+    },
+    {
+      "key": "18",
+      "spawnFree": true
+    },
+    {
+      "key": "19",
+      "spawnFree": true
+    },
+    {
+      "key": "20",
+      "spawnFree": true
+    },
+    {
+      "key": "21",
+      "spawnFree": true
+    },
+    {
+      "key": "22",
+      "spawnFree": true
+    },
+    {
+      "key": "23",
+      "spawnFree": true
+    },
+    {
+      "key": "24",
+      "spawnFree": true
+    },
+    {
+      "key": "r_eclipse",
+      "spawnFree": true
+    },
+    {
+      "key": "r_tomb",
+      "spawnFree": true
+    },
+    {
+      "key": "r_tower",
+      "spawnFree": true
+    },
+    {
+      "key": "r_training",
+      "spawnFree": true
+    },
+    {
+      "key": "r_arena",
+      "spawnFree": true
+    },
+    {
+      "key": "r_castle",
+      "spawnFree": true
+    }
+  ],
+  "decodedOriginalMaterials": 32,
+  "preservedCityCostumesNpcsGear": true,
+  "browserErrors": []
+}
