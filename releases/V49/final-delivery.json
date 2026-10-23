@@ -1,0 +1,19 @@
+{
+  "page": "https://phuthanet9870-cpu.github.io/RAG/v49/",
+  "packages": [
+    {
+      "name": "Runevale-Recast-V49.zip",
+      "bytes": 110312821,
+      "sha256": "6b920c35190509a5a3982af3b2a741b677a7503b4049409f32c7d0bafdf0262a"
+    },
+    {
+      "name": "Runevale-City-Assets-V49.zip",
+      "bytes": 148274,
+      "sha256": "57847c04a95db8af966a8541054eb6777055d3a8a2e88398575e699aee91b1ff"
+    }
+  ],
+  "htmlSha256": "056edf74e0ea38ccdb8d86a22bb4e87332e628a914578a822dfba633d69f0338",
+  "publicDownloadMatchesTestedZip": true,
+  "nativeArtZipVerified": true,
+  "saveAfterCombatAndCostumeReward": true
+}

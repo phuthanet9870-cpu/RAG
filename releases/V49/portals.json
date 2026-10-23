@@ -1,0 +1,36 @@
+{
+  "portals": [
+    {
+      "name": "ลานปฐมบทกล้าหาญ",
+      "free": true,
+      "path": true
+    },
+    {
+      "name": "นาขั้นบันไดสุริยา",
+      "free": true,
+      "path": true
+    },
+    {
+      "name": "ทางสายธุลีเงิน",
+      "free": true,
+      "path": true
+    },
+    {
+      "name": "ทุ่งอรุณเบิกฟ้า",
+      "free": true,
+      "path": true
+    },
+    {
+      "name": "ทุ่งมวลมาลีมรกต",
+      "free": true,
+      "path": true
+    },
+    {
+      "name": "พระราชวังรูนเวล · โถงราชสำนัก",
+      "free": true,
+      "path": true
+    }
+  ],
+  "castleJob": true,
+  "returned": true
+}
