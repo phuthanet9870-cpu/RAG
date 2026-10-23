@@ -1,0 +1,17 @@
+{
+  "version": 46,
+  "sha256": "808f542c5beceff561fb3ef9dc44196413854f629cc8e3312242153601cc4917",
+  "skillsAudited": 146,
+  "sharedNewAnimationFamilies": 48,
+  "effectEntries": 156,
+  "framesPerFamily": 29,
+  "newOriginalKeys": 384,
+  "newFrames": 1392,
+  "v44RendererRemoved": true,
+  "oldSkillArtRemoved": true,
+  "oldCanvasSkillEmittersRemoved": true,
+  "characterSheetsV45AndMapsUnchanged": true,
+  "damageFormulaCooldownCostUnchanged": true,
+  "projectileDamageWaitsForFlight": true,
+  "firebombSixthTickPrecisionFixed": true
+}

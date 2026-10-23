@@ -1,0 +1,10 @@
+{
+  "firebombActualTicks": 6,
+  "traps": [
+    "hn_mine",
+    "hn_ankle",
+    "hn_clay"
+  ],
+  "groundTypes": 7,
+  "errors": []
+}

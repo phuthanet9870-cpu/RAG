@@ -1,0 +1,10930 @@
+{
+  "firstaid": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "sw_bash": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "sw_prov": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "sw_burst": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "sw_will": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "mg_fire": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 4,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 4,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 7,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 7,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 8,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 8,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 9,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 9,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 10,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 10,
+        "ground": []
+      }
+    ]
+  ],
+  "mg_cold": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 4,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 4,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 7,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 7,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 8,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 8,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 9,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 9,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 10,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 10,
+        "ground": []
+      }
+    ]
+  ],
+  "mg_light": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 4,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 4,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 7,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 7,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 8,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 8,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 9,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 9,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 10,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 10,
+        "ground": []
+      }
+    ]
+  ],
+  "mg_soul": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 4,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 4,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 4,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 4,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ]
+  ],
+  "mg_wave": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "mg_frost": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "mg_sight": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "ar_double": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ]
+  ],
+  "ar_rain": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "ar_conc": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "ac_heal": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "ac_bless": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "ac_agi": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "ac_holy": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "me_smash": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "me_shout": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "me_wit": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "th_steal": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "th_hide": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "th_back": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "th_venom": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "kn_pierce": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      },
+      {
+        "size": 1,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      },
+      {
+        "size": 2,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      },
+      {
+        "size": 1,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      },
+      {
+        "size": 2,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      },
+      {
+        "size": 1,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      },
+      {
+        "size": 2,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      },
+      {
+        "size": 1,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      },
+      {
+        "size": 2,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      },
+      {
+        "size": 1,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      },
+      {
+        "size": 2,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      },
+      {
+        "size": 1,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      },
+      {
+        "size": 2,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      },
+      {
+        "size": 1,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      },
+      {
+        "size": 2,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      },
+      {
+        "size": 1,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      },
+      {
+        "size": 2,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      },
+      {
+        "size": 1,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      },
+      {
+        "size": 2,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      },
+      {
+        "size": 1,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      },
+      {
+        "size": 2,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ]
+  ],
+  "kn_bowl": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ]
+  ],
+  "kn_brand": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "kn_haste": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "kn_parry": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "kn_charge": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "cr_cross": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.1,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ]
+  ],
+  "cr_grand": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ]
+  ],
+  "cr_guard": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "cr_rush": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "cr_aegis": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ]
+  ],
+  "cr_heal": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "cr_def": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "cr_reflect": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "cr_oath": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "wz_pneuma": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "pneuma",
+            "seconds": 8,
+            "ticks": null,
+            "r": 60
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "pneuma",
+            "seconds": 11,
+            "ticks": null,
+            "r": 60
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "pneuma",
+            "seconds": 14,
+            "ticks": null,
+            "r": 60
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "pneuma",
+            "seconds": 17,
+            "ticks": null,
+            "r": 60
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "pneuma",
+            "seconds": 20,
+            "ticks": null,
+            "r": 60
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "pneuma",
+            "seconds": 23,
+            "ticks": null,
+            "r": 60
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "pneuma",
+            "seconds": 26,
+            "ticks": null,
+            "r": 60
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "pneuma",
+            "seconds": 29,
+            "ticks": null,
+            "r": 60
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "pneuma",
+            "seconds": 32,
+            "ticks": null,
+            "r": 60
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "pneuma",
+            "seconds": 35,
+            "ticks": null,
+            "r": 60
+          }
+        ]
+      }
+    ]
+  ],
+  "wz_jup": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 4,
+            "delay": 0.05,
+            "start": 0
+          }
+        ],
+        "totalHits": 4,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.05,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.05,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 7,
+            "delay": 0.05,
+            "start": 0
+          }
+        ],
+        "totalHits": 7,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 8,
+            "delay": 0.05,
+            "start": 0
+          }
+        ],
+        "totalHits": 8,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 9,
+            "delay": 0.05,
+            "start": 0
+          }
+        ],
+        "totalHits": 9,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 10,
+            "delay": 0.05,
+            "start": 0
+          }
+        ],
+        "totalHits": 10,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 11,
+            "delay": 0.05,
+            "start": 0
+          }
+        ],
+        "totalHits": 11,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 12,
+            "delay": 0.05,
+            "start": 0
+          }
+        ],
+        "totalHits": 12,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 13,
+            "delay": 0.05,
+            "start": 0
+          }
+        ],
+        "totalHits": 13,
+        "ground": []
+      }
+    ]
+  ],
+  "wz_heaven": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 4,
+            "delay": 0.12,
+            "start": 0
+          }
+        ],
+        "totalHits": 4,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 4,
+            "delay": 0.12,
+            "start": 0
+          }
+        ],
+        "totalHits": 4,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 4,
+            "delay": 0.12,
+            "start": 0
+          }
+        ],
+        "totalHits": 4,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 4,
+            "delay": 0.12,
+            "start": 0
+          }
+        ],
+        "totalHits": 4,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 4,
+            "delay": 0.12,
+            "start": 0
+          }
+        ],
+        "totalHits": 4,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 4,
+            "delay": 0.12,
+            "start": 0
+          }
+        ],
+        "totalHits": 4,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 4,
+            "delay": 0.12,
+            "start": 0
+          }
+        ],
+        "totalHits": 4,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 4,
+            "delay": 0.12,
+            "start": 0
+          }
+        ],
+        "totalHits": 4,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 4,
+            "delay": 0.12,
+            "start": 0
+          }
+        ],
+        "totalHits": 4,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 4,
+            "delay": 0.12,
+            "start": 0
+          }
+        ],
+        "totalHits": 4,
+        "ground": []
+      }
+    ]
+  ],
+  "wz_quag": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "quag",
+            "seconds": 10,
+            "ticks": null,
+            "r": 100
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "quag",
+            "seconds": 10,
+            "ticks": null,
+            "r": 100
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "quag",
+            "seconds": 10,
+            "ticks": null,
+            "r": 100
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "quag",
+            "seconds": 10,
+            "ticks": null,
+            "r": 100
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "quag",
+            "seconds": 10,
+            "ticks": null,
+            "r": 100
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "quag",
+            "seconds": 10,
+            "ticks": null,
+            "r": 100
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "quag",
+            "seconds": 10,
+            "ticks": null,
+            "r": 100
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "quag",
+            "seconds": 10,
+            "ticks": null,
+            "r": 100
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "quag",
+            "seconds": 10,
+            "ticks": null,
+            "r": 100
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "quag",
+            "seconds": 10,
+            "ticks": null,
+            "r": 100
+          }
+        ]
+      }
+    ]
+  ],
+  "wz_storm": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.25,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": [
+          {
+            "kind": "blizzard",
+            "seconds": 1.6,
+            "ticks": null,
+            "r": 240
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.25,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": [
+          {
+            "kind": "blizzard",
+            "seconds": 1.6,
+            "ticks": null,
+            "r": 240
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.25,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": [
+          {
+            "kind": "blizzard",
+            "seconds": 1.6,
+            "ticks": null,
+            "r": 240
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.25,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": [
+          {
+            "kind": "blizzard",
+            "seconds": 1.6,
+            "ticks": null,
+            "r": 240
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.25,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": [
+          {
+            "kind": "blizzard",
+            "seconds": 1.6,
+            "ticks": null,
+            "r": 240
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.25,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": [
+          {
+            "kind": "blizzard",
+            "seconds": 1.6,
+            "ticks": null,
+            "r": 240
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.25,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": [
+          {
+            "kind": "blizzard",
+            "seconds": 1.6,
+            "ticks": null,
+            "r": 240
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.25,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": [
+          {
+            "kind": "blizzard",
+            "seconds": 1.6,
+            "ticks": null,
+            "r": 240
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.25,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": [
+          {
+            "kind": "blizzard",
+            "seconds": 1.6,
+            "ticks": null,
+            "r": 240
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.25,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": [
+          {
+            "kind": "blizzard",
+            "seconds": 1.6,
+            "ticks": null,
+            "r": 240
+          }
+        ]
+      }
+    ]
+  ],
+  "wz_meteor": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.2,
+            "start": 0.45
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.2,
+            "start": 0.45
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.2,
+            "start": 0.45
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.2,
+            "start": 0.45
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.2,
+            "start": 0.45
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.2,
+            "start": 0.45
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.2,
+            "start": 0.45
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.2,
+            "start": 0.45
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.2,
+            "start": 0.45
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.2,
+            "start": 0.45
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ]
+  ],
+  "wz_lov": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.16,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.16,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.16,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.16,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.16,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.16,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.16,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.16,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.16,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.16,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ]
+  ],
+  "wz_amp": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "wz_mshield": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "sg_spikes": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 4,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 4,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 7,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 7,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 8,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 8,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 9,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 9,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 10,
+            "delay": 0.07,
+            "start": 0
+          }
+        ],
+        "totalHits": 10,
+        "ground": []
+      }
+    ]
+  ],
+  "sg_fire": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "sg_water": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "sg_wind": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "sg_earth": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "sg_auto": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "sg_scroll": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "sg_seal": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "seal",
+            "seconds": 120,
+            "ticks": null,
+            "r": 220
+          }
+        ]
+      }
+    ]
+  ],
+  "hn_blitz": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.09,
+            "start": 0.2
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.09,
+            "start": 0.2
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.09,
+            "start": 0.2
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.09,
+            "start": 0.2
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.09,
+            "start": 0.2
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 4,
+            "delay": 0.09,
+            "start": 0.2
+          }
+        ],
+        "totalHits": 4,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 4,
+            "delay": 0.09,
+            "start": 0.2
+          }
+        ],
+        "totalHits": 4,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.09,
+            "start": 0.2
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.09,
+            "start": 0.2
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 6,
+            "delay": 0.09,
+            "start": 0.2
+          }
+        ],
+        "totalHits": 6,
+        "ground": []
+      }
+    ]
+  ],
+  "hn_mine": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "hn_ankle": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "hn_clay": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": [
+          {
+            "kind": "burn",
+            "seconds": 3,
+            "ticks": 3,
+            "r": 80
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": [
+          {
+            "kind": "burn",
+            "seconds": 3,
+            "ticks": 3,
+            "r": 80
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": [
+          {
+            "kind": "burn",
+            "seconds": 3,
+            "ticks": 3,
+            "r": 80
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": [
+          {
+            "kind": "burn",
+            "seconds": 3,
+            "ticks": 3,
+            "r": 80
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": [
+          {
+            "kind": "burn",
+            "seconds": 3,
+            "ticks": 3,
+            "r": 80
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": [
+          {
+            "kind": "burn",
+            "seconds": 3,
+            "ticks": 3,
+            "r": 80
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": [
+          {
+            "kind": "burn",
+            "seconds": 3,
+            "ticks": 3,
+            "r": 80
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": [
+          {
+            "kind": "burn",
+            "seconds": 3,
+            "ticks": 3,
+            "r": 80
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": [
+          {
+            "kind": "burn",
+            "seconds": 3,
+            "ticks": 3,
+            "r": 80
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": [
+          {
+            "kind": "burn",
+            "seconds": 3,
+            "ticks": 3,
+            "r": 80
+          }
+        ]
+      }
+    ]
+  ],
+  "hn_detect": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "bd_arrow": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "bd_frost": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "bd_swift": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "bd_dusk": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "bd_renew": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "dc_arrow": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "dc_serv": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "dc_kiss": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "dc_scream": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "dc_hum": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "pr_magnus": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 10,
+            "delay": 0.14,
+            "start": 0
+          }
+        ],
+        "totalHits": 10,
+        "ground": [
+          {
+            "kind": "magnus",
+            "seconds": 2,
+            "ticks": null,
+            "r": 200
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 10,
+            "delay": 0.14,
+            "start": 0
+          }
+        ],
+        "totalHits": 10,
+        "ground": [
+          {
+            "kind": "magnus",
+            "seconds": 2,
+            "ticks": null,
+            "r": 200
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 10,
+            "delay": 0.14,
+            "start": 0
+          }
+        ],
+        "totalHits": 10,
+        "ground": [
+          {
+            "kind": "magnus",
+            "seconds": 2,
+            "ticks": null,
+            "r": 200
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 10,
+            "delay": 0.14,
+            "start": 0
+          }
+        ],
+        "totalHits": 10,
+        "ground": [
+          {
+            "kind": "magnus",
+            "seconds": 2,
+            "ticks": null,
+            "r": 200
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 10,
+            "delay": 0.14,
+            "start": 0
+          }
+        ],
+        "totalHits": 10,
+        "ground": [
+          {
+            "kind": "magnus",
+            "seconds": 2,
+            "ticks": null,
+            "r": 200
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 10,
+            "delay": 0.14,
+            "start": 0
+          }
+        ],
+        "totalHits": 10,
+        "ground": [
+          {
+            "kind": "magnus",
+            "seconds": 2,
+            "ticks": null,
+            "r": 200
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 10,
+            "delay": 0.14,
+            "start": 0
+          }
+        ],
+        "totalHits": 10,
+        "ground": [
+          {
+            "kind": "magnus",
+            "seconds": 2,
+            "ticks": null,
+            "r": 200
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 10,
+            "delay": 0.14,
+            "start": 0
+          }
+        ],
+        "totalHits": 10,
+        "ground": [
+          {
+            "kind": "magnus",
+            "seconds": 2,
+            "ticks": null,
+            "r": 200
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 10,
+            "delay": 0.14,
+            "start": 0
+          }
+        ],
+        "totalHits": 10,
+        "ground": [
+          {
+            "kind": "magnus",
+            "seconds": 2,
+            "ticks": null,
+            "r": 200
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 10,
+            "delay": 0.14,
+            "start": 0
+          }
+        ],
+        "totalHits": 10,
+        "ground": [
+          {
+            "kind": "magnus",
+            "seconds": 2,
+            "ticks": null,
+            "r": 200
+          }
+        ]
+      }
+    ]
+  ],
+  "pr_kyrie": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "pr_impos": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "pr_gloria": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "pr_sanct": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "sanct",
+            "seconds": 11,
+            "ticks": null,
+            "r": 100
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "sanct",
+            "seconds": 12,
+            "ticks": null,
+            "r": 100
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "sanct",
+            "seconds": 13,
+            "ticks": null,
+            "r": 100
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "sanct",
+            "seconds": 14,
+            "ticks": null,
+            "r": 100
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "sanct",
+            "seconds": 15,
+            "ticks": null,
+            "r": 100
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "sanct",
+            "seconds": 16,
+            "ticks": null,
+            "r": 100
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "sanct",
+            "seconds": 17,
+            "ticks": null,
+            "r": 100
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "sanct",
+            "seconds": 18,
+            "ticks": null,
+            "r": 100
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "sanct",
+            "seconds": 19,
+            "ticks": null,
+            "r": 100
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "sanct",
+            "seconds": 20,
+            "ticks": null,
+            "r": 100
+          }
+        ]
+      }
+    ]
+  ],
+  "pr_asper": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "pr_safety": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "safety",
+            "seconds": 10,
+            "ticks": null,
+            "r": 60
+          }
+        ]
+      }
+    ]
+  ],
+  "pr_resu": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "pr_pneuma": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "pneuma",
+            "seconds": 8,
+            "ticks": null,
+            "r": 60
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "pneuma",
+            "seconds": 11,
+            "ticks": null,
+            "r": 60
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "pneuma",
+            "seconds": 14,
+            "ticks": null,
+            "r": 60
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "pneuma",
+            "seconds": 17,
+            "ticks": null,
+            "r": 60
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "pneuma",
+            "seconds": 20,
+            "ticks": null,
+            "r": 60
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "pneuma",
+            "seconds": 23,
+            "ticks": null,
+            "r": 60
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "pneuma",
+            "seconds": 26,
+            "ticks": null,
+            "r": 60
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "pneuma",
+            "seconds": 29,
+            "ticks": null,
+            "r": 60
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "pneuma",
+            "seconds": 32,
+            "ticks": null,
+            "r": 60
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "pneuma",
+            "seconds": 35,
+            "ticks": null,
+            "r": 60
+          }
+        ]
+      }
+    ]
+  ],
+  "mo_orbs": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "mo_shot": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 2,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 2,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 3,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 3,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 4,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 4,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 4,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 4,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.08,
+            "start": 0
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ]
+  ],
+  "mo_step": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "mo_palm": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "mo_asura": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "bs_hammer": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "bs_frenzy": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "bs_over": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "bs_true": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "al_acid": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "al_bomb": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "firebomb",
+            "seconds": 5,
+            "ticks": 3,
+            "r": 80
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "firebomb",
+            "seconds": 5,
+            "ticks": 3,
+            "r": 80
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "firebomb",
+            "seconds": 5,
+            "ticks": 3,
+            "r": 80
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "firebomb",
+            "seconds": 5,
+            "ticks": 4,
+            "r": 80
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "firebomb",
+            "seconds": 5,
+            "ticks": 4,
+            "r": 80
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "firebomb",
+            "seconds": 5,
+            "ticks": 4,
+            "r": 80
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "firebomb",
+            "seconds": 5,
+            "ticks": 5,
+            "r": 80
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "firebomb",
+            "seconds": 5,
+            "ticks": 5,
+            "r": 80
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "firebomb",
+            "seconds": 5,
+            "ticks": 5,
+            "r": 80
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": [
+          {
+            "kind": "firebomb",
+            "seconds": 5,
+            "ticks": 6,
+            "r": 80
+          }
+        ]
+      }
+    ]
+  ],
+  "al_potion": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "al_coat": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "al_berserk": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "as_sonic": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 8,
+            "delay": 0.04,
+            "start": 0
+          }
+        ],
+        "totalHits": 8,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 8,
+            "delay": 0.04,
+            "start": 0
+          }
+        ],
+        "totalHits": 8,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 8,
+            "delay": 0.04,
+            "start": 0
+          }
+        ],
+        "totalHits": 8,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 8,
+            "delay": 0.04,
+            "start": 0
+          }
+        ],
+        "totalHits": 8,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 8,
+            "delay": 0.04,
+            "start": 0
+          }
+        ],
+        "totalHits": 8,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 8,
+            "delay": 0.04,
+            "start": 0
+          }
+        ],
+        "totalHits": 8,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 8,
+            "delay": 0.04,
+            "start": 0
+          }
+        ],
+        "totalHits": 8,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 8,
+            "delay": 0.04,
+            "start": 0
+          }
+        ],
+        "totalHits": 8,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 8,
+            "delay": 0.04,
+            "start": 0
+          }
+        ],
+        "totalHits": 8,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 8,
+            "delay": 0.04,
+            "start": 0
+          }
+        ],
+        "totalHits": 8,
+        "ground": []
+      }
+    ]
+  ],
+  "as_cloak": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "as_reaper": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "as_venom": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "as_cloud": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "ro_back": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "ro_raid": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 1,
+            "delay": 0.06,
+            "start": 0
+          }
+        ],
+        "totalHits": 1,
+        "ground": []
+      }
+    ]
+  ],
+  "ro_strip": [
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [],
+        "totalHits": 0,
+        "ground": []
+      }
+    ]
+  ],
+  "dk_wyrm": [
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.12,
+            "start": 0.3
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.12,
+            "start": 0.3
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.12,
+            "start": 0.3
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.12,
+            "start": 0.3
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.12,
+            "start": 0.3
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.12,
+            "start": 0.3
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.12,
+            "start": 0.3
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.12,
+            "start": 0.3
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.12,
+            "start": 0.3
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ],
+    [
+      {
+        "size": 0,
+        "calls": [
+          {
+            "hits": 5,
+            "delay": 0.12,
+            "start": 0.3
+          }
+        ],
+        "totalHits": 5,
+        "ground": []
+      }
+    ]
+  ]
+}
