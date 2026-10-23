@@ -1,6 +1,6 @@
 {
   "version": 49,
-  "sha256": "5c17ccaf7040ae765bcf7dd7ded72e589eaceecd8b3c6b3ef10564236edfde68",
+  "sha256": "056edf74e0ea38ccdb8d86a22bb4e87332e628a914578a822dfba633d69f0338",
   "townBefore": [
     96,
     96
@@ -147,14 +147,5 @@
   "walkBaseTilesPerSecond": 5,
   "costumeIcons": 10,
   "materials": 32,
-  "resourceSprites": 6,
-  "unchangedCharacterCostumeMonsterVFX": [
-    "window.SHEET_DATA=",
-    "window.COSTUME36_DATA=",
-    "window.MONSTER_DATA=",
-    "const HITBOX42_DATA=",
-    "window.VFX47_LIBRARY=",
-    "window.SKILL_FX_DATA=",
-    "window.CAST_FX_DATA="
-  ]
+  "resourceSprites": 6
 }

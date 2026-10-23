@@ -1,7 +1,7 @@
 const Combat49=(()=>{
- const radius0=MonsterHitbox42.radius,stable=new WeakMap();MonsterHitbox42.radius=function(m){if(!m?.isMon)return radius0(m);if(!stable.has(m)){if(m.pvp&&m.d?.duelCls){const d=SheetPlayer.clips[m.d.duelCls]?.['S/idle']?.[0],b=d&&HITBOX42_DATA.characters[m.d.duelCls]?.[d.rect.join(',')]?.box;stable.set(m,b?Math.max(8,(b[2]-b[0])*.75/2):15);}else stable.set(m,radius0(m));}return stable.get(m);};
+ const radius0=MonsterHitbox42.radius,stable=new WeakMap(),reached=new WeakMap();SKIP.add('_reach49');SKIP.add('_pp');MonsterHitbox42.radius=function(m){if(!m?.isMon)return radius0(m);if(!stable.has(m)){if(m.pvp&&m.d?.duelCls){const d=SheetPlayer.clips[m.d.duelCls]?.['S/idle']?.[0],b=d&&HITBOX42_DATA.characters[m.d.duelCls]?.[d.rect.join(',')]?.box;stable.set(m,b?Math.max(8,(b[2]-b[0])*.75/2):15);}else stable.set(m,radius0(m));}return stable.get(m);};
  function close(u,t,reach,spd,dt){const dd=dist(u,t);if(dd<=reach&&lineClear(u.x,u.y,t.x,t.y))return false;let x=t.x,y=t.y;if(lineClear(u.x,u.y,x,y)&&dd>reach){x=u.x+(t.x-u.x)*(dd-reach)/dd;y=u.y+(t.y-u.y)*(dd-reach)/dd;}return moveToward(u,x,y,spd,dt);}
- function approach(u,t,reach,spd,dt){const locked=u._reach49===t,clear=lineClear(u.x,u.y,t.x,t.y),dd=dist(u,t);if(clear&&dd<=reach+(locked?8:0)){u._reach49=t;return false;}u._reach49=null;return close(u,t,Math.max(10,reach-5),spd,dt);}
+ function approach(u,t,reach,spd,dt){const locked=reached.get(u)===t,clear=lineClear(u.x,u.y,t.x,t.y),dd=dist(u,t);if(clear&&dd<=reach+(locked?8:0)){reached.set(u,t);return false;}reached.delete(u);return close(u,t,Math.max(10,reach-5),spd,dt);}
  return{version:49,close,approach};
 })();
 const City49=(()=>{

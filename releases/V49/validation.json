@@ -1,5 +1,5 @@
 {
-  "htmlSha256": "5c17ccaf7040ae765bcf7dd7ded72e589eaceecd8b3c6b3ef10564236edfde68",
+  "htmlSha256": "056edf74e0ea38ccdb8d86a22bb4e87332e628a914578a822dfba633d69f0338",
   "town": {
     "cols": 80,
     "rows": 80,
@@ -165,6 +165,7 @@
   "singleAndTenDrawPrices": true,
   "insufficientFundsNoMutation": true,
   "costumeEquip": true,
+  "saveAfterCombatAndCostumeReward": true,
   "buildingBehindAlpha": 0.28,
   "frontAlpha": 1,
   "unbuffedWalkPixelsPerSecond": 200,
