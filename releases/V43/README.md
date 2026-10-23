@@ -12,4 +12,4 @@ Runevale V43 — เดินปกติ / โจมตี / VFX เพิ่�
 
 ทดสอบ172ทิศทางตัวละคร 330คู่คลาส/คอสตูม VFX5092เฟรม สกิลใช้งาน105สกิลและติดตัว41สกิล รวมการเดิน/ร่ายจริงและขนาดจอมือถือจำลองในChromium (ไม่ใช่มือถือจริง)
 
-https://github.com/phuthanet9870-cpu/RAG/releases/tag/runevale-smooth-animations-v43
+ดาวน์โหลดเกม: https://phuthanet9870-cpu.github.io/RAG/v43/
