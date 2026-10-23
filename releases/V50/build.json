@@ -1,0 +1,12 @@
+{
+  "version": 50,
+  "sha256": "12477c5a6f0b56597f6f79704c09185ffed1da153c689f37437e2a9e59dd7f4e",
+  "randomIndependentKits": true,
+  "underfilledModes": [
+    1,
+    3,
+    5,
+    10
+  ],
+  "persistentMercenaryKits": true
+}

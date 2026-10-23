@@ -1,0 +1,244 @@
+{
+  "htmlSha256": "12477c5a6f0b56597f6f79704c09185ffed1da153c689f37437e2a9e59dd7f4e",
+  "classes": [
+    {
+      "cls": "novice",
+      "slots": 11,
+      "hp": 3324,
+      "atk": 855.4000000000001,
+      "matk": 68.8,
+      "def": 319.48
+    },
+    {
+      "cls": "sword",
+      "slots": 11,
+      "hp": 9903,
+      "atk": 861,
+      "matk": 118.8,
+      "def": 363.52000000000004
+    },
+    {
+      "cls": "mage",
+      "slots": 11,
+      "hp": 4092,
+      "atk": 312.8666666666667,
+      "matk": 1319.8666666666666,
+      "def": 360.94000000000005
+    },
+    {
+      "cls": "archer",
+      "slots": 11,
+      "hp": 5208,
+      "atk": 886.1533333333334,
+      "matk": 190.93333333333334,
+      "def": 298.81
+    },
+    {
+      "cls": "acolyte",
+      "slots": 11,
+      "hp": 6449,
+      "atk": 355.1466666666667,
+      "matk": 1446.3066666666666,
+      "def": 386.57300000000004
+    },
+    {
+      "cls": "merchant",
+      "slots": 11,
+      "hp": 8237,
+      "atk": 1031.3866666666668,
+      "matk": 117.06666666666666,
+      "def": 311.1
+    },
+    {
+      "cls": "thief",
+      "slots": 11,
+      "hp": 7042,
+      "atk": 829.1666666666667,
+      "matk": 95.26666666666667,
+      "def": 298.83000000000004
+    },
+    {
+      "cls": "knight",
+      "slots": 11,
+      "hp": 18376,
+      "atk": 1137.6333333333334,
+      "matk": 121.93333333333334,
+      "def": 310.47
+    },
+    {
+      "cls": "crusader",
+      "slots": 12,
+      "hp": 19943,
+      "atk": 1056.5866666666666,
+      "matk": 92.26666666666667,
+      "def": 374.61
+    },
+    {
+      "cls": "wizard",
+      "slots": 11,
+      "hp": 6448,
+      "atk": 312.54,
+      "matk": 2063.544,
+      "def": 414.216
+    },
+    {
+      "cls": "sage",
+      "slots": 11,
+      "hp": 5402,
+      "atk": 544.5333333333334,
+      "matk": 1550.872,
+      "def": 368.37600000000003
+    },
+    {
+      "cls": "hunter",
+      "slots": 11,
+      "hp": 6994,
+      "atk": 990.6400000000001,
+      "matk": 191.8,
+      "def": 276.45
+    },
+    {
+      "cls": "bard",
+      "slots": 11,
+      "hp": 6626,
+      "atk": 919.6,
+      "matk": 217.6,
+      "def": 318.77
+    },
+    {
+      "cls": "dancer",
+      "slots": 11,
+      "hp": 6190,
+      "atk": 1052.04,
+      "matk": 158.4,
+      "def": 291.32
+    },
+    {
+      "cls": "priest",
+      "slots": 11,
+      "hp": 7403,
+      "atk": 289.56,
+      "matk": 1530.96,
+      "def": 364.144
+    },
+    {
+      "cls": "monk",
+      "slots": 11,
+      "hp": 10460,
+      "atk": 1026.4666666666667,
+      "matk": 121.26666666666667,
+      "def": 354.7060000000001
+    },
+    {
+      "cls": "blacksmith",
+      "slots": 11,
+      "hp": 11913,
+      "atk": 1201.4666666666667,
+      "matk": 109.86666666666667,
+      "def": 345.82000000000005
+    },
+    {
+      "cls": "alchemist",
+      "slots": 11,
+      "hp": 10986,
+      "atk": 1137.26,
+      "matk": 82.2,
+      "def": 340.56
+    },
+    {
+      "cls": "assassin",
+      "slots": 11,
+      "hp": 8591,
+      "atk": 1026.2133333333334,
+      "matk": 89.93333333333334,
+      "def": 307.23
+    },
+    {
+      "cls": "rogue",
+      "slots": 11,
+      "hp": 9683,
+      "atk": 938.4333333333334,
+      "matk": 76.33333333333334,
+      "def": 325.87
+    },
+    {
+      "cls": "dk",
+      "slots": 11,
+      "hp": 21939,
+      "atk": 1221.64,
+      "matk": 87.6,
+      "def": 366.32000000000005
+    }
+  ],
+  "distinctKitsIn20Rolls": 20,
+  "entries": [
+    {
+      "mode": 1,
+      "mercenaries": 0,
+      "playerTeam": 1,
+      "shadowTeam": 1
+    },
+    {
+      "mode": 3,
+      "mercenaries": 0,
+      "playerTeam": 1,
+      "shadowTeam": 3
+    },
+    {
+      "mode": 3,
+      "mercenaries": 1,
+      "playerTeam": 2,
+      "shadowTeam": 3
+    },
+    {
+      "mode": 3,
+      "mercenaries": 2,
+      "playerTeam": 3,
+      "shadowTeam": 3
+    },
+    {
+      "mode": 5,
+      "mercenaries": 0,
+      "playerTeam": 1,
+      "shadowTeam": 5
+    },
+    {
+      "mode": 5,
+      "mercenaries": 1,
+      "playerTeam": 2,
+      "shadowTeam": 5
+    },
+    {
+      "mode": 5,
+      "mercenaries": 4,
+      "playerTeam": 5,
+      "shadowTeam": 5
+    },
+    {
+      "mode": 10,
+      "mercenaries": 0,
+      "playerTeam": 1,
+      "shadowTeam": 10
+    },
+    {
+      "mode": 10,
+      "mercenaries": 1,
+      "playerTeam": 2,
+      "shadowTeam": 10
+    },
+    {
+      "mode": 10,
+      "mercenaries": 9,
+      "playerTeam": 10,
+      "shadowTeam": 10
+    }
+  ],
+  "mercenaryKitSurvivesReloadAndArena": true,
+  "shadowSkillsInLiveSolo10Mode": true,
+  "gmAuthenticatedReroll": true,
+  "mobileViewports": [
+    390,
+    844
+  ],
+  "browserErrors": []
+}
