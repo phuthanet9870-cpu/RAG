@@ -1,0 +1,341 @@
+{
+  "htmlSha256": "5c17ccaf7040ae765bcf7dd7ded72e589eaceecd8b3c6b3ef10564236edfde68",
+  "town": {
+    "cols": 80,
+    "rows": 80,
+    "npcs": [
+      {
+        "role": "shop",
+        "x": 799,
+        "y": 1398,
+        "body": "merchant",
+        "blocked": false,
+        "path": true
+      },
+      {
+        "role": "smith",
+        "x": 2382,
+        "y": 1405,
+        "body": "white_smith",
+        "blocked": false,
+        "path": true
+      },
+      {
+        "role": "enchant",
+        "x": 2816,
+        "y": 1312,
+        "body": "storm_weaver",
+        "blocked": false,
+        "path": true
+      },
+      {
+        "role": "cardsmith",
+        "x": 2816,
+        "y": 1982,
+        "body": "life_creator",
+        "blocked": false,
+        "path": true
+      },
+      {
+        "role": "stable",
+        "x": 366,
+        "y": 632,
+        "body": "hunter",
+        "blocked": false,
+        "path": true
+      },
+      {
+        "role": "reset",
+        "x": 780,
+        "y": 1980,
+        "body": "ice_scholar",
+        "blocked": false,
+        "path": true
+      },
+      {
+        "role": "storage",
+        "x": 798,
+        "y": 2572,
+        "body": "blacksmith",
+        "blocked": false,
+        "path": true
+      },
+      {
+        "role": "warp",
+        "x": 2382,
+        "y": 2555,
+        "body": "mage",
+        "blocked": false,
+        "path": true
+      },
+      {
+        "role": "guild",
+        "x": 1215,
+        "y": 3072,
+        "body": "honor_guardian",
+        "blocked": false,
+        "path": true
+      },
+      {
+        "role": "merc",
+        "x": 1968,
+        "y": 3064,
+        "body": "death_knight",
+        "blocked": false,
+        "path": true
+      },
+      {
+        "role": "market",
+        "x": 366,
+        "y": 2095,
+        "body": "bard",
+        "blocked": false,
+        "path": true
+      },
+      {
+        "role": "tower",
+        "x": 2832,
+        "y": 2448,
+        "body": "wizard",
+        "blocked": false,
+        "path": true
+      },
+      {
+        "role": "training",
+        "x": 2984,
+        "y": 2738,
+        "body": "fist_champion",
+        "blocked": false,
+        "path": true
+      },
+      {
+        "role": "eggs",
+        "x": 2398,
+        "y": 3072,
+        "body": "dancer",
+        "blocked": false,
+        "path": true
+      },
+      {
+        "role": "arena",
+        "x": 2551,
+        "y": 662,
+        "body": "crusader",
+        "blocked": false,
+        "path": true
+      },
+      {
+        "role": "mail",
+        "x": 382,
+        "y": 1522,
+        "body": "archer",
+        "blocked": false,
+        "path": true
+      },
+      {
+        "role": "token",
+        "x": 898,
+        "y": 638,
+        "body": "knight",
+        "blocked": false,
+        "path": true
+      },
+      {
+        "role": "collector",
+        "x": 366,
+        "y": 2482,
+        "body": "rogue",
+        "blocked": false,
+        "path": true
+      },
+      {
+        "role": "costumegacha",
+        "x": 382,
+        "y": 2978,
+        "body": "c_aurora",
+        "blocked": false,
+        "path": true
+      }
+    ],
+    "speed": 200,
+    "base": 200,
+    "houses": 18
+  },
+  "visibleNPCSpritesAtBoot": 19,
+  "singleAndTenDrawPrices": true,
+  "insufficientFundsNoMutation": true,
+  "costumeEquip": true,
+  "buildingBehindAlpha": 0.28,
+  "frontAlpha": 1,
+  "unbuffedWalkPixelsPerSecond": 200,
+  "combat": {
+    "monsters": 76,
+    "worstIdleRangeJitter": 0
+  },
+  "wallSeparation": {
+    "blocked": 0
+  },
+  "mapResources": [
+    {
+      "key": "0",
+      "resources": 0,
+      "spawnFree": true
+    },
+    {
+      "key": "1",
+      "resources": 10,
+      "spawnFree": true
+    },
+    {
+      "key": "2",
+      "resources": 9,
+      "spawnFree": true
+    },
+    {
+      "key": "3",
+      "resources": 12,
+      "spawnFree": true
+    },
+    {
+      "key": "4",
+      "resources": 13,
+      "spawnFree": true
+    },
+    {
+      "key": "5",
+      "resources": 10,
+      "spawnFree": true
+    },
+    {
+      "key": "6",
+      "resources": 10,
+      "spawnFree": true
+    },
+    {
+      "key": "7",
+      "resources": 9,
+      "spawnFree": true
+    },
+    {
+      "key": "8",
+      "resources": 10,
+      "spawnFree": true
+    },
+    {
+      "key": "9",
+      "resources": 9,
+      "spawnFree": true
+    },
+    {
+      "key": "10",
+      "resources": 12,
+      "spawnFree": true
+    },
+    {
+      "key": "11",
+      "resources": 12,
+      "spawnFree": true
+    },
+    {
+      "key": "12",
+      "resources": 9,
+      "spawnFree": true
+    },
+    {
+      "key": "13",
+      "resources": 11,
+      "spawnFree": true
+    },
+    {
+      "key": "14",
+      "resources": 11,
+      "spawnFree": true
+    },
+    {
+      "key": "15",
+      "resources": 0,
+      "spawnFree": true
+    },
+    {
+      "key": "16",
+      "resources": 10,
+      "spawnFree": true
+    },
+    {
+      "key": "17",
+      "resources": 12,
+      "spawnFree": true
+    },
+    {
+      "key": "18",
+      "resources": 9,
+      "spawnFree": true
+    },
+    {
+      "key": "19",
+      "resources": 10,
+      "spawnFree": true
+    },
+    {
+      "key": "20",
+      "resources": 12,
+      "spawnFree": true
+    },
+    {
+      "key": "21",
+      "resources": 10,
+      "spawnFree": true
+    },
+    {
+      "key": "22",
+      "resources": 10,
+      "spawnFree": true
+    },
+    {
+      "key": "23",
+      "resources": 13,
+      "spawnFree": true
+    },
+    {
+      "key": "24",
+      "resources": 9,
+      "spawnFree": true
+    },
+    {
+      "key": "r_eclipse",
+      "resources": 0,
+      "spawnFree": true
+    },
+    {
+      "key": "r_tomb",
+      "resources": 0,
+      "spawnFree": true
+    },
+    {
+      "key": "r_tower",
+      "resources": 0,
+      "spawnFree": true
+    },
+    {
+      "key": "r_training",
+      "resources": 0,
+      "spawnFree": true
+    },
+    {
+      "key": "r_arena",
+      "resources": 0,
+      "spawnFree": true
+    },
+    {
+      "key": "r_castle",
+      "resources": 0,
+      "spawnFree": true
+    }
+  ],
+  "gmAuthenticationAndResourceSpawn": true,
+  "mobileViewports": [
+    390,
+    844
+  ],
+  "browserErrors": []
+}

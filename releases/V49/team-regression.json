@@ -1,0 +1,472 @@
+{
+  "classes": [
+    {
+      "cls": "novice",
+      "HP": 3057,
+      "ATK": 432.4,
+      "MATK": 66.4,
+      "weapon": "dagger",
+      "skills": 2
+    },
+    {
+      "cls": "sword",
+      "HP": 8667,
+      "ATK": 472.4,
+      "MATK": 66.4,
+      "weapon": "dagger",
+      "skills": 8
+    },
+    {
+      "cls": "mage",
+      "HP": 3555,
+      "ATK": 71.13333333333333,
+      "MATK": 1018.1333333333333,
+      "weapon": "staff",
+      "skills": 11
+    },
+    {
+      "cls": "archer",
+      "HP": 4459,
+      "ATK": 555.3333333333334,
+      "MATK": 131.53333333333333,
+      "weapon": "bow",
+      "skills": 7
+    },
+    {
+      "cls": "acolyte",
+      "HP": 5559,
+      "ATK": 71.13333333333333,
+      "MATK": 988.1333333333333,
+      "weapon": "staff",
+      "skills": 9
+    },
+    {
+      "cls": "merchant",
+      "HP": 7637,
+      "ATK": 477.4,
+      "MATK": 66.4,
+      "weapon": "axe1",
+      "skills": 8
+    },
+    {
+      "cls": "thief",
+      "HP": 6034,
+      "ATK": 472.4,
+      "MATK": 66.4,
+      "weapon": "dagger",
+      "skills": 9
+    },
+    {
+      "cls": "knight",
+      "HP": 16510,
+      "ATK": 480.4,
+      "MATK": 66.4,
+      "weapon": "sword2",
+      "skills": 31
+    },
+    {
+      "cls": "crusader",
+      "HP": 17472,
+      "ATK": 476.4,
+      "MATK": 66.4,
+      "weapon": "spear1",
+      "skills": 31
+    },
+    {
+      "cls": "wizard",
+      "HP": 4504,
+      "ATK": 71.13333333333333,
+      "MATK": 1225.36,
+      "weapon": "staff",
+      "skills": 30
+    },
+    {
+      "cls": "sage",
+      "HP": 5454,
+      "ATK": 107.13333333333333,
+      "MATK": 1180.96,
+      "weapon": "book",
+      "skills": 30
+    },
+    {
+      "cls": "hunter",
+      "HP": 6142,
+      "ATK": 555.3333333333334,
+      "MATK": 131.53333333333333,
+      "weapon": "bow",
+      "skills": 25
+    },
+    {
+      "cls": "bard",
+      "HP": 5768,
+      "ATK": 554.3333333333334,
+      "MATK": 131.53333333333333,
+      "weapon": "instr",
+      "skills": 25
+    },
+    {
+      "cls": "dancer",
+      "HP": 5768,
+      "ATK": 554.3333333333334,
+      "MATK": 131.53333333333333,
+      "weapon": "whip",
+      "skills": 25
+    },
+    {
+      "cls": "priest",
+      "HP": 6509,
+      "ATK": 71.13333333333333,
+      "MATK": 988.1333333333333,
+      "weapon": "staff",
+      "skills": 25
+    },
+    {
+      "cls": "monk",
+      "HP": 9698,
+      "ATK": 464.4,
+      "MATK": 66.4,
+      "weapon": "knuckle",
+      "skills": 25
+    },
+    {
+      "cls": "blacksmith",
+      "HP": 10728,
+      "ATK": 542.4,
+      "MATK": 66.4,
+      "weapon": "axe2",
+      "skills": 21
+    },
+    {
+      "cls": "alchemist",
+      "HP": 8667,
+      "ATK": 497.4,
+      "MATK": 66.4,
+      "weapon": "axe1",
+      "skills": 21
+    },
+    {
+      "cls": "assassin",
+      "HP": 8667,
+      "ATK": 467.4,
+      "MATK": 66.4,
+      "weapon": "katar",
+      "skills": 23
+    },
+    {
+      "cls": "rogue",
+      "HP": 8667,
+      "ATK": 472.4,
+      "MATK": 66.4,
+      "weapon": "dagger",
+      "skills": 23
+    },
+    {
+      "cls": "dk",
+      "HP": 19258,
+      "ATK": 481.4,
+      "MATK": 66.4,
+      "weapon": "spear2",
+      "skills": 32
+    }
+  ],
+  "modes": [
+    {
+      "n": 1,
+      "blue": 1,
+      "red": 1
+    },
+    {
+      "n": 3,
+      "blue": 3,
+      "red": 3
+    },
+    {
+      "n": 5,
+      "blue": 5,
+      "red": 5
+    },
+    {
+      "n": 10,
+      "blue": 10,
+      "red": 10
+    }
+  ],
+  "deep": {
+    "classAICombinations": 42,
+    "casts": 964,
+    "noFriendlyFire": true,
+    "teamBuffIsolation": true,
+    "playerCanSpectate": true,
+    "lossOnce": true,
+    "resurrection": true
+  },
+  "partyTotal": 10,
+  "rosterCap": 10,
+  "realClassSkillCasts": [
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "cr_heal",
+      "sp": 40,
+      "at": 418.72489999989307
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "firstaid",
+      "sp": 3,
+      "at": 418.94989999989286
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "sw_prov",
+      "sp": 13,
+      "at": 419.17489999989266
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "sw_will",
+      "sp": 19,
+      "at": 419.39989999989245
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "cr_guard",
+      "sp": 32,
+      "at": 419.62489999989225
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "cr_heal",
+      "sp": 40,
+      "at": 419.84989999989205
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "cr_def",
+      "sp": 40,
+      "at": 420.07489999989184
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "cr_oath",
+      "sp": 55,
+      "at": 420.29989999989164
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "cr_heal",
+      "sp": 40,
+      "at": 421.1248999998909
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "dk_wyrm",
+      "sp": 70,
+      "at": 421.3498999998907
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "sw_bash",
+      "sp": 13,
+      "at": 421.5748999998905
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "sw_burst",
+      "sp": 25,
+      "at": 421.7998999998903
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "cr_heal",
+      "sp": 40,
+      "at": 422.27489999988984
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "kn_pierce",
+      "sp": 7,
+      "at": 422.49989999988964
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "kn_brand",
+      "sp": 22,
+      "at": 422.72489999988943
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "sw_bash",
+      "sp": 13,
+      "at": 423.37489999988884
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "kn_pierce",
+      "sp": 7,
+      "at": 423.59989999988863
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "kn_charge",
+      "sp": 40,
+      "at": 423.82489999988843
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "cr_cross",
+      "sp": 21,
+      "at": 424.24989999988804
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "kn_pierce",
+      "sp": 7,
+      "at": 424.47489999988784
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "sw_bash",
+      "sp": 13,
+      "at": 424.69989999988763
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "kn_brand",
+      "sp": 22,
+      "at": 424.92489999988743
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "kn_pierce",
+      "sp": 7,
+      "at": 425.57489999988684
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "cr_cross",
+      "sp": 21,
+      "at": 425.79989999988663
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "sw_bash",
+      "sp": 13,
+      "at": 426.02489999988643
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "kn_charge",
+      "sp": 40,
+      "at": 426.2498999998862
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "kn_pierce",
+      "sp": 7,
+      "at": 426.67489999988584
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "cr_cross",
+      "sp": 21,
+      "at": 426.89989999988563
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "kn_brand",
+      "sp": 22,
+      "at": 427.12489999988543
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "dk_wyrm",
+      "sp": 70,
+      "at": 427.77489999988484
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "sw_bash",
+      "sp": 13,
+      "at": 427.99989999988463
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "sw_burst",
+      "sp": 25,
+      "at": 428.2248999998844
+    },
+    {
+      "kind": "cast",
+      "cls": "dk",
+      "team": "shadow",
+      "id": "kn_pierce",
+      "sp": 7,
+      "at": 428.699899999884
+    }
+  ],
+  "browserErrors": []
+}

@@ -1,0 +1,160 @@
+{
+  "version": 49,
+  "sha256": "5c17ccaf7040ae765bcf7dd7ded72e589eaceecd8b3c6b3ef10564236edfde68",
+  "townBefore": [
+    96,
+    96
+  ],
+  "townAfter": [
+    80,
+    80
+  ],
+  "npcHomes": {
+    "shop": {
+      "asset": "town-street-house-green",
+      "door": [
+        799,
+        1398
+      ]
+    },
+    "smith": {
+      "asset": "town-street-house-red",
+      "door": [
+        2382,
+        1405
+      ]
+    },
+    "enchant": {
+      "asset": "town-street-house-blue",
+      "door": [
+        2816,
+        1312
+      ]
+    },
+    "cardsmith": {
+      "asset": "town-street-house-green",
+      "door": [
+        2816,
+        1982
+      ]
+    },
+    "stable": {
+      "asset": "town-street-house-blue",
+      "door": [
+        366,
+        632
+      ]
+    },
+    "reset": {
+      "asset": "town-civic-bakery",
+      "door": [
+        800,
+        1974
+      ]
+    },
+    "storage": {
+      "asset": "town-street-house-red",
+      "door": [
+        798,
+        2572
+      ]
+    },
+    "warp": {
+      "asset": "town-street-house-red",
+      "door": [
+        2382,
+        2555
+      ]
+    },
+    "guild": {
+      "asset": "town-street-house-red",
+      "door": [
+        1215,
+        3072
+      ]
+    },
+    "merc": {
+      "asset": "town-street-house-green",
+      "door": [
+        1968,
+        3064
+      ]
+    },
+    "market": {
+      "asset": "town-street-house-blue",
+      "door": [
+        366,
+        2095
+      ]
+    },
+    "tower": {
+      "asset": "town-street-house-green",
+      "door": [
+        2832,
+        2448
+      ]
+    },
+    "training": {
+      "asset": "town-street-house-red",
+      "door": [
+        2984,
+        2738
+      ]
+    },
+    "eggs": {
+      "asset": "town-street-house-red",
+      "door": [
+        2398,
+        3072
+      ]
+    },
+    "arena": {
+      "asset": "town-street-house-blue",
+      "door": [
+        2551,
+        662
+      ]
+    },
+    "mail": {
+      "asset": "town-street-house-red",
+      "door": [
+        382,
+        1522
+      ]
+    },
+    "token": {
+      "asset": "town-street-house-red",
+      "door": [
+        898,
+        638
+      ]
+    },
+    "collector": {
+      "asset": "town-street-house-green",
+      "door": [
+        366,
+        2482
+      ]
+    },
+    "costumegacha": {
+      "asset": "town-street-house-blue",
+      "door": [
+        382,
+        2978
+      ]
+    }
+  },
+  "walkBaseTilesPerSecond": 5,
+  "costumeIcons": 10,
+  "materials": 32,
+  "resourceSprites": 6,
+  "unchangedCharacterCostumeMonsterVFX": [
+    "window.SHEET_DATA=",
+    "window.COSTUME36_DATA=",
+    "window.MONSTER_DATA=",
+    "const HITBOX42_DATA=",
+    "window.VFX47_LIBRARY=",
+    "window.SKILL_FX_DATA=",
+    "window.CAST_FX_DATA="
+  ]
+}
