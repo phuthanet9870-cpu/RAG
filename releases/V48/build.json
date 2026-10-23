@@ -1,0 +1,26 @@
+{
+  "version": 48,
+  "sha256": "09c71852339a21332f1609ef2bb44ed01f25405eec4a507d05d3fe6d28e7c95a",
+  "unchangedAssetLibraries": [
+    "window.SHEET_DATA=",
+    "window.COSTUME36_DATA=",
+    "window.MONSTER_DATA=",
+    "const WORLD33_PLANS=",
+    "const WORLD33_PROPS=",
+    "const WORLD33_PLACEMENTS=",
+    "const HITBOX42_DATA=",
+    "window.VFX47_LIBRARY=",
+    "window.SKILL_FX_DATA=",
+    "window.CAST_FX_DATA="
+  ],
+  "classCount": 21,
+  "modes": [
+    1,
+    3,
+    5,
+    10
+  ],
+  "hiredRosterCap": 10,
+  "activePartyCapIncludingPlayer": 10,
+  "usesExistingSkillExecutors": true
+}
