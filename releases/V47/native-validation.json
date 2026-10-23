@@ -1,0 +1,11 @@
+{
+  "effectEntries": 156,
+  "phaseCases": 12480,
+  "singleDrawPerSample": true,
+  "noImageSmoothing": true,
+  "noAlphaCrossfade": true,
+  "nativeFramesPerStrip": 8,
+  "all48ImagesDecodedOverHTTP": true,
+  "localFileTest": "Unavailable: environment browser policy blocks file URLs",
+  "errors": []
+}

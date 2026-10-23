@@ -1,0 +1,477 @@
+{
+  "realExecutions": [
+    {
+      "id": "mg_fire",
+      "lv": 1,
+      "size": 0,
+      "hits": 1,
+      "flights": 1,
+      "firstDamage": 0.233
+    },
+    {
+      "id": "mg_fire",
+      "lv": 3,
+      "size": 0,
+      "hits": 3,
+      "flights": 3,
+      "firstDamage": 0.233
+    },
+    {
+      "id": "mg_fire",
+      "lv": 10,
+      "size": 0,
+      "hits": 10,
+      "flights": 10,
+      "firstDamage": 0.233
+    },
+    {
+      "id": "mg_cold",
+      "lv": 1,
+      "size": 0,
+      "hits": 1,
+      "flights": 1,
+      "firstDamage": 0.233
+    },
+    {
+      "id": "mg_cold",
+      "lv": 3,
+      "size": 0,
+      "hits": 3,
+      "flights": 3,
+      "firstDamage": 0.233
+    },
+    {
+      "id": "mg_cold",
+      "lv": 10,
+      "size": 0,
+      "hits": 10,
+      "flights": 10,
+      "firstDamage": 0.233
+    },
+    {
+      "id": "mg_light",
+      "lv": 1,
+      "size": 0,
+      "hits": 1,
+      "flights": 1,
+      "firstDamage": 0.142
+    },
+    {
+      "id": "mg_light",
+      "lv": 3,
+      "size": 0,
+      "hits": 3,
+      "flights": 3,
+      "firstDamage": 0.142
+    },
+    {
+      "id": "mg_light",
+      "lv": 10,
+      "size": 0,
+      "hits": 10,
+      "flights": 10,
+      "firstDamage": 0.142
+    },
+    {
+      "id": "mg_soul",
+      "lv": 1,
+      "size": 0,
+      "hits": 1,
+      "flights": 1,
+      "firstDamage": 0.233
+    },
+    {
+      "id": "mg_soul",
+      "lv": 3,
+      "size": 0,
+      "hits": 2,
+      "flights": 2,
+      "firstDamage": 0.233
+    },
+    {
+      "id": "mg_soul",
+      "lv": 10,
+      "size": 0,
+      "hits": 5,
+      "flights": 5,
+      "firstDamage": 0.233
+    },
+    {
+      "id": "mo_shot",
+      "lv": 1,
+      "size": 0,
+      "hits": 1,
+      "flights": 1,
+      "firstDamage": 0.233
+    },
+    {
+      "id": "mo_shot",
+      "lv": 3,
+      "size": 0,
+      "hits": 2,
+      "flights": 2,
+      "firstDamage": 0.233
+    },
+    {
+      "id": "mo_shot",
+      "lv": 10,
+      "size": 0,
+      "hits": 5,
+      "flights": 5,
+      "firstDamage": 0.233
+    },
+    {
+      "id": "kn_pierce",
+      "lv": 1,
+      "size": 0,
+      "hits": 3,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "kn_pierce",
+      "lv": 1,
+      "size": 2,
+      "hits": 6,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "kn_pierce",
+      "lv": 3,
+      "size": 0,
+      "hits": 3,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "kn_pierce",
+      "lv": 3,
+      "size": 2,
+      "hits": 6,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "kn_pierce",
+      "lv": 10,
+      "size": 0,
+      "hits": 3,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "kn_pierce",
+      "lv": 10,
+      "size": 2,
+      "hits": 6,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "hn_blitz",
+      "lv": 1,
+      "size": 0,
+      "hits": 1,
+      "flights": 1,
+      "firstDamage": 0.367
+    },
+    {
+      "id": "hn_blitz",
+      "lv": 3,
+      "size": 0,
+      "hits": 2,
+      "flights": 1,
+      "firstDamage": 0.367
+    },
+    {
+      "id": "hn_blitz",
+      "lv": 10,
+      "size": 0,
+      "hits": 6,
+      "flights": 1,
+      "firstDamage": 0.367
+    },
+    {
+      "id": "wz_jup",
+      "lv": 1,
+      "size": 0,
+      "hits": 4,
+      "flights": 4,
+      "firstDamage": 0.233
+    },
+    {
+      "id": "wz_jup",
+      "lv": 3,
+      "size": 0,
+      "hits": 6,
+      "flights": 6,
+      "firstDamage": 0.233
+    },
+    {
+      "id": "wz_jup",
+      "lv": 10,
+      "size": 0,
+      "hits": 13,
+      "flights": 13,
+      "firstDamage": 0.233
+    },
+    {
+      "id": "cr_aegis",
+      "lv": 1,
+      "size": 0,
+      "hits": 5,
+      "flights": 1,
+      "firstDamage": 0.167
+    },
+    {
+      "id": "cr_aegis",
+      "lv": 3,
+      "size": 0,
+      "hits": 5,
+      "flights": 1,
+      "firstDamage": 0.167
+    },
+    {
+      "id": "cr_aegis",
+      "lv": 10,
+      "size": 0,
+      "hits": 5,
+      "flights": 1,
+      "firstDamage": 0.167
+    },
+    {
+      "id": "as_sonic",
+      "lv": 1,
+      "size": 0,
+      "hits": 8,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "as_sonic",
+      "lv": 3,
+      "size": 0,
+      "hits": 8,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "as_sonic",
+      "lv": 10,
+      "size": 0,
+      "hits": 8,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "wz_meteor",
+      "lv": 1,
+      "size": 0,
+      "hits": 6,
+      "flights": 0,
+      "firstDamage": 0.45
+    },
+    {
+      "id": "wz_meteor",
+      "lv": 3,
+      "size": 0,
+      "hits": 6,
+      "flights": 0,
+      "firstDamage": 0.45
+    },
+    {
+      "id": "wz_meteor",
+      "lv": 10,
+      "size": 0,
+      "hits": 6,
+      "flights": 0,
+      "firstDamage": 0.45
+    },
+    {
+      "id": "wz_heaven",
+      "lv": 1,
+      "size": 0,
+      "hits": 4,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "wz_heaven",
+      "lv": 3,
+      "size": 0,
+      "hits": 4,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "wz_heaven",
+      "lv": 10,
+      "size": 0,
+      "hits": 4,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "pr_magnus",
+      "lv": 1,
+      "size": 0,
+      "hits": 10,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "pr_magnus",
+      "lv": 3,
+      "size": 0,
+      "hits": 10,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "pr_magnus",
+      "lv": 10,
+      "size": 0,
+      "hits": 10,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "sg_spikes",
+      "lv": 1,
+      "size": 0,
+      "hits": 1,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "sg_spikes",
+      "lv": 3,
+      "size": 0,
+      "hits": 3,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "sg_spikes",
+      "lv": 10,
+      "size": 0,
+      "hits": 10,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "cr_cross",
+      "lv": 1,
+      "size": 0,
+      "hits": 2,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "cr_cross",
+      "lv": 3,
+      "size": 0,
+      "hits": 2,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "cr_cross",
+      "lv": 10,
+      "size": 0,
+      "hits": 2,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "cr_grand",
+      "lv": 1,
+      "size": 0,
+      "hits": 6,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "cr_grand",
+      "lv": 3,
+      "size": 0,
+      "hits": 6,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "cr_grand",
+      "lv": 10,
+      "size": 0,
+      "hits": 6,
+      "flights": 0,
+      "firstDamage": 0.008
+    },
+    {
+      "id": "dk_wyrm",
+      "lv": 1,
+      "size": 0,
+      "hits": 5,
+      "flights": 0,
+      "firstDamage": 0.308
+    },
+    {
+      "id": "dk_wyrm",
+      "lv": 3,
+      "size": 0,
+      "hits": 5,
+      "flights": 0,
+      "firstDamage": 0.308
+    },
+    {
+      "id": "dk_wyrm",
+      "lv": 10,
+      "size": 0,
+      "hits": 5,
+      "flights": 0,
+      "firstDamage": 0.308
+    }
+  ],
+  "allHitCountsMatchOriginalExecutor": true,
+  "allProjectileCountsMatchSkillLevel": true,
+  "damageAfterProjectileArrival": true,
+  "strikesVisibleEvenOnMiss": {
+    "attempts": 50,
+    "visibleStrikes": 50,
+    "landedHits": 3
+  },
+  "gm146SkillsAndSafeDemo": true,
+  "actualBuffRecipients": {
+    "bless": {
+      "recipients": [
+        "P",
+        "ally1",
+        "ally2"
+      ],
+      "effects": 3
+    },
+    "haste": {
+      "recipients": [
+        "P"
+      ],
+      "effects": 1
+    },
+    "oath": {
+      "recipients": [
+        "ally0",
+        "ally1",
+        "ally2",
+        "ally3",
+        "ally4"
+      ],
+      "effects": 5
+    },
+    "links": 5
+  },
+  "mobileViewports": [
+    390,
+    844
+  ],
+  "errors": []
+}

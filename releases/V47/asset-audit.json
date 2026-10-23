@@ -1,0 +1,597 @@
+{
+  "frames": 384,
+  "nativeFramesOnly": true,
+  "noOpticalFlow": true,
+  "families": [
+    {
+      "id": "fireball",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-0e54e9cd-ba4d-4c27-8c55-cf85225eb728.png",
+      "scale": 0.6172839506172839,
+      "bytes": 42084
+    },
+    {
+      "id": "icebolt",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-0e54e9cd-ba4d-4c27-8c55-cf85225eb728.png",
+      "scale": 0.5347593582887701,
+      "bytes": 38846
+    },
+    {
+      "id": "lightning",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-0e54e9cd-ba4d-4c27-8c55-cf85225eb728.png",
+      "scale": 0.5376344086021505,
+      "bytes": 49434
+    },
+    {
+      "id": "spirit",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-0e54e9cd-ba4d-4c27-8c55-cf85225eb728.png",
+      "scale": 0.5076142131979695,
+      "bytes": 45438
+    },
+    {
+      "id": "firenova",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-0e54e9cd-ba4d-4c27-8c55-cf85225eb728.png",
+      "scale": 0.5181347150259067,
+      "bytes": 61262
+    },
+    {
+      "id": "firepillar",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-0e54e9cd-ba4d-4c27-8c55-cf85225eb728.png",
+      "scale": 0.5363128491620112,
+      "bytes": 71584
+    },
+    {
+      "id": "meteor",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-f593e289-cad4-481a-a054-d211f3d71333.png",
+      "scale": 0.4484304932735426,
+      "bytes": 35234
+    },
+    {
+      "id": "icespikes",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-f593e289-cad4-481a-a054-d211f3d71333.png",
+      "scale": 0.43478260869565216,
+      "bytes": 28844
+    },
+    {
+      "id": "iceburst",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-f593e289-cad4-481a-a054-d211f3d71333.png",
+      "scale": 0.4807692307692308,
+      "bytes": 51014
+    },
+    {
+      "id": "blizzard",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-f593e289-cad4-481a-a054-d211f3d71333.png",
+      "scale": 0.46296296296296297,
+      "bytes": 69506
+    },
+    {
+      "id": "tornado",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-f593e289-cad4-481a-a054-d211f3d71333.png",
+      "scale": 0.4716981132075472,
+      "bytes": 57076
+    },
+    {
+      "id": "earthspikes",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-f593e289-cad4-481a-a054-d211f3d71333.png",
+      "scale": 0.45871559633027525,
+      "bytes": 53524
+    },
+    {
+      "id": "slash",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-665d9d8a-ec51-421a-8eda-69fd0f30710d.png",
+      "scale": 0.5649717514124294,
+      "bytes": 42456
+    },
+    {
+      "id": "crossslash",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-665d9d8a-ec51-421a-8eda-69fd0f30710d.png",
+      "scale": 0.45662100456621,
+      "bytes": 36866
+    },
+    {
+      "id": "arrow",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-665d9d8a-ec51-421a-8eda-69fd0f30710d.png",
+      "scale": 0.4032258064516129,
+      "bytes": 22382
+    },
+    {
+      "id": "shock",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-665d9d8a-ec51-421a-8eda-69fd0f30710d.png",
+      "scale": 0.47393364928909953,
+      "bytes": 54684
+    },
+    {
+      "id": "block",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-665d9d8a-ec51-421a-8eda-69fd0f30710d.png",
+      "scale": 0.5245901639344263,
+      "bytes": 69566
+    },
+    {
+      "id": "backstab",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-24ad3e95-dfa8-466d-b2e4-4312c35d60cf.png",
+      "scale": 0.6097560975609756,
+      "bytes": 37860
+    },
+    {
+      "id": "poisonclaw",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-24ad3e95-dfa8-466d-b2e4-4312c35d60cf.png",
+      "scale": 0.5780346820809249,
+      "bytes": 48536
+    },
+    {
+      "id": "poisoncloud",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-24ad3e95-dfa8-466d-b2e4-4312c35d60cf.png",
+      "scale": 0.5780346820809249,
+      "bytes": 68012
+    },
+    {
+      "id": "vines",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-24ad3e95-dfa8-466d-b2e4-4312c35d60cf.png",
+      "scale": 0.5681818181818182,
+      "bytes": 70354
+    },
+    {
+      "id": "explosion",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-24ad3e95-dfa8-466d-b2e4-4312c35d60cf.png",
+      "scale": 0.5076142131979695,
+      "bytes": 58372
+    },
+    {
+      "id": "snare",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-24ad3e95-dfa8-466d-b2e4-4312c35d60cf.png",
+      "scale": 0.6289308176100629,
+      "bytes": 75264
+    },
+    {
+      "id": "heal",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-dea7d757-5e45-41d9-bf8a-e2c9da8f09ca.png",
+      "scale": 0.64,
+      "bytes": 73182
+    },
+    {
+      "id": "buff",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-21819349-e6b6-473d-804e-8d70cc96c8f0.png",
+      "scale": 0.64,
+      "bytes": 81166
+    },
+    {
+      "id": "notes",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-21819349-e6b6-473d-804e-8d70cc96c8f0.png",
+      "scale": 0.5405405405405406,
+      "bytes": 63918
+    },
+    {
+      "id": "coins",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-21819349-e6b6-473d-804e-8d70cc96c8f0.png",
+      "scale": 0.4608294930875576,
+      "bytes": 48710
+    },
+    {
+      "id": "orbs",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-21819349-e6b6-473d-804e-8d70cc96c8f0.png",
+      "scale": 0.5208333333333334,
+      "bytes": 56038
+    },
+    {
+      "id": "acidflask",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-559891c8-cd88-425d-89a9-4d5d28da4e14.png",
+      "scale": 0.6024096385542169,
+      "bytes": 52738
+    },
+    {
+      "id": "healflask",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-559891c8-cd88-425d-89a9-4d5d28da4e14.png",
+      "scale": 0.5649717514124294,
+      "bytes": 57384
+    },
+    {
+      "id": "falcon",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-559891c8-cd88-425d-89a9-4d5d28da4e14.png",
+      "scale": 0.5617977528089888,
+      "bytes": 69820
+    },
+    {
+      "id": "boomerang",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-559891c8-cd88-425d-89a9-4d5d28da4e14.png",
+      "scale": 0.5494505494505495,
+      "bytes": 48554
+    },
+    {
+      "id": "mud",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-559891c8-cd88-425d-89a9-4d5d28da4e14.png",
+      "scale": 0.5454545454545454,
+      "bytes": 64968
+    },
+    {
+      "id": "water",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-559891c8-cd88-425d-89a9-4d5d28da4e14.png",
+      "scale": 0.5263157894736842,
+      "bytes": 68472
+    },
+    {
+      "id": "wind",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-f1d0eac6-6352-4ef8-ab12-805d0cad7b4b.png",
+      "scale": 0.5347593582887701,
+      "bytes": 55580
+    },
+    {
+      "id": "earth",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-f1d0eac6-6352-4ef8-ab12-805d0cad7b4b.png",
+      "scale": 0.4716981132075472,
+      "bytes": 57178
+    },
+    {
+      "id": "teleport",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-f1d0eac6-6352-4ef8-ab12-805d0cad7b4b.png",
+      "scale": 0.5952380952380952,
+      "bytes": 78062
+    },
+    {
+      "id": "fist",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-f1d0eac6-6352-4ef8-ab12-805d0cad7b4b.png",
+      "scale": 0.49504950495049505,
+      "bytes": 57932
+    },
+    {
+      "id": "cast_fire",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-2787805d-62c4-44d8-8af8-d51a2eb67754.png",
+      "scale": 0.5847953216374269,
+      "bytes": 83508
+    },
+    {
+      "id": "cast_ice",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-2787805d-62c4-44d8-8af8-d51a2eb67754.png",
+      "scale": 0.5847953216374269,
+      "bytes": 84290
+    },
+    {
+      "id": "cast_holy",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-2787805d-62c4-44d8-8af8-d51a2eb67754.png",
+      "scale": 0.5847953216374269,
+      "bytes": 87662
+    },
+    {
+      "id": "cast_arcane",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-2787805d-62c4-44d8-8af8-d51a2eb67754.png",
+      "scale": 0.5882352941176471,
+      "bytes": 84788
+    },
+    {
+      "id": "holybeam",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-2787805d-62c4-44d8-8af8-d51a2eb67754.png",
+      "scale": 0.5517241379310345,
+      "bytes": 62788
+    },
+    {
+      "id": "shield",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-2787805d-62c4-44d8-8af8-d51a2eb67754.png",
+      "scale": 0.6153846153846154,
+      "bytes": 120604
+    },
+    {
+      "id": "dragonfire",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-5e3f04ed-fecf-49cc-a667-59e6a3431b0f.png",
+      "scale": 0.6211180124223602,
+      "bytes": 43022
+    },
+    {
+      "id": "shadow",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-5e3f04ed-fecf-49cc-a667-59e6a3431b0f.png",
+      "scale": 0.5161290322580645,
+      "bytes": 46628
+    },
+    {
+      "id": "pierce",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-a80d57eb-ee7e-40cc-8a0d-2b805a7dc726.png",
+      "scale": 0.64,
+      "bytes": 33498
+    },
+    {
+      "id": "holycross",
+      "frames": 8,
+      "unique": 8,
+      "source": "exec-a80d57eb-ee7e-40cc-8a0d-2b805a7dc726.png",
+      "scale": 0.5393258426966292,
+      "bytes": 38656
+    }
+  ],
+  "sources": [
+    {
+      "ids": [
+        "fireball",
+        "icebolt",
+        "lightning",
+        "spirit",
+        "firenova",
+        "firepillar"
+      ],
+      "path": "/workspace/generated_images/exec-0e54e9cd-ba4d-4c27-8c55-cf85225eb728.png",
+      "bounds": [
+        0,
+        144,
+        307,
+        481,
+        649,
+        813,
+        1024
+      ]
+    },
+    {
+      "ids": [
+        "meteor",
+        "icespikes",
+        "iceburst",
+        "blizzard",
+        "tornado",
+        "earthspikes"
+      ],
+      "path": "/workspace/generated_images/exec-f593e289-cad4-481a-a054-d211f3d71333.png",
+      "bounds": [
+        0,
+        163,
+        319,
+        492,
+        684,
+        853,
+        1024
+      ]
+    },
+    {
+      "ids": [
+        "slash",
+        "pierce",
+        "crossslash",
+        "arrow",
+        "shock",
+        "block"
+      ],
+      "path": "/workspace/generated_images/exec-665d9d8a-ec51-421a-8eda-69fd0f30710d.png",
+      "bounds": [
+        0,
+        175,
+        309,
+        484,
+        647,
+        816,
+        1024
+      ]
+    },
+    {
+      "ids": [
+        "backstab",
+        "poisonclaw",
+        "poisoncloud",
+        "vines",
+        "explosion",
+        "snare"
+      ],
+      "path": "/workspace/generated_images/exec-24ad3e95-dfa8-466d-b2e4-4312c35d60cf.png",
+      "bounds": [
+        0,
+        164,
+        335,
+        512,
+        685,
+        837,
+        1024
+      ]
+    },
+    {
+      "ids": [
+        "heal",
+        "holycross",
+        "holybeam",
+        "shield",
+        "cast_fire",
+        "cast_ice"
+      ],
+      "path": "/workspace/generated_images/exec-dea7d757-5e45-41d9-bf8a-e2c9da8f09ca.png",
+      "bounds": [
+        0,
+        161,
+        345,
+        512,
+        669,
+        824,
+        1024
+      ]
+    },
+    {
+      "ids": [
+        "cast_holy",
+        "cast_arcane",
+        "buff",
+        "notes",
+        "coins",
+        "orbs"
+      ],
+      "path": "/workspace/generated_images/exec-21819349-e6b6-473d-804e-8d70cc96c8f0.png",
+      "bounds": [
+        0,
+        159,
+        336,
+        504,
+        670,
+        833,
+        1024
+      ]
+    },
+    {
+      "ids": [
+        "acidflask",
+        "healflask",
+        "falcon",
+        "boomerang",
+        "mud",
+        "water"
+      ],
+      "path": "/workspace/generated_images/exec-559891c8-cd88-425d-89a9-4d5d28da4e14.png",
+      "bounds": [
+        0,
+        173,
+        342,
+        508,
+        668,
+        846,
+        1024
+      ]
+    },
+    {
+      "ids": [
+        "wind",
+        "earth",
+        "teleport",
+        "dragonfire",
+        "shadow",
+        "fist"
+      ],
+      "path": "/workspace/generated_images/exec-f1d0eac6-6352-4ef8-ab12-805d0cad7b4b.png",
+      "bounds": [
+        0,
+        175,
+        338,
+        507,
+        671,
+        833,
+        1024
+      ]
+    },
+    {
+      "ids": [
+        "cast_fire",
+        "cast_ice",
+        "cast_holy",
+        "cast_arcane",
+        "holybeam",
+        "shield"
+      ],
+      "path": "/workspace/generated_images/exec-2787805d-62c4-44d8-8af8-d51a2eb67754.png",
+      "bounds": [
+        0,
+        170,
+        334,
+        500,
+        650,
+        835,
+        1024
+      ]
+    },
+    {
+      "ids": [
+        "dragonfire",
+        "shadow"
+      ],
+      "path": "/workspace/generated_images/exec-5e3f04ed-fecf-49cc-a667-59e6a3431b0f.png",
+      "bounds": [
+        0,
+        512,
+        1024
+      ]
+    },
+    {
+      "ids": [
+        "pierce",
+        "holycross"
+      ],
+      "path": "/workspace/generated_images/exec-a80d57eb-ee7e-40cc-8a0d-2b805a7dc726.png",
+      "bounds": [
+        0,
+        512,
+        1024
+      ]
+    }
+  ]
+}

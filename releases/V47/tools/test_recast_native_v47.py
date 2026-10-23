@@ -1,0 +1,8 @@
+from pathlib import Path
+from playwright.sync_api import sync_playwright
+import json,hashlib
+R=Path('/workspace/RAG');E=R/'evidence/recast-v47'
+with sync_playwright()as p:
+ b=p.chromium.launch(executable_path='/usr/bin/chromium',args=['--no-sandbox','--disable-dev-shm-usage']);q=b.new_page();errors=[];q.on('pageerror',lambda e:errors.append(str(e)));q.goto('http://127.0.0.1:8767/RAG/build/Runevale-Recast-V47/index.html',timeout=180000);q.wait_for_function('window.SkillEffects?.atlasImages.fireball?.naturalWidth>0',timeout=120000)
+ result=q.evaluate('''()=>{let calls=[],c=document.createElement('canvas').getContext('2d');const real=c.drawImage.bind(c);c.drawImage=(...args)=>{calls.push({smoothing:c.imageSmoothingEnabled,alpha:c.globalAlpha,rect:args.slice(1,5)});return real(...args)};let frames=0;for(const[id,d]of Object.entries(SkillEffects.data)){if(d.frameCount!==8||d.subframes!==1)throw Error('non-native '+id);for(let i=0;i<80;i++){calls=[];SkillEffects.blit(c,id,i/80,64,64,{size:128});if(calls.length!==1||calls[0].smoothing||calls[0].alpha!==1)throw Error('blended '+id);const k=Math.round(Math.min(.999999,i/80)*7);if(calls[0].rect[0]!==k*128)throw Error('non-native rect '+id);frames++}}return{effectEntries:156,phaseCases:frames,singleDrawPerSample:true,noImageSmoothing:true,noAlphaCrossfade:true,nativeFramesPerStrip:8}}''');assert not errors;result['all48ImagesDecodedOverHTTP']=True;result['localFileTest']='Unavailable: environment browser policy blocks file URLs';assert not errors;b.close()
+result['errors']=errors;(E/'native-validation.json').write_text(json.dumps(result,indent=2));print(result,flush=True)

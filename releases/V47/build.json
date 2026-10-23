@@ -1,0 +1,18 @@
+{
+  "version": 47,
+  "sha256": "0fd8a20b409e95d889447033b810ea41a7deaf4e76a72a1b1768b855023f449e",
+  "skillsAudited": 146,
+  "sharedNewAnimationFamilies": 48,
+  "effectEntries": 156,
+  "framesPerFamily": 8,
+  "newOriginalKeys": 384,
+  "newFrames": 384,
+  "v44RendererRemoved": true,
+  "offlineInterpolatedFramesRemoved": true,
+  "noCrossfadeOrMorph": true,
+  "nearestNativeFrameRendering": true,
+  "characterSheetsV45AndMapsUnchanged": true,
+  "damageFormulaCooldownCostUnchanged": true,
+  "projectileDamageWaitsForFlight": true,
+  "firebombSixthTickPrecisionFixed": true
+}
