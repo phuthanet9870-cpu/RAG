@@ -1,0 +1,3 @@
+Runevale V50
+https://phuthanet9870-cpu.github.io/RAG/v50/
+SHA256 bcad94d678fdff61de8a91cea5c4c2b510ec68a088370f5448157391029e91d0
