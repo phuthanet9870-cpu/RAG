@@ -1,18 +1,3 @@
-Runevale V43 — เดินปกติ / โจมตี / VFX เพิ่มเฟรม
-
-ดาวน์โหลด Runevale-Smooth-Animations-V43.zip แตก ZIP แล้วเปิด index.html ภาพทั้งหมดฝังในไฟล์เกม
-ไฟล์ Runevale-Animation-Sheets-V43.zip เป็นชุดชีตโปร่งใสและ Viewer สำหรับตรวจเฟรม/นำไปใช้ต่อ
-
-- ตัวละคร33แบบและคอสตูม10ชุด: เดิน8เฟรมและโจมตี12เฟรมต่อทิศ พร้อมภาพเริ่ม/หยุดเดิน
-- ลดท่าก้าวที่เหยียดขายาว เพิ่มเฟรมกลางลงชีตจริง ไม่มีริกหรือการบิดขาขณะเล่น
-- VFXครบ156ชีต รวมสกิล146สกิล เอฟเฟกต์ToxicQueen6ชุดและวงร่าย4ชุด เพิ่มเป็น29–33เฟรม รวม5092เฟรม
-- คงสีภาพหลัก ระยะเวลาสกิล ความเร็วเคลื่อนที่ และกลไกดาเมจ
-- นางฟ้าเลเวลอัป50% เก็บของไม่มีVFX และเมือง/แมพ31พื้นที่คงจากV42
-- GM: G → stefan-gm → ตรวจเดิน / โจมตี / VFX ทุกเฟรมV43
-
-ทดสอบ172ทิศทางตัวละคร 330คู่คลาส/คอสตูม VFX5092เฟรม สกิลใช้งาน105สกิลและติดตัว41สกิล รวมการเดิน/ร่ายจริงและขนาดจอมือถือจำลองในChromium (ไม่ใช่มือถือจริง)
-
-https://github.com/phuthanet9870-cpu/RAG/releases/download/runevale-smooth-animations-v43/Runevale-Smooth-Animations-V43.zip
+Runevale V43
+https://phuthanet9870-cpu.github.io/RAG/v43/
 SHA256 2922d41adb4a0abe061854208c3b0a804914a0de9b0af1b096f34eae53b0a286
-https://github.com/phuthanet9870-cpu/RAG/releases/download/runevale-smooth-animations-v43/Runevale-Animation-Sheets-V43.zip
-SHA256 98ac95d5587c25563852d0a9a2b437abbd91aeaa0af839198534dd3290de59e2
