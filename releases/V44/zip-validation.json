@@ -1,0 +1,23 @@
+{
+  "extractedGameBoot": true,
+  "all31PortalRoutes": true,
+  "phaseStable": true,
+  "frameRateParity": [
+    {
+      "fps": 15,
+      "x": 100,
+      "phase": 2
+    },
+    {
+      "fps": 30,
+      "x": 100,
+      "phase": 2
+    },
+    {
+      "fps": 60,
+      "x": 100,
+      "phase": 2
+    }
+  ],
+  "errors": []
+}

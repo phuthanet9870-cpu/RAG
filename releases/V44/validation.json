@@ -1,0 +1,18 @@
+{
+  "waypointClamp": true,
+  "obstacleChase": {
+    "reached": true,
+    "around": true
+  },
+  "monsterTypes": 70,
+  "knockback": true,
+  "blockedRoute": true,
+  "frameInterpolation": 156,
+  "mapTraversal": 66312,
+  "gmShortcut": true,
+  "errors": [],
+  "mobileViewports": [
+    390,
+    844
+  ]
+}

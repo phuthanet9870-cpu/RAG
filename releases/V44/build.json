@@ -1,0 +1,14 @@
+{
+  "version": 44,
+  "baseSHA256": "4ff280a678dafebbe026bc3249239fdb1acb9cc40234ee093c6849e854066f21",
+  "sha256": "ec6d400c8e769c06f7d5401ab7f5a49eaa4b4f6fa977d3f190f0be2fb7086116",
+  "vfx": "continuous premultiplied frame interpolation, high quality resampling; unchanged artwork/colors/durations",
+  "pathing": "shared foot collision, no overshoot, safe wander/chase/knockback, obstacle-aware combat",
+  "preserved": [
+    "43 body variants",
+    "156 VFX sheets",
+    "31 maps",
+    "GM G stefan-gm",
+    "damage and movement speed"
+  ]
+}
