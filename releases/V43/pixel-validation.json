@@ -1,0 +1,1388 @@
+{
+  "bodyDirections": 172,
+  "all43BodiesHave8Walk12Attack": true,
+  "feetAnchoredEveryWalkFrame": true,
+  "walkDirectionsWithLowerFrameDelta": 172,
+  "walkRows": [
+    {
+      "id": "sword",
+      "direction": "S",
+      "oldWalkFrameDelta": 5.9892333984374995,
+      "newWalkFrameDelta": 2.3183146158854164,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "sword",
+      "direction": "N",
+      "oldWalkFrameDelta": 5.637540690104167,
+      "newWalkFrameDelta": 1.9683288574218751,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "sword",
+      "direction": "W",
+      "oldWalkFrameDelta": 10.72644449869792,
+      "newWalkFrameDelta": 3.6224121093750004,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "sword",
+      "direction": "E",
+      "oldWalkFrameDelta": 9.159993489583332,
+      "newWalkFrameDelta": 3.5219095865885417,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "novice",
+      "direction": "S",
+      "oldWalkFrameDelta": 4.395316569010417,
+      "newWalkFrameDelta": 1.4544291178385418,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "novice",
+      "direction": "N",
+      "oldWalkFrameDelta": 3.8072794596354167,
+      "newWalkFrameDelta": 1.2088114420572915,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "novice",
+      "direction": "W",
+      "oldWalkFrameDelta": 5.061474609375001,
+      "newWalkFrameDelta": 1.4646931966145833,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "novice",
+      "direction": "E",
+      "oldWalkFrameDelta": 5.661295572916667,
+      "newWalkFrameDelta": 2.179522705078125,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "mage",
+      "direction": "S",
+      "oldWalkFrameDelta": 6.595198567708334,
+      "newWalkFrameDelta": 2.5563517252604164,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "mage",
+      "direction": "N",
+      "oldWalkFrameDelta": 4.716328938802084,
+      "newWalkFrameDelta": 1.5983805338541666,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "mage",
+      "direction": "W",
+      "oldWalkFrameDelta": 7.111885579427083,
+      "newWalkFrameDelta": 2.642236328125,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "mage",
+      "direction": "E",
+      "oldWalkFrameDelta": 7.855440266927083,
+      "newWalkFrameDelta": 2.730126953125,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "archer",
+      "direction": "S",
+      "oldWalkFrameDelta": 4.3572753906249995,
+      "newWalkFrameDelta": 1.6943115234375,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "archer",
+      "direction": "N",
+      "oldWalkFrameDelta": 4.144108072916667,
+      "newWalkFrameDelta": 1.367108154296875,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "archer",
+      "direction": "W",
+      "oldWalkFrameDelta": 6.914778645833333,
+      "newWalkFrameDelta": 2.327880859375,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "archer",
+      "direction": "E",
+      "oldWalkFrameDelta": 6.402600097656251,
+      "newWalkFrameDelta": 1.9700724283854167,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "acolyte",
+      "direction": "S",
+      "oldWalkFrameDelta": 7.502762858072916,
+      "newWalkFrameDelta": 3.145316569010417,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "acolyte",
+      "direction": "N",
+      "oldWalkFrameDelta": 6.067724609375,
+      "newWalkFrameDelta": 2.187294514973958,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "acolyte",
+      "direction": "W",
+      "oldWalkFrameDelta": 9.500386555989584,
+      "newWalkFrameDelta": 3.641949462890625,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "acolyte",
+      "direction": "E",
+      "oldWalkFrameDelta": 8.68480224609375,
+      "newWalkFrameDelta": 3.3014404296875,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "merchant",
+      "direction": "S",
+      "oldWalkFrameDelta": 3.847835286458333,
+      "newWalkFrameDelta": 1.6417521158854167,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "merchant",
+      "direction": "N",
+      "oldWalkFrameDelta": 3.2465942382812503,
+      "newWalkFrameDelta": 1.367193603515625,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "merchant",
+      "direction": "W",
+      "oldWalkFrameDelta": 6.327933756510417,
+      "newWalkFrameDelta": 2.3244567871093746,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "merchant",
+      "direction": "E",
+      "oldWalkFrameDelta": 4.96329345703125,
+      "newWalkFrameDelta": 1.4008422851562499,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "thief",
+      "direction": "S",
+      "oldWalkFrameDelta": 6.719128417968749,
+      "newWalkFrameDelta": 2.336751302083333,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "thief",
+      "direction": "N",
+      "oldWalkFrameDelta": 5.0524169921875,
+      "newWalkFrameDelta": 1.8568623860677085,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "thief",
+      "direction": "W",
+      "oldWalkFrameDelta": 6.464347330729167,
+      "newWalkFrameDelta": 2.3788167317708333,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "thief",
+      "direction": "E",
+      "oldWalkFrameDelta": 6.127827962239584,
+      "newWalkFrameDelta": 2.39930419921875,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "knight",
+      "direction": "S",
+      "oldWalkFrameDelta": 6.875341796875,
+      "newWalkFrameDelta": 1.9873087565104166,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "knight",
+      "direction": "N",
+      "oldWalkFrameDelta": 5.420267740885416,
+      "newWalkFrameDelta": 1.6939554850260417,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "knight",
+      "direction": "W",
+      "oldWalkFrameDelta": 11.14312744140625,
+      "newWalkFrameDelta": 4.063995361328125,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "knight",
+      "direction": "E",
+      "oldWalkFrameDelta": 10.669864908854166,
+      "newWalkFrameDelta": 3.5306376139322917,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "crusader",
+      "direction": "S",
+      "oldWalkFrameDelta": 7.553747558593751,
+      "newWalkFrameDelta": 3.0064737955729166,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "crusader",
+      "direction": "N",
+      "oldWalkFrameDelta": 6.140006510416667,
+      "newWalkFrameDelta": 2.19412841796875,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "crusader",
+      "direction": "W",
+      "oldWalkFrameDelta": 5.886446126302084,
+      "newWalkFrameDelta": 2.4618855794270837,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "crusader",
+      "direction": "E",
+      "oldWalkFrameDelta": 6.931689453125,
+      "newWalkFrameDelta": 2.5918395996093753,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "wizard",
+      "direction": "S",
+      "oldWalkFrameDelta": 4.936409505208333,
+      "newWalkFrameDelta": 1.9348225911458334,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "wizard",
+      "direction": "N",
+      "oldWalkFrameDelta": 4.042350260416667,
+      "newWalkFrameDelta": 1.5463053385416667,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "wizard",
+      "direction": "W",
+      "oldWalkFrameDelta": 7.809745279947917,
+      "newWalkFrameDelta": 2.937430826822917,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "wizard",
+      "direction": "E",
+      "oldWalkFrameDelta": 7.232454427083334,
+      "newWalkFrameDelta": 2.648779296875,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "sage",
+      "direction": "S",
+      "oldWalkFrameDelta": 5.051664225260417,
+      "newWalkFrameDelta": 1.9124369303385418,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "sage",
+      "direction": "N",
+      "oldWalkFrameDelta": 5.849324544270833,
+      "newWalkFrameDelta": 1.9998555501302082,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "sage",
+      "direction": "W",
+      "oldWalkFrameDelta": 6.574869791666666,
+      "newWalkFrameDelta": 2.1284993489583335,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "sage",
+      "direction": "E",
+      "oldWalkFrameDelta": 7.164225260416666,
+      "newWalkFrameDelta": 2.492240397135417,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "hunter",
+      "direction": "S",
+      "oldWalkFrameDelta": 5.4844116210937495,
+      "newWalkFrameDelta": 2.19095458984375,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "hunter",
+      "direction": "N",
+      "oldWalkFrameDelta": 6.3095703125,
+      "newWalkFrameDelta": 2.79364013671875,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "hunter",
+      "direction": "W",
+      "oldWalkFrameDelta": 6.553251139322917,
+      "newWalkFrameDelta": 2.6078043619791664,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "hunter",
+      "direction": "E",
+      "oldWalkFrameDelta": 5.8619140625,
+      "newWalkFrameDelta": 2.356365966796875,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "dancer",
+      "direction": "S",
+      "oldWalkFrameDelta": 10.7832763671875,
+      "newWalkFrameDelta": 6.174348958333333,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "dancer",
+      "direction": "N",
+      "oldWalkFrameDelta": 11.259395345052083,
+      "newWalkFrameDelta": 4.729840087890626,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "dancer",
+      "direction": "W",
+      "oldWalkFrameDelta": 14.498872884114583,
+      "newWalkFrameDelta": 6.121036783854167,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "dancer",
+      "direction": "E",
+      "oldWalkFrameDelta": 10.224910481770833,
+      "newWalkFrameDelta": 4.7990478515625,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "bard",
+      "direction": "S",
+      "oldWalkFrameDelta": 4.417956542968749,
+      "newWalkFrameDelta": 1.3624471028645835,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "bard",
+      "direction": "N",
+      "oldWalkFrameDelta": 3.4110595703125,
+      "newWalkFrameDelta": 1.1813334147135417,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "bard",
+      "direction": "W",
+      "oldWalkFrameDelta": 5.804378255208333,
+      "newWalkFrameDelta": 2.0326375325520836,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "bard",
+      "direction": "E",
+      "oldWalkFrameDelta": 5.734309895833334,
+      "newWalkFrameDelta": 2.4890279134114586,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "priest",
+      "direction": "S",
+      "oldWalkFrameDelta": 5.773457845052084,
+      "newWalkFrameDelta": 2.037727864583333,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "priest",
+      "direction": "N",
+      "oldWalkFrameDelta": 6.692159016927083,
+      "newWalkFrameDelta": 2.335430908203125,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "priest",
+      "direction": "W",
+      "oldWalkFrameDelta": 8.037910970052083,
+      "newWalkFrameDelta": 3.207436116536458,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "priest",
+      "direction": "E",
+      "oldWalkFrameDelta": 8.587154134114584,
+      "newWalkFrameDelta": 3.429345703125,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "blacksmith",
+      "direction": "S",
+      "oldWalkFrameDelta": 5.774641927083333,
+      "newWalkFrameDelta": 1.928456624348958,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "blacksmith",
+      "direction": "N",
+      "oldWalkFrameDelta": 6.05263671875,
+      "newWalkFrameDelta": 1.7906311035156248,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "blacksmith",
+      "direction": "W",
+      "oldWalkFrameDelta": 6.096244303385417,
+      "newWalkFrameDelta": 2.2087239583333336,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "blacksmith",
+      "direction": "E",
+      "oldWalkFrameDelta": 7.87493896484375,
+      "newWalkFrameDelta": 2.6490539550781254,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "monk",
+      "direction": "S",
+      "oldWalkFrameDelta": 4.56103515625,
+      "newWalkFrameDelta": 1.4099446614583333,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "monk",
+      "direction": "N",
+      "oldWalkFrameDelta": 4.37025146484375,
+      "newWalkFrameDelta": 1.4180216471354168,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "monk",
+      "direction": "W",
+      "oldWalkFrameDelta": 7.597078450520833,
+      "newWalkFrameDelta": 3.4050455729166664,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "monk",
+      "direction": "E",
+      "oldWalkFrameDelta": 5.271651204427084,
+      "newWalkFrameDelta": 1.6809265136718752,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "assassin",
+      "direction": "S",
+      "oldWalkFrameDelta": 5.765938313802083,
+      "newWalkFrameDelta": 1.9638387044270833,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "assassin",
+      "direction": "N",
+      "oldWalkFrameDelta": 5.364225260416667,
+      "newWalkFrameDelta": 2.3000081380208335,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "assassin",
+      "direction": "W",
+      "oldWalkFrameDelta": 7.18133544921875,
+      "newWalkFrameDelta": 2.2889261881510414,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "assassin",
+      "direction": "E",
+      "oldWalkFrameDelta": 7.694893391927083,
+      "newWalkFrameDelta": 2.458998616536458,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "alchemist",
+      "direction": "S",
+      "oldWalkFrameDelta": 6.944071451822916,
+      "newWalkFrameDelta": 2.493658447265625,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "alchemist",
+      "direction": "N",
+      "oldWalkFrameDelta": 4.379854329427083,
+      "newWalkFrameDelta": 1.4555684407552083,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "alchemist",
+      "direction": "W",
+      "oldWalkFrameDelta": 7.550374348958333,
+      "newWalkFrameDelta": 2.7834493001302083,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "alchemist",
+      "direction": "E",
+      "oldWalkFrameDelta": 6.863423665364582,
+      "newWalkFrameDelta": 2.609480794270833,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "rogue",
+      "direction": "S",
+      "oldWalkFrameDelta": 4.996541341145834,
+      "newWalkFrameDelta": 3.212837727864583,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "rogue",
+      "direction": "N",
+      "oldWalkFrameDelta": 4.13712158203125,
+      "newWalkFrameDelta": 1.70989990234375,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "rogue",
+      "direction": "W",
+      "oldWalkFrameDelta": 7.588179524739584,
+      "newWalkFrameDelta": 2.806107584635417,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "rogue",
+      "direction": "E",
+      "oldWalkFrameDelta": 5.023116048177084,
+      "newWalkFrameDelta": 2.44759521484375,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "dk",
+      "direction": "S",
+      "oldWalkFrameDelta": 4.750712076822917,
+      "newWalkFrameDelta": 2.3703816731770835,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "dk",
+      "direction": "N",
+      "oldWalkFrameDelta": 4.181306966145833,
+      "newWalkFrameDelta": 1.6594665527343748,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "dk",
+      "direction": "W",
+      "oldWalkFrameDelta": 4.801171875,
+      "newWalkFrameDelta": 1.701348876953125,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "dk",
+      "direction": "E",
+      "oldWalkFrameDelta": 5.194718424479166,
+      "newWalkFrameDelta": 1.8408345540364583,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "honor_guardian",
+      "direction": "S",
+      "oldWalkFrameDelta": 8.161739095052084,
+      "newWalkFrameDelta": 4.426662190755209,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "honor_guardian",
+      "direction": "N",
+      "oldWalkFrameDelta": 7.913102213541666,
+      "newWalkFrameDelta": 4.742954508463542,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "honor_guardian",
+      "direction": "W",
+      "oldWalkFrameDelta": 9.33599853515625,
+      "newWalkFrameDelta": 4.042447916666667,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "honor_guardian",
+      "direction": "E",
+      "oldWalkFrameDelta": 7.953751627604166,
+      "newWalkFrameDelta": 4.115486653645833,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "death_knight",
+      "direction": "S",
+      "oldWalkFrameDelta": 3.65772705078125,
+      "newWalkFrameDelta": 1.2426005045572919,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "death_knight",
+      "direction": "N",
+      "oldWalkFrameDelta": 2.9967692057291666,
+      "newWalkFrameDelta": 1.0037495930989584,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "death_knight",
+      "direction": "W",
+      "oldWalkFrameDelta": 5.202807617187499,
+      "newWalkFrameDelta": 1.7792154947916665,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "death_knight",
+      "direction": "E",
+      "oldWalkFrameDelta": 4.695328776041666,
+      "newWalkFrameDelta": 1.5648193359375,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "twilight_knight",
+      "direction": "S",
+      "oldWalkFrameDelta": 6.859037272135417,
+      "newWalkFrameDelta": 2.4685526529947914,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "twilight_knight",
+      "direction": "N",
+      "oldWalkFrameDelta": 6.198193359375,
+      "newWalkFrameDelta": 2.0974751790364583,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "twilight_knight",
+      "direction": "W",
+      "oldWalkFrameDelta": 6.841373697916667,
+      "newWalkFrameDelta": 2.5423929850260416,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "twilight_knight",
+      "direction": "E",
+      "oldWalkFrameDelta": 5.108349609375001,
+      "newWalkFrameDelta": 1.6884785970052083,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "ice_scholar",
+      "direction": "S",
+      "oldWalkFrameDelta": 6.048291015625,
+      "newWalkFrameDelta": 2.2067138671875,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "ice_scholar",
+      "direction": "N",
+      "oldWalkFrameDelta": 6.618501790364583,
+      "newWalkFrameDelta": 2.525315348307292,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "ice_scholar",
+      "direction": "W",
+      "oldWalkFrameDelta": 11.843009440104167,
+      "newWalkFrameDelta": 7.2810302734375,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "ice_scholar",
+      "direction": "E",
+      "oldWalkFrameDelta": 7.6394287109375,
+      "newWalkFrameDelta": 2.817913818359375,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "storm_weaver",
+      "direction": "S",
+      "oldWalkFrameDelta": 6.829182942708334,
+      "newWalkFrameDelta": 2.7422139485677084,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "storm_weaver",
+      "direction": "N",
+      "oldWalkFrameDelta": 7.49149169921875,
+      "newWalkFrameDelta": 2.9069498697916667,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "storm_weaver",
+      "direction": "W",
+      "oldWalkFrameDelta": 9.125956217447918,
+      "newWalkFrameDelta": 3.302237955729167,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "storm_weaver",
+      "direction": "E",
+      "oldWalkFrameDelta": 8.418766276041667,
+      "newWalkFrameDelta": 3.1320027669270836,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "sniper",
+      "direction": "S",
+      "oldWalkFrameDelta": 5.962727864583334,
+      "newWalkFrameDelta": 2.0811319986979164,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "sniper",
+      "direction": "N",
+      "oldWalkFrameDelta": 6.1817138671875,
+      "newWalkFrameDelta": 2.230568440755208,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "sniper",
+      "direction": "W",
+      "oldWalkFrameDelta": 8.1357177734375,
+      "newWalkFrameDelta": 2.981427001953125,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "sniper",
+      "direction": "E",
+      "oldWalkFrameDelta": 6.858601888020833,
+      "newWalkFrameDelta": 2.6965067545572916,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "high_priest",
+      "direction": "S",
+      "oldWalkFrameDelta": 6.903889973958334,
+      "newWalkFrameDelta": 2.6061869303385414,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "high_priest",
+      "direction": "N",
+      "oldWalkFrameDelta": 6.310274251302084,
+      "newWalkFrameDelta": 3.192645263671875,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "high_priest",
+      "direction": "W",
+      "oldWalkFrameDelta": 8.62498779296875,
+      "newWalkFrameDelta": 3.326226806640625,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "high_priest",
+      "direction": "E",
+      "oldWalkFrameDelta": 7.947456868489584,
+      "newWalkFrameDelta": 2.8180379231770836,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "life_creator",
+      "direction": "S",
+      "oldWalkFrameDelta": 6.494193522135417,
+      "newWalkFrameDelta": 2.651123046875,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "life_creator",
+      "direction": "N",
+      "oldWalkFrameDelta": 5.746004231770833,
+      "newWalkFrameDelta": 2.349224853515625,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "life_creator",
+      "direction": "W",
+      "oldWalkFrameDelta": 7.451359049479167,
+      "newWalkFrameDelta": 2.9463338216145836,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "life_creator",
+      "direction": "E",
+      "oldWalkFrameDelta": 7.85052490234375,
+      "newWalkFrameDelta": 3.6077921549479166,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "cross_assassin",
+      "direction": "S",
+      "oldWalkFrameDelta": 4.957364908854167,
+      "newWalkFrameDelta": 1.6293314615885417,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "cross_assassin",
+      "direction": "N",
+      "oldWalkFrameDelta": 4.766833496093749,
+      "newWalkFrameDelta": 1.53701171875,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "cross_assassin",
+      "direction": "W",
+      "oldWalkFrameDelta": 7.222249348958333,
+      "newWalkFrameDelta": 2.341316731770833,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "cross_assassin",
+      "direction": "E",
+      "oldWalkFrameDelta": 7.01463623046875,
+      "newWalkFrameDelta": 2.3305013020833334,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "white_smith",
+      "direction": "S",
+      "oldWalkFrameDelta": 5.299418131510416,
+      "newWalkFrameDelta": 2.3218404134114583,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "white_smith",
+      "direction": "N",
+      "oldWalkFrameDelta": 4.437117513020834,
+      "newWalkFrameDelta": 1.51182861328125,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "white_smith",
+      "direction": "W",
+      "oldWalkFrameDelta": 7.783447265625,
+      "newWalkFrameDelta": 2.582470703125,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "white_smith",
+      "direction": "E",
+      "oldWalkFrameDelta": 7.868896484375,
+      "newWalkFrameDelta": 2.9492919921875,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "fist_champion",
+      "direction": "S",
+      "oldWalkFrameDelta": 6.128287760416667,
+      "newWalkFrameDelta": 2.4178955078125,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "fist_champion",
+      "direction": "N",
+      "oldWalkFrameDelta": 5.225602213541667,
+      "newWalkFrameDelta": 1.787335205078125,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "fist_champion",
+      "direction": "W",
+      "oldWalkFrameDelta": 7.887890625,
+      "newWalkFrameDelta": 2.7750406901041664,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "fist_champion",
+      "direction": "E",
+      "oldWalkFrameDelta": 7.453865559895833,
+      "newWalkFrameDelta": 2.8256693522135414,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "shadow_stalker",
+      "direction": "S",
+      "oldWalkFrameDelta": 6.406477864583334,
+      "newWalkFrameDelta": 2.2872639973958333,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "shadow_stalker",
+      "direction": "N",
+      "oldWalkFrameDelta": 5.774210611979166,
+      "newWalkFrameDelta": 2.0790669759114584,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "shadow_stalker",
+      "direction": "W",
+      "oldWalkFrameDelta": 7.013330078125,
+      "newWalkFrameDelta": 2.77593994140625,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "shadow_stalker",
+      "direction": "E",
+      "oldWalkFrameDelta": 6.18787841796875,
+      "newWalkFrameDelta": 2.252510579427083,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_frost",
+      "direction": "S",
+      "oldWalkFrameDelta": 15.692118326822916,
+      "newWalkFrameDelta": 7.9912109375,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_frost",
+      "direction": "N",
+      "oldWalkFrameDelta": 14.025431315104168,
+      "newWalkFrameDelta": 6.31105211046007,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_frost",
+      "direction": "W",
+      "oldWalkFrameDelta": 20.16317409939236,
+      "newWalkFrameDelta": 7.779171413845486,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_frost",
+      "direction": "E",
+      "oldWalkFrameDelta": 19.46719021267361,
+      "newWalkFrameDelta": 6.589341905381945,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_phoenix",
+      "direction": "S",
+      "oldWalkFrameDelta": 11.241502549913195,
+      "newWalkFrameDelta": 4.87644788953993,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_phoenix",
+      "direction": "N",
+      "oldWalkFrameDelta": 10.509223090277777,
+      "newWalkFrameDelta": 4.545230441623264,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_phoenix",
+      "direction": "W",
+      "oldWalkFrameDelta": 12.224833170572914,
+      "newWalkFrameDelta": 4.833689371744792,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_phoenix",
+      "direction": "E",
+      "oldWalkFrameDelta": 12.336107042100695,
+      "newWalkFrameDelta": 4.89068603515625,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_moon",
+      "direction": "S",
+      "oldWalkFrameDelta": 11.954345703125,
+      "newWalkFrameDelta": 4.528822157118055,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_moon",
+      "direction": "N",
+      "oldWalkFrameDelta": 13.269755045572916,
+      "newWalkFrameDelta": 5.740353054470487,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_moon",
+      "direction": "W",
+      "oldWalkFrameDelta": 17.00469970703125,
+      "newWalkFrameDelta": 6.337972005208334,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_moon",
+      "direction": "E",
+      "oldWalkFrameDelta": 17.268107096354168,
+      "newWalkFrameDelta": 6.71248033311632,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_shadow",
+      "direction": "S",
+      "oldWalkFrameDelta": 12.337531195746529,
+      "newWalkFrameDelta": 6.157280815972223,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_shadow",
+      "direction": "N",
+      "oldWalkFrameDelta": 12.032219780815971,
+      "newWalkFrameDelta": 5.595218234592013,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_shadow",
+      "direction": "W",
+      "oldWalkFrameDelta": 12.949937608506945,
+      "newWalkFrameDelta": 4.410603841145834,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_shadow",
+      "direction": "E",
+      "oldWalkFrameDelta": 12.95437282986111,
+      "newWalkFrameDelta": 4.250606960720487,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_sakura",
+      "direction": "S",
+      "oldWalkFrameDelta": 14.94326443142361,
+      "newWalkFrameDelta": 5.704854329427083,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_sakura",
+      "direction": "N",
+      "oldWalkFrameDelta": 11.887891981336805,
+      "newWalkFrameDelta": 4.236192491319444,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_sakura",
+      "direction": "W",
+      "oldWalkFrameDelta": 16.498623318142364,
+      "newWalkFrameDelta": 5.002061631944445,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_sakura",
+      "direction": "E",
+      "oldWalkFrameDelta": 16.70474582248264,
+      "newWalkFrameDelta": 5.223659939236111,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_knight",
+      "direction": "S",
+      "oldWalkFrameDelta": 8.08334011501736,
+      "newWalkFrameDelta": 4.716525607638889,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_knight",
+      "direction": "N",
+      "oldWalkFrameDelta": 8.681966145833332,
+      "newWalkFrameDelta": 3.607899983723958,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_knight",
+      "direction": "W",
+      "oldWalkFrameDelta": 15.848192003038196,
+      "newWalkFrameDelta": 6.070166693793403,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_knight",
+      "direction": "E",
+      "oldWalkFrameDelta": 15.85446506076389,
+      "newWalkFrameDelta": 5.864223904079861,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_jungle",
+      "direction": "S",
+      "oldWalkFrameDelta": 9.63494873046875,
+      "newWalkFrameDelta": 3.8496738009982643,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_jungle",
+      "direction": "N",
+      "oldWalkFrameDelta": 6.894748263888889,
+      "newWalkFrameDelta": 2.244862874348958,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_jungle",
+      "direction": "W",
+      "oldWalkFrameDelta": 11.610039605034721,
+      "newWalkFrameDelta": 3.7332492404513893,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_jungle",
+      "direction": "E",
+      "oldWalkFrameDelta": 11.813720703125,
+      "newWalkFrameDelta": 3.6699761284722223,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_aurora",
+      "direction": "S",
+      "oldWalkFrameDelta": 10.131245930989582,
+      "newWalkFrameDelta": 4.575303819444445,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_aurora",
+      "direction": "N",
+      "oldWalkFrameDelta": 8.85843234592014,
+      "newWalkFrameDelta": 4.766106499565971,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_aurora",
+      "direction": "W",
+      "oldWalkFrameDelta": 15.424085828993057,
+      "newWalkFrameDelta": 5.67608642578125,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_aurora",
+      "direction": "E",
+      "oldWalkFrameDelta": 15.444756401909721,
+      "newWalkFrameDelta": 5.465847439236111,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_beach",
+      "direction": "S",
+      "oldWalkFrameDelta": 11.930379231770834,
+      "newWalkFrameDelta": 4.976182725694445,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_beach",
+      "direction": "N",
+      "oldWalkFrameDelta": 11.175706651475695,
+      "newWalkFrameDelta": 4.592620849609375,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_beach",
+      "direction": "W",
+      "oldWalkFrameDelta": 18.724880642361114,
+      "newWalkFrameDelta": 5.847720675998264,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_beach",
+      "direction": "E",
+      "oldWalkFrameDelta": 18.56231689453125,
+      "newWalkFrameDelta": 5.753760443793403,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_lava",
+      "direction": "S",
+      "oldWalkFrameDelta": 10.82086181640625,
+      "newWalkFrameDelta": 4.430189344618055,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_lava",
+      "direction": "N",
+      "oldWalkFrameDelta": 11.303758409288193,
+      "newWalkFrameDelta": 4.559054904513889,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_lava",
+      "direction": "W",
+      "oldWalkFrameDelta": 12.2198486328125,
+      "newWalkFrameDelta": 4.317494710286459,
+      "walkFrames": 8,
+      "attackFrames": 12
+    },
+    {
+      "id": "c_lava",
+      "direction": "E",
+      "oldWalkFrameDelta": 12.2279052734375,
+      "newWalkFrameDelta": 4.517096625434029,
+      "walkFrames": 8,
+      "attackFrames": 12
+    }
+  ],
+  "fxSheets": 156,
+  "fxFrames": 5092,
+  "allFXOriginalKeyframesExact": true,
+  "allFXDurationsUnchanged": true
+}

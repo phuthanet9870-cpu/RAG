@@ -1,0 +1,15 @@
+{
+  "sha256": "4ff280a678dafebbe026bc3249239fdb1acb9cc40234ee093c6849e854066f21",
+  "bodySheets": 33,
+  "costumes": 10,
+  "walkFramesPerDirection": 8,
+  "attackFramesPerDirection": 12,
+  "fxSheets": 156,
+  "fxFrames": 5092,
+  "runtimeUsesOnlyBakedFrames": true,
+  "all31MapsAndMonsterArtUnchanged": true,
+  "movementSpeedAndDamageUnchanged": true,
+  "skillIdentityAbilitiesDurationsAndColorsRetained": true,
+  "angel50PercentAndNoPickupFXRetained": true,
+  "walkCycleWorldDistance": 80
+}

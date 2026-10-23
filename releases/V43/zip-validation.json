@@ -1,0 +1,29 @@
+{
+  "extractedGameBoot": true,
+  "all31PortalRoutes": true,
+  "motionInspector43Bodies156FX": true,
+  "frameRateParity": [
+    {
+      "fps": 15,
+      "x": 100,
+      "phase": 2
+    },
+    {
+      "fps": 30,
+      "x": 100,
+      "phase": 2
+    },
+    {
+      "fps": 60,
+      "x": 100,
+      "phase": 2
+    }
+  ],
+  "effectLifetimeExtensionDoesNotRewind": true,
+  "costumeMovement": true,
+  "angelAndPickupPreserved": true,
+  "standaloneViewer": true,
+  "mobileGMViewport": true,
+  "browserErrors": [],
+  "testedOverLocalHTTP": true
+}
