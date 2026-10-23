@@ -1,0 +1,373 @@
+{
+  "texturesDecoded": 38,
+  "all128Pixels": true,
+  "transparentResources": 6,
+  "seamMeasurements": [
+    {
+      "index": 0,
+      "edgeHorizontal": 6.88,
+      "edgeVertical": 9.33
+    },
+    {
+      "index": 1,
+      "edgeHorizontal": 3.01,
+      "edgeVertical": 2.87
+    },
+    {
+      "index": 2,
+      "edgeHorizontal": 3.2,
+      "edgeVertical": 5.13
+    },
+    {
+      "index": 3,
+      "edgeHorizontal": 3.3,
+      "edgeVertical": 9.1
+    },
+    {
+      "index": 4,
+      "edgeHorizontal": 2.33,
+      "edgeVertical": 3.5
+    },
+    {
+      "index": 5,
+      "edgeHorizontal": 2.98,
+      "edgeVertical": 2.57
+    },
+    {
+      "index": 6,
+      "edgeHorizontal": 3.79,
+      "edgeVertical": 6.94
+    },
+    {
+      "index": 7,
+      "edgeHorizontal": 3.25,
+      "edgeVertical": 4.81
+    },
+    {
+      "index": 8,
+      "edgeHorizontal": 3.68,
+      "edgeVertical": 7.59
+    },
+    {
+      "index": 9,
+      "edgeHorizontal": 9.17,
+      "edgeVertical": 4.79
+    },
+    {
+      "index": 10,
+      "edgeHorizontal": 2.64,
+      "edgeVertical": 6.05
+    },
+    {
+      "index": 11,
+      "edgeHorizontal": 4.08,
+      "edgeVertical": 7.32
+    },
+    {
+      "index": 12,
+      "edgeHorizontal": 5.57,
+      "edgeVertical": 4.62
+    },
+    {
+      "index": 13,
+      "edgeHorizontal": 1.78,
+      "edgeVertical": 5.26
+    },
+    {
+      "index": 14,
+      "edgeHorizontal": 0.91,
+      "edgeVertical": 0.74
+    },
+    {
+      "index": 15,
+      "edgeHorizontal": 1.59,
+      "edgeVertical": 5.65
+    },
+    {
+      "index": 16,
+      "edgeHorizontal": 0.73,
+      "edgeVertical": 0.91
+    },
+    {
+      "index": 17,
+      "edgeHorizontal": 4.54,
+      "edgeVertical": 6.13
+    },
+    {
+      "index": 18,
+      "edgeHorizontal": 7.24,
+      "edgeVertical": 6.89
+    },
+    {
+      "index": 19,
+      "edgeHorizontal": 2.43,
+      "edgeVertical": 7.9
+    },
+    {
+      "index": 20,
+      "edgeHorizontal": 6.64,
+      "edgeVertical": 5.21
+    },
+    {
+      "index": 21,
+      "edgeHorizontal": 3.32,
+      "edgeVertical": 1.63
+    },
+    {
+      "index": 22,
+      "edgeHorizontal": 0.38,
+      "edgeVertical": 1.36
+    },
+    {
+      "index": 23,
+      "edgeHorizontal": 0.44,
+      "edgeVertical": 0.69
+    },
+    {
+      "index": 24,
+      "edgeHorizontal": 2.76,
+      "edgeVertical": 3.84
+    },
+    {
+      "index": 25,
+      "edgeHorizontal": 6.39,
+      "edgeVertical": 11.08
+    },
+    {
+      "index": 26,
+      "edgeHorizontal": 0.48,
+      "edgeVertical": 0.72
+    },
+    {
+      "index": 27,
+      "edgeHorizontal": 7.1,
+      "edgeVertical": 4.06
+    },
+    {
+      "index": 28,
+      "edgeHorizontal": 3.19,
+      "edgeVertical": 5.03
+    },
+    {
+      "index": 29,
+      "edgeHorizontal": 0.24,
+      "edgeVertical": 0.83
+    },
+    {
+      "index": 30,
+      "edgeHorizontal": 0.2,
+      "edgeVertical": 1.13
+    },
+    {
+      "index": 31,
+      "edgeHorizontal": 0.13,
+      "edgeVertical": 0.1
+    }
+  ],
+  "mapsRendered": [
+    {
+      "key": "0",
+      "material": 0,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "1",
+      "material": 1,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "2",
+      "material": 2,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "3",
+      "material": 3,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "4",
+      "material": 4,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "5",
+      "material": 5,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "6",
+      "material": 6,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "7",
+      "material": 7,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "8",
+      "material": 8,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "9",
+      "material": 9,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "10",
+      "material": 10,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "11",
+      "material": 11,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "12",
+      "material": 12,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "13",
+      "material": 13,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "14",
+      "material": 14,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "15",
+      "material": 15,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "16",
+      "material": 16,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "17",
+      "material": 17,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "18",
+      "material": 18,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "19",
+      "material": 19,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "20",
+      "material": 20,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "21",
+      "material": 21,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "22",
+      "material": 22,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "23",
+      "material": 23,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "24",
+      "material": 24,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "r_eclipse",
+      "material": 25,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "r_tomb",
+      "material": 26,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "r_tower",
+      "material": 27,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "r_training",
+      "material": 28,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "r_arena",
+      "material": 29,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    },
+    {
+      "key": "r_castle",
+      "material": 0,
+      "paintedPixels": 65536,
+      "spawnFree": true
+    }
+  ],
+  "preservedData": [
+    "const WORLD33_PLANS=",
+    "const WORLD33_PLACEMENTS=",
+    "window.SHEET_DATA=",
+    "window.COSTUME36_DATA=",
+    "window.MONSTER_DATA=",
+    "const HITBOX42_DATA=",
+    "window.VFX47_LIBRARY=",
+    "window.SKILL_FX_DATA=",
+    "window.CAST_FX_DATA="
+  ],
+  "gear50Unchanged": true,
+  "gmAuthenticatedAllSixSpawned": true,
+  "mobileViewports": [
+    390,
+    844
+  ],
+  "browserErrors": []
+}
