@@ -1,0 +1,19 @@
+{
+  "sha256": "f57122c299807c520a5c75734280b884ed1dc6aca458c7fb65a2f86731dda3bf",
+  "bodyDirectionCases": 172,
+  "classCostumeCombinations": 330,
+  "vfxFramesRendered": 5092,
+  "vfxMainSceneCoverage": 156,
+  "activeSkillsExecuted": 105,
+  "passiveSkillsObserved": 41,
+  "arenaMasks": 21,
+  "gmFramesInspector": true,
+  "realMovement": true,
+  "realCastHits": 3,
+  "mobileViewports": [
+    390,
+    844
+  ],
+  "angelAndPickupBehaviorPreserved": true,
+  "browserErrors": []
+}

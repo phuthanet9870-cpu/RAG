@@ -1,0 +1,11 @@
+{
+  "changedCostumes": 10,
+  "directionClips": 40,
+  "walkFrames": 320,
+  "allWalkFramesUnique": true,
+  "feetAlternateAndLiftAtMost2NativePixels": true,
+  "feetBaseline128EveryFrame": true,
+  "facesUpperBodyIdleAndAttacksPreserved": true,
+  "unchangedIdleAttackDeathFrames": 540,
+  "startStopClipsMatchNewWalk": true
+}

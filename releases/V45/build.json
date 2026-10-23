@@ -1,0 +1,13 @@
+{
+  "version": 45,
+  "sha256": "f57122c299807c520a5c75734280b884ed1dc6aca458c7fb65a2f86731dda3bf",
+  "costumes": 10,
+  "directionsPerCostume": 4,
+  "walkFramesPerDirection": 8,
+  "liftSourcePixels": 2,
+  "shortStrideSourcePixels": 5,
+  "wholeFrameSpritesOnly": true,
+  "baseClasses33Untouched": true,
+  "v44VfxAndCollisionFixesRetained": true,
+  "idleAndAttackArtRetained": true
+}
