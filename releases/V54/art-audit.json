@@ -1,0 +1,1548 @@
+{
+  "families": [
+    {
+      "family": "lance",
+      "source": "exec-123c6ebe-b0af-49bc-9f22-3481fea3d451.png",
+      "sourceRow": 0,
+      "rowBounds": [
+        0,
+        235
+      ],
+      "gutters": [
+        0,
+        107,
+        241,
+        375,
+        522,
+        652,
+        792,
+        936,
+        1064,
+        1179,
+        1306,
+        1426,
+        1536
+      ],
+      "scale": 0.5975609756097561,
+      "sourceDetectedFrames": 12,
+      "selectedSourceSlots": [
+        0,
+        3,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11
+      ],
+      "sourcePeaks": [
+        64.0,
+        188.0,
+        315.0,
+        461.0,
+        582.0,
+        706.0,
+        857.0,
+        999.0,
+        1120.0,
+        1255.0,
+        1374.0,
+        1495.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        64
+      ],
+      "maxSourceFrameWidth": 164,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "solar_slash",
+      "source": "exec-123c6ebe-b0af-49bc-9f22-3481fea3d451.png",
+      "sourceRow": 1,
+      "rowBounds": [
+        235,
+        478
+      ],
+      "gutters": [
+        0,
+        119,
+        265,
+        404,
+        542,
+        663,
+        828,
+        972,
+        1085,
+        1208,
+        1326,
+        1432,
+        1536
+      ],
+      "scale": 0.4066390041493776,
+      "sourceDetectedFrames": 12,
+      "selectedSourceSlots": [
+        0,
+        2,
+        4,
+        5,
+        6,
+        8,
+        10,
+        11
+      ],
+      "sourcePeaks": [
+        66.0,
+        217.0,
+        353.0,
+        481.0,
+        609.0,
+        755.0,
+        902.0,
+        1043.0,
+        1163.0,
+        1284.0,
+        1392.0,
+        1480.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        108
+      ],
+      "maxSourceFrameWidth": 197,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "spirit_fist",
+      "source": "exec-123c6ebe-b0af-49bc-9f22-3481fea3d451.png",
+      "sourceRow": 2,
+      "rowBounds": [
+        478,
+        723
+      ],
+      "gutters": [
+        0,
+        103,
+        227,
+        360,
+        519,
+        768,
+        944,
+        1086,
+        1200,
+        1317,
+        1433,
+        1536
+      ],
+      "scale": 0.3225806451612903,
+      "sourceDetectedFrames": 11,
+      "selectedSourceSlots": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        7,
+        9,
+        10
+      ],
+      "sourcePeaks": [
+        58.0,
+        183.0,
+        290.0,
+        430.0,
+        676.0,
+        845.0,
+        999.0,
+        1135.0,
+        1262.0,
+        1386.0,
+        1494.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        64
+      ],
+      "maxSourceFrameWidth": 310,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "lightning",
+      "source": "exec-ee6e4d37-2cae-4d19-8e24-b27198ca3586.png",
+      "sourceRow": 0,
+      "rowBounds": [
+        0,
+        262
+      ],
+      "gutters": [
+        0,
+        127,
+        264,
+        392,
+        518,
+        643,
+        773,
+        905,
+        1043,
+        1161,
+        1288,
+        1405,
+        1536
+      ],
+      "scale": 0.632258064516129,
+      "sourceDetectedFrames": 12,
+      "selectedSourceSlots": [
+        0,
+        3,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11
+      ],
+      "sourcePeaks": [
+        77.0,
+        219.0,
+        347.0,
+        475.0,
+        598.0,
+        727.0,
+        848.0,
+        1000.0,
+        1122.0,
+        1218.0,
+        1369.0,
+        1472.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        64
+      ],
+      "maxSourceFrameWidth": 139,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "cyclone",
+      "source": "exec-ee6e4d37-2cae-4d19-8e24-b27198ca3586.png",
+      "sourceRow": 1,
+      "rowBounds": [
+        262,
+        496
+      ],
+      "gutters": [
+        0,
+        133,
+        256,
+        379,
+        508,
+        636,
+        770,
+        903,
+        1037,
+        1148,
+        1298,
+        1414,
+        1536
+      ],
+      "scale": 0.550561797752809,
+      "sourceDetectedFrames": 12,
+      "selectedSourceSlots": [
+        0,
+        2,
+        4,
+        5,
+        6,
+        8,
+        10,
+        11
+      ],
+      "sourcePeaks": [
+        72.0,
+        195.0,
+        320.0,
+        446.0,
+        574.0,
+        704.0,
+        832.0,
+        962.0,
+        1094.0,
+        1220.0,
+        1342.0,
+        1466.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        108
+      ],
+      "maxSourceFrameWidth": 138,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "ice_spikes",
+      "source": "exec-ee6e4d37-2cae-4d19-8e24-b27198ca3586.png",
+      "sourceRow": 2,
+      "rowBounds": [
+        496,
+        721
+      ],
+      "gutters": [
+        0,
+        132,
+        255,
+        381,
+        509,
+        636,
+        769,
+        902,
+        1030,
+        1159,
+        1288,
+        1413,
+        1536
+      ],
+      "scale": 0.5157894736842106,
+      "sourceDetectedFrames": 12,
+      "selectedSourceSlots": [
+        0,
+        3,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11
+      ],
+      "sourcePeaks": [
+        72.0,
+        195.0,
+        320.0,
+        449.0,
+        574.0,
+        702.0,
+        832.0,
+        962.0,
+        1096.0,
+        1222.0,
+        1340.0,
+        1465.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        108
+      ],
+      "maxSourceFrameWidth": 133,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "blizzard",
+      "source": "exec-ee6e4d37-2cae-4d19-8e24-b27198ca3586.png",
+      "sourceRow": 3,
+      "rowBounds": [
+        721,
+        1024
+      ],
+      "gutters": [
+        0,
+        134,
+        254,
+        384,
+        513,
+        637,
+        772,
+        905,
+        1032,
+        1157,
+        1287,
+        1411,
+        1536
+      ],
+      "scale": 0.56,
+      "sourceDetectedFrames": 12,
+      "selectedSourceSlots": [
+        0,
+        2,
+        4,
+        5,
+        6,
+        8,
+        10,
+        11
+      ],
+      "sourcePeaks": [
+        74.0,
+        192.0,
+        318.0,
+        444.0,
+        573.0,
+        696.0,
+        827.0,
+        957.0,
+        1087.0,
+        1225.0,
+        1334.0,
+        1477.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        108
+      ],
+      "maxSourceFrameWidth": 146,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "aegis",
+      "source": "exec-5bc323be-cb84-4cca-961a-dabf19af6cb3.png",
+      "sourceRow": 0,
+      "rowBounds": [
+        0,
+        262
+      ],
+      "gutters": [
+        0,
+        131,
+        252,
+        382,
+        513,
+        639,
+        786,
+        932,
+        1070,
+        1178,
+        1312,
+        1428,
+        1536
+      ],
+      "scale": 0.48514851485148514,
+      "sourceDetectedFrames": 12,
+      "selectedSourceSlots": [
+        0,
+        2,
+        4,
+        5,
+        6,
+        8,
+        10,
+        11
+      ],
+      "sourcePeaks": [
+        75.0,
+        193.0,
+        317.0,
+        448.0,
+        575.0,
+        712.0,
+        838.0,
+        997.0,
+        1121.0,
+        1265.0,
+        1367.0,
+        1473.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        108
+      ],
+      "maxSourceFrameWidth": 156,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "restoration",
+      "source": "exec-5bc323be-cb84-4cca-961a-dabf19af6cb3.png",
+      "sourceRow": 1,
+      "rowBounds": [
+        262,
+        542
+      ],
+      "gutters": [
+        0,
+        146,
+        258,
+        389,
+        516,
+        643,
+        787,
+        929,
+        1079,
+        1212,
+        1326,
+        1434,
+        1536
+      ],
+      "scale": 0.42424242424242425,
+      "sourceDetectedFrames": 12,
+      "selectedSourceSlots": [
+        0,
+        2,
+        4,
+        5,
+        6,
+        8,
+        10,
+        11
+      ],
+      "sourcePeaks": [
+        89.0,
+        203.0,
+        325.0,
+        453.0,
+        583.0,
+        714.0,
+        850.0,
+        1009.0,
+        1142.0,
+        1277.0,
+        1363.0,
+        1476.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        108
+      ],
+      "maxSourceFrameWidth": 134,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "resurrection",
+      "source": "exec-5bc323be-cb84-4cca-961a-dabf19af6cb3.png",
+      "sourceRow": 2,
+      "rowBounds": [
+        542,
+        777
+      ],
+      "gutters": [
+        0,
+        135,
+        250,
+        357,
+        486,
+        618,
+        827,
+        968,
+        1082,
+        1201,
+        1332,
+        1432,
+        1536
+      ],
+      "scale": 0.44545454545454544,
+      "sourceDetectedFrames": 12,
+      "selectedSourceSlots": [
+        0,
+        2,
+        4,
+        5,
+        6,
+        8,
+        10,
+        11
+      ],
+      "sourcePeaks": [
+        79.0,
+        194.0,
+        310.0,
+        428.0,
+        562.0,
+        721.0,
+        886.0,
+        1020.0,
+        1132.0,
+        1239.0,
+        1387.0,
+        1475.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        108
+      ],
+      "maxSourceFrameWidth": 216,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "forge",
+      "source": "exec-5bc323be-cb84-4cca-961a-dabf19af6cb3.png",
+      "sourceRow": 3,
+      "rowBounds": [
+        777,
+        1024
+      ],
+      "gutters": [
+        0,
+        136,
+        244,
+        366,
+        491,
+        637,
+        808,
+        936,
+        1088,
+        1212,
+        1325,
+        1433,
+        1536
+      ],
+      "scale": 0.4688995215311005,
+      "sourceDetectedFrames": 12,
+      "selectedSourceSlots": [
+        0,
+        2,
+        4,
+        5,
+        6,
+        8,
+        10,
+        11
+      ],
+      "sourcePeaks": [
+        80.0,
+        195.0,
+        309.0,
+        429.0,
+        564.0,
+        720.0,
+        869.0,
+        1004.0,
+        1137.0,
+        1263.0,
+        1372.0,
+        1474.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        108
+      ],
+      "maxSourceFrameWidth": 168,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "acid",
+      "source": "exec-6ba9a640-1619-4e7c-a11e-1555418022ab.png",
+      "sourceRow": 0,
+      "rowBounds": [
+        0,
+        264
+      ],
+      "gutters": [
+        0,
+        139,
+        273,
+        423,
+        555,
+        721,
+        911,
+        1041,
+        1177,
+        1304,
+        1423,
+        1536
+      ],
+      "scale": 0.4666666666666667,
+      "sourceDetectedFrames": 11,
+      "selectedSourceSlots": [
+        0,
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "sourcePeaks": [
+        91.0,
+        223.0,
+        361.0,
+        496.0,
+        652.0,
+        810.0,
+        979.0,
+        1101.0,
+        1243.0,
+        1358.0,
+        1467.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        64
+      ],
+      "maxSourceFrameWidth": 189,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "venom",
+      "source": "exec-6ba9a640-1619-4e7c-a11e-1555418022ab.png",
+      "sourceRow": 1,
+      "rowBounds": [
+        264,
+        500
+      ],
+      "gutters": [
+        0,
+        108,
+        229,
+        358,
+        499,
+        679,
+        882,
+        1030,
+        1177,
+        1304,
+        1422,
+        1536
+      ],
+      "scale": 0.5104166666666666,
+      "sourceDetectedFrames": 11,
+      "selectedSourceSlots": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        7,
+        9,
+        10
+      ],
+      "sourcePeaks": [
+        65.0,
+        181.0,
+        303.0,
+        426.0,
+        590.0,
+        784.0,
+        971.0,
+        1108.0,
+        1261.0,
+        1380.0,
+        1466.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        108
+      ],
+      "maxSourceFrameWidth": 194,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "vines",
+      "source": "exec-6ba9a640-1619-4e7c-a11e-1555418022ab.png",
+      "sourceRow": 2,
+      "rowBounds": [
+        500,
+        755
+      ],
+      "gutters": [
+        0,
+        116,
+        227,
+        345,
+        463,
+        589,
+        738,
+        880,
+        1018,
+        1150,
+        1291,
+        1423,
+        1536
+      ],
+      "scale": 0.46226415094339623,
+      "sourceDetectedFrames": 12,
+      "selectedSourceSlots": [
+        0,
+        3,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11
+      ],
+      "sourcePeaks": [
+        67.0,
+        177.0,
+        290.0,
+        408.0,
+        529.0,
+        661.0,
+        812.0,
+        955.0,
+        1088.0,
+        1231.0,
+        1363.0,
+        1472.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        108
+      ],
+      "maxSourceFrameWidth": 141,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "bloom",
+      "source": "exec-6ba9a640-1619-4e7c-a11e-1555418022ab.png",
+      "sourceRow": 3,
+      "rowBounds": [
+        755,
+        1024
+      ],
+      "gutters": [
+        0,
+        99,
+        205,
+        315,
+        438,
+        566,
+        735,
+        930,
+        1094,
+        1221,
+        1335,
+        1431,
+        1536
+      ],
+      "scale": 0.5568181818181818,
+      "sourceDetectedFrames": 12,
+      "selectedSourceSlots": [
+        0,
+        3,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "sourcePeaks": [
+        63.0,
+        155.0,
+        260.0,
+        378.0,
+        503.0,
+        651.0,
+        830.0,
+        1019.0,
+        1158.0,
+        1280.0,
+        1370.0,
+        1466.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        108
+      ],
+      "maxSourceFrameWidth": 179,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "soul_reap",
+      "source": "exec-3a8b095e-ded3-4b4f-9048-605ce9c10e45.png",
+      "sourceRow": 0,
+      "rowBounds": [
+        0,
+        263
+      ],
+      "gutters": [
+        0,
+        152,
+        277,
+        400,
+        531,
+        676,
+        821,
+        959,
+        1095,
+        1222,
+        1375,
+        1536
+      ],
+      "scale": 0.49,
+      "sourceDetectedFrames": 11,
+      "selectedSourceSlots": [
+        0,
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "sourcePeaks": [
+        108.0,
+        234.0,
+        357.0,
+        481.0,
+        625.0,
+        771.0,
+        914.0,
+        1043.0,
+        1157.0,
+        1278.0,
+        1429.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        108
+      ],
+      "maxSourceFrameWidth": 193,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "soul_chain",
+      "source": "exec-3a8b095e-ded3-4b4f-9048-605ce9c10e45.png",
+      "sourceRow": 1,
+      "rowBounds": [
+        263,
+        524
+      ],
+      "gutters": [
+        0,
+        141,
+        266,
+        394,
+        523,
+        666,
+        823,
+        963,
+        1109,
+        1255,
+        1393,
+        1536
+      ],
+      "scale": 0.4188034188034188,
+      "sourceDetectedFrames": 11,
+      "selectedSourceSlots": [
+        0,
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "sourcePeaks": [
+        81.0,
+        208.0,
+        335.0,
+        456.0,
+        594.0,
+        734.0,
+        896.0,
+        1033.0,
+        1184.0,
+        1322.0,
+        1445.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        108
+      ],
+      "maxSourceFrameWidth": 153,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "cross_blade",
+      "source": "exec-3a8b095e-ded3-4b4f-9048-605ce9c10e45.png",
+      "sourceRow": 2,
+      "rowBounds": [
+        524,
+        748
+      ],
+      "gutters": [
+        0,
+        156,
+        280,
+        406,
+        541,
+        675,
+        838,
+        975,
+        1111,
+        1250,
+        1393,
+        1536
+      ],
+      "scale": 0.45662100456621,
+      "sourceDetectedFrames": 11,
+      "selectedSourceSlots": [
+        0,
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "sourcePeaks": [
+        113.0,
+        237.0,
+        359.0,
+        492.0,
+        631.0,
+        756.0,
+        884.0,
+        1025.0,
+        1174.0,
+        1325.0,
+        1431.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        108
+      ],
+      "maxSourceFrameWidth": 219,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "eclipse",
+      "source": "exec-3a8b095e-ded3-4b4f-9048-605ce9c10e45.png",
+      "sourceRow": 3,
+      "rowBounds": [
+        748,
+        1024
+      ],
+      "gutters": [
+        0,
+        141,
+        259,
+        382,
+        520,
+        686,
+        872,
+        1031,
+        1168,
+        1297,
+        1403,
+        1536
+      ],
+      "scale": 0.4537037037037037,
+      "sourceDetectedFrames": 11,
+      "selectedSourceSlots": [
+        0,
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "sourcePeaks": [
+        88.0,
+        201.0,
+        324.0,
+        439.0,
+        587.0,
+        760.0,
+        934.0,
+        1090.0,
+        1219.0,
+        1341.0,
+        1458.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        108
+      ],
+      "maxSourceFrameWidth": 207,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "arrow",
+      "source": "exec-5d807b01-462f-427e-b4c1-947cd5bb8f34.png",
+      "sourceRow": 0,
+      "rowBounds": [
+        0,
+        231
+      ],
+      "gutters": [
+        0,
+        131,
+        251,
+        373,
+        496,
+        629,
+        774,
+        902,
+        1020,
+        1156,
+        1290,
+        1536
+      ],
+      "scale": 0.5154639175257731,
+      "sourceDetectedFrames": 11,
+      "selectedSourceSlots": [
+        0,
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "sourcePeaks": [
+        85.0,
+        201.0,
+        321.0,
+        446.0,
+        566.0,
+        706.0,
+        835.0,
+        963.0,
+        1096.0,
+        1242.0,
+        1380.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        64
+      ],
+      "maxSourceFrameWidth": 194,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "arrow_rain",
+      "source": "exec-5d807b01-462f-427e-b4c1-947cd5bb8f34.png",
+      "sourceRow": 1,
+      "rowBounds": [
+        231,
+        527
+      ],
+      "gutters": [
+        0,
+        123,
+        265,
+        392,
+        506,
+        634,
+        778,
+        915,
+        1048,
+        1172,
+        1293,
+        1410,
+        1536
+      ],
+      "scale": 0.5664739884393064,
+      "sourceDetectedFrames": 12,
+      "selectedSourceSlots": [
+        0,
+        2,
+        4,
+        5,
+        6,
+        8,
+        10,
+        11
+      ],
+      "sourcePeaks": [
+        89.0,
+        187.0,
+        322.0,
+        459.0,
+        584.0,
+        703.0,
+        846.0,
+        981.0,
+        1107.0,
+        1234.0,
+        1355.0,
+        1476.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        108
+      ],
+      "maxSourceFrameWidth": 129,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "tailwind",
+      "source": "exec-5d807b01-462f-427e-b4c1-947cd5bb8f34.png",
+      "sourceRow": 2,
+      "rowBounds": [
+        527,
+        773
+      ],
+      "gutters": [
+        0,
+        127,
+        247,
+        376,
+        501,
+        636,
+        783,
+        916,
+        1042,
+        1208,
+        1536
+      ],
+      "scale": 0.42016806722689076,
+      "sourceDetectedFrames": 10,
+      "selectedSourceSlots": [
+        0,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "sourcePeaks": [
+        78.0,
+        202.0,
+        325.0,
+        441.0,
+        577.0,
+        712.0,
+        861.0,
+        990.0,
+        1130.0,
+        1258.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        64
+      ],
+      "maxSourceFrameWidth": 238,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "shadow_web",
+      "source": "exec-5d807b01-462f-427e-b4c1-947cd5bb8f34.png",
+      "sourceRow": 3,
+      "rowBounds": [
+        773,
+        1024
+      ],
+      "gutters": [
+        0,
+        131,
+        249,
+        373,
+        497,
+        624,
+        782,
+        913,
+        1045,
+        1172,
+        1298,
+        1410,
+        1536
+      ],
+      "scale": 0.5798816568047337,
+      "sourceDetectedFrames": 12,
+      "selectedSourceSlots": [
+        0,
+        2,
+        4,
+        5,
+        6,
+        8,
+        10,
+        11
+      ],
+      "sourcePeaks": [
+        74.0,
+        191.0,
+        311.0,
+        436.0,
+        560.0,
+        703.0,
+        844.0,
+        977.0,
+        1110.0,
+        1223.0,
+        1346.0,
+        1473.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        108
+      ],
+      "maxSourceFrameWidth": 141,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "forge_impact",
+      "source": "exec-258263ca-3bd7-4d54-a494-b4a8be777b64.png",
+      "sourceRow": 0,
+      "rowBounds": [
+        0,
+        273
+      ],
+      "gutters": [
+        0,
+        195,
+        384,
+        569,
+        780,
+        970,
+        1163,
+        1343,
+        1536
+      ],
+      "scale": 0.42424242424242425,
+      "sourceDetectedFrames": 8,
+      "selectedSourceSlots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "sourcePeaks": [
+        96.0,
+        288.0,
+        480.0,
+        672.0,
+        864.0,
+        1056.0,
+        1248.0,
+        1440.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        108
+      ],
+      "maxSourceFrameWidth": 178,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "holy_judgement",
+      "source": "exec-258263ca-3bd7-4d54-a494-b4a8be777b64.png",
+      "sourceRow": 1,
+      "rowBounds": [
+        273,
+        529
+      ],
+      "gutters": [
+        0,
+        192,
+        372,
+        566,
+        780,
+        962,
+        1160,
+        1342,
+        1536
+      ],
+      "scale": 0.44144144144144143,
+      "sourceDetectedFrames": 8,
+      "selectedSourceSlots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "sourcePeaks": [
+        96.0,
+        288.0,
+        480.0,
+        672.0,
+        864.0,
+        1056.0,
+        1248.0,
+        1440.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        108
+      ],
+      "maxSourceFrameWidth": 168,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "frost_ward",
+      "source": "exec-258263ca-3bd7-4d54-a494-b4a8be777b64.png",
+      "sourceRow": 2,
+      "rowBounds": [
+        529,
+        777
+      ],
+      "gutters": [
+        0,
+        196,
+        378,
+        566,
+        783,
+        971,
+        1165,
+        1345,
+        1536
+      ],
+      "scale": 0.49261083743842365,
+      "sourceDetectedFrames": 8,
+      "selectedSourceSlots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "sourcePeaks": [
+        96.0,
+        288.0,
+        480.0,
+        672.0,
+        864.0,
+        1056.0,
+        1248.0,
+        1440.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        108
+      ],
+      "maxSourceFrameWidth": 203,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    },
+    {
+      "family": "soul_ward",
+      "source": "exec-258263ca-3bd7-4d54-a494-b4a8be777b64.png",
+      "sourceRow": 3,
+      "rowBounds": [
+        777,
+        1024
+      ],
+      "gutters": [
+        0,
+        194,
+        379,
+        565,
+        781,
+        974,
+        1160,
+        1350,
+        1536
+      ],
+      "scale": 0.5025125628140703,
+      "sourceDetectedFrames": 8,
+      "selectedSourceSlots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "sourcePeaks": [
+        96.0,
+        288.0,
+        480.0,
+        672.0,
+        864.0,
+        1056.0,
+        1248.0,
+        1440.0
+      ],
+      "frames": 8,
+      "uniqueFrames": 8,
+      "anchor": [
+        64,
+        108
+      ],
+      "maxSourceFrameWidth": 199,
+      "nativeFramesOnly": true,
+      "edgePixelsRemoved": true
+    }
+  ],
+  "totalFamilies": 27,
+  "nativeFrames": 216,
+  "noOpticalFlowOrCrossfade": true
+}

@@ -1,0 +1,578 @@
+{
+  "honor_guardian_53_mastery": {
+    "name": "เกราะแห่งคำสัตย์",
+    "class": "honor_guardian",
+    "family": "aegis",
+    "frames": 8,
+    "file": "atlases/aegis.png",
+    "skillSheet": "skills/honor_guardian_53_mastery.png"
+  },
+  "h53_lance": {
+    "name": "หอกตราสัตย์",
+    "class": "honor_guardian",
+    "family": "lance",
+    "frames": 8,
+    "file": "atlases/lance.png",
+    "skillSheet": "skills/h53_lance.png"
+  },
+  "h53_call": {
+    "name": "บัญชาการแนวโล่",
+    "class": "honor_guardian",
+    "family": "aegis",
+    "frames": 8,
+    "file": "atlases/aegis.png",
+    "skillSheet": "skills/h53_call.png"
+  },
+  "h53_wall": {
+    "name": "กำแพงเกียรติยศ",
+    "class": "honor_guardian",
+    "family": "aegis",
+    "frames": 8,
+    "file": "atlases/aegis.png",
+    "skillSheet": "skills/h53_wall.png"
+  },
+  "h53_sweep": {
+    "name": "กวาดหอกราชองครักษ์",
+    "class": "honor_guardian",
+    "family": "solar_slash",
+    "frames": 8,
+    "file": "atlases/solar_slash.png",
+    "skillSheet": "skills/h53_sweep.png"
+  },
+  "h53_oath": {
+    "name": "ป้อมปราการคำสัตย์",
+    "class": "honor_guardian",
+    "family": "aegis",
+    "frames": 8,
+    "file": "atlases/aegis.png",
+    "skillSheet": "skills/h53_oath.png"
+  },
+  "twilight_knight_53_mastery": {
+    "name": "สมดุลสนธยา",
+    "class": "twilight_knight",
+    "family": "soul_ward",
+    "frames": 8,
+    "file": "atlases/soul_ward.png",
+    "skillSheet": "skills/twilight_knight_53_mastery.png"
+  },
+  "t53_edge": {
+    "name": "คมดาบสนธยา",
+    "class": "twilight_knight",
+    "family": "solar_slash",
+    "frames": 8,
+    "file": "atlases/solar_slash.png",
+    "skillSheet": "skills/t53_edge.png"
+  },
+  "t53_dusk": {
+    "name": "หมอกพลบค่ำ",
+    "class": "twilight_knight",
+    "family": "eclipse",
+    "frames": 8,
+    "file": "atlases/eclipse.png",
+    "skillSheet": "skills/t53_dusk.png"
+  },
+  "t53_ward": {
+    "name": "ม่านแสงสุดท้าย",
+    "class": "twilight_knight",
+    "family": "aegis",
+    "frames": 8,
+    "file": "atlases/aegis.png",
+    "skillSheet": "skills/t53_ward.png"
+  },
+  "t53_cross": {
+    "name": "กางเขนจันทร์เสี้ยว",
+    "class": "twilight_knight",
+    "family": "holy_judgement",
+    "frames": 8,
+    "file": "atlases/holy_judgement.png",
+    "skillSheet": "skills/t53_cross.png"
+  },
+  "t53_eclipse": {
+    "name": "สุริยันลับฟ้า",
+    "class": "twilight_knight",
+    "family": "eclipse",
+    "frames": 8,
+    "file": "atlases/eclipse.png",
+    "skillSheet": "skills/t53_eclipse.png"
+  },
+  "death_knight_53_mastery": {
+    "name": "เกราะวิญญาณ",
+    "class": "death_knight",
+    "family": "soul_ward",
+    "frames": 8,
+    "file": "atlases/soul_ward.png",
+    "skillSheet": "skills/death_knight_53_mastery.png"
+  },
+  "d53_reap": {
+    "name": "เคียวเก็บวิญญาณ",
+    "class": "death_knight",
+    "family": "soul_reap",
+    "frames": 8,
+    "file": "atlases/soul_reap.png",
+    "skillSheet": "skills/d53_reap.png"
+  },
+  "d53_chain": {
+    "name": "โซ่สุสาน",
+    "class": "death_knight",
+    "family": "soul_chain",
+    "frames": 8,
+    "file": "atlases/soul_chain.png",
+    "skillSheet": "skills/d53_chain.png"
+  },
+  "d53_armor": {
+    "name": "เกราะวิญญาณทมิฬ",
+    "class": "death_knight",
+    "family": "soul_ward",
+    "frames": 8,
+    "file": "atlases/soul_ward.png",
+    "skillSheet": "skills/d53_armor.png"
+  },
+  "d53_dread": {
+    "name": "เสียงคร่ำครวญ",
+    "class": "death_knight",
+    "family": "eclipse",
+    "frames": 8,
+    "file": "atlases/eclipse.png",
+    "skillSheet": "skills/d53_dread.png"
+  },
+  "d53_requiem": {
+    "name": "พิธีคืนชีพเงา",
+    "class": "death_knight",
+    "family": "soul_reap",
+    "frames": 8,
+    "file": "atlases/soul_reap.png",
+    "skillSheet": "skills/d53_requiem.png"
+  },
+  "storm_weaver_53_mastery": {
+    "name": "เส้นใยมรสุม",
+    "class": "storm_weaver",
+    "family": "cyclone",
+    "frames": 8,
+    "file": "atlases/cyclone.png",
+    "skillSheet": "skills/storm_weaver_53_mastery.png"
+  },
+  "s53_threads": {
+    "name": "ด้ายอสนี",
+    "class": "storm_weaver",
+    "family": "lightning",
+    "frames": 8,
+    "file": "atlases/lightning.png",
+    "skillSheet": "skills/s53_threads.png"
+  },
+  "s53_vortex": {
+    "name": "วังวนเมฆคราม",
+    "class": "storm_weaver",
+    "family": "cyclone",
+    "frames": 8,
+    "file": "atlases/cyclone.png",
+    "skillSheet": "skills/s53_vortex.png"
+  },
+  "s53_tailwind": {
+    "name": "ลมหนุนผู้ร่าย",
+    "class": "storm_weaver",
+    "family": "tailwind",
+    "frames": 8,
+    "file": "atlases/tailwind.png",
+    "skillSheet": "skills/s53_tailwind.png"
+  },
+  "s53_gale": {
+    "name": "กรรโชกฟ้าคะนอง",
+    "class": "storm_weaver",
+    "family": "tailwind",
+    "frames": 8,
+    "file": "atlases/tailwind.png",
+    "skillSheet": "skills/s53_gale.png"
+  },
+  "s53_tempest": {
+    "name": "ผืนฟ้ามหาพายุ",
+    "class": "storm_weaver",
+    "family": "lightning",
+    "frames": 8,
+    "file": "atlases/lightning.png",
+    "skillSheet": "skills/s53_tempest.png"
+  },
+  "ice_scholar_53_mastery": {
+    "name": "ศาสตร์ผลึกเหมันต์",
+    "class": "ice_scholar",
+    "family": "frost_ward",
+    "frames": 8,
+    "file": "atlases/frost_ward.png",
+    "skillSheet": "skills/ice_scholar_53_mastery.png"
+  },
+  "i53_shards": {
+    "name": "บทผลึกสามแฉก",
+    "class": "ice_scholar",
+    "family": "ice_spikes",
+    "frames": 8,
+    "file": "atlases/ice_spikes.png",
+    "skillSheet": "skills/i53_shards.png"
+  },
+  "i53_seal": {
+    "name": "อักขระธารตรึง",
+    "class": "ice_scholar",
+    "family": "blizzard",
+    "frames": 8,
+    "file": "atlases/blizzard.png",
+    "skillSheet": "skills/i53_seal.png"
+  },
+  "i53_coat": {
+    "name": "อาภรณ์น้ำค้าง",
+    "class": "ice_scholar",
+    "family": "frost_ward",
+    "frames": 8,
+    "file": "atlases/frost_ward.png",
+    "skillSheet": "skills/i53_coat.png"
+  },
+  "i53_prison": {
+    "name": "คุกแก้วเยือกแข็ง",
+    "class": "ice_scholar",
+    "family": "ice_spikes",
+    "frames": 8,
+    "file": "atlases/ice_spikes.png",
+    "skillSheet": "skills/i53_prison.png"
+  },
+  "i53_zero": {
+    "name": "ตำราเหมันต์นิรันดร์",
+    "class": "ice_scholar",
+    "family": "blizzard",
+    "frames": 8,
+    "file": "atlases/blizzard.png",
+    "skillSheet": "skills/i53_zero.png"
+  },
+  "sniper_53_mastery": {
+    "name": "วิถีศรเงียบ",
+    "class": "sniper",
+    "family": "arrow",
+    "frames": 8,
+    "file": "atlases/arrow.png",
+    "skillSheet": "skills/sniper_53_mastery.png"
+  },
+  "n53_pierce": {
+    "name": "ศรเจาะขอบฟ้า",
+    "class": "sniper",
+    "family": "arrow",
+    "frames": 8,
+    "file": "atlases/arrow.png",
+    "skillSheet": "skills/n53_pierce.png"
+  },
+  "n53_rain": {
+    "name": "ฝนศรดาวตก",
+    "class": "sniper",
+    "family": "arrow_rain",
+    "frames": 8,
+    "file": "atlases/arrow_rain.png",
+    "skillSheet": "skills/n53_rain.png"
+  },
+  "n53_focus": {
+    "name": "สายตาเหยี่ยวราตรี",
+    "class": "sniper",
+    "family": "bloom",
+    "frames": 8,
+    "file": "atlases/bloom.png",
+    "skillSheet": "skills/n53_focus.png"
+  },
+  "n53_tether": {
+    "name": "ศรพันธนาการป่า",
+    "class": "sniper",
+    "family": "vines",
+    "frames": 8,
+    "file": "atlases/vines.png",
+    "skillSheet": "skills/n53_tether.png"
+  },
+  "n53_horizon": {
+    "name": "หกศรทะลวงสุริยา",
+    "class": "sniper",
+    "family": "arrow",
+    "frames": 8,
+    "file": "atlases/arrow.png",
+    "skillSheet": "skills/n53_horizon.png"
+  },
+  "high_priest_53_mastery": {
+    "name": "เมตตาแห่งรุ่งอรุณ",
+    "class": "high_priest",
+    "family": "holy_judgement",
+    "frames": 8,
+    "file": "atlases/holy_judgement.png",
+    "skillSheet": "skills/high_priest_53_mastery.png"
+  },
+  "p53_heal": {
+    "name": "พรน้ำตารุ่งอรุณ",
+    "class": "high_priest",
+    "family": "restoration",
+    "frames": 8,
+    "file": "atlases/restoration.png",
+    "skillSheet": "skills/p53_heal.png"
+  },
+  "p53_sanctum": {
+    "name": "วิหารแสงพิทักษ์",
+    "class": "high_priest",
+    "family": "aegis",
+    "frames": 8,
+    "file": "atlases/aegis.png",
+    "skillSheet": "skills/p53_sanctum.png"
+  },
+  "p53_judge": {
+    "name": "ตราชั่งเทวทูต",
+    "class": "high_priest",
+    "family": "holy_judgement",
+    "frames": 8,
+    "file": "atlases/holy_judgement.png",
+    "skillSheet": "skills/p53_judge.png"
+  },
+  "p53_cleanse": {
+    "name": "ฝนชำระมลทิน",
+    "class": "high_priest",
+    "family": "restoration",
+    "frames": 8,
+    "file": "atlases/restoration.png",
+    "skillSheet": "skills/p53_cleanse.png"
+  },
+  "p53_return": {
+    "name": "ปีกแห่งวันใหม่",
+    "class": "high_priest",
+    "family": "resurrection",
+    "frames": 8,
+    "file": "atlases/resurrection.png",
+    "skillSheet": "skills/p53_return.png"
+  },
+  "fist_champion_53_mastery": {
+    "name": "ลมหายใจยุทธ์",
+    "class": "fist_champion",
+    "family": "spirit_fist",
+    "frames": 8,
+    "file": "atlases/spirit_fist.png",
+    "skillSheet": "skills/fist_champion_53_mastery.png"
+  },
+  "f53_combo": {
+    "name": "หมัดสามประสาน",
+    "class": "fist_champion",
+    "family": "spirit_fist",
+    "frames": 8,
+    "file": "atlases/spirit_fist.png",
+    "skillSheet": "skills/f53_combo.png"
+  },
+  "f53_crack": {
+    "name": "หมัดร้าวพสุธา",
+    "class": "fist_champion",
+    "family": "forge_impact",
+    "frames": 8,
+    "file": "atlases/forge_impact.png",
+    "skillSheet": "skills/f53_crack.png"
+  },
+  "f53_breath": {
+    "name": "ลมหายใจมังกรขาว",
+    "class": "fist_champion",
+    "family": "tailwind",
+    "frames": 8,
+    "file": "atlases/tailwind.png",
+    "skillSheet": "skills/f53_breath.png"
+  },
+  "f53_roar": {
+    "name": "คำรามฝ่าคลื่น",
+    "class": "fist_champion",
+    "family": "spirit_fist",
+    "frames": 8,
+    "file": "atlases/spirit_fist.png",
+    "skillSheet": "skills/f53_roar.png"
+  },
+  "f53_infinity": {
+    "name": "แปดหมัดไร้ขอบเขต",
+    "class": "fist_champion",
+    "family": "spirit_fist",
+    "frames": 8,
+    "file": "atlases/spirit_fist.png",
+    "skillSheet": "skills/f53_infinity.png"
+  },
+  "white_smith_53_mastery": {
+    "name": "ศาสตร์เหล็กกล้าขาว",
+    "class": "white_smith",
+    "family": "forge",
+    "frames": 8,
+    "file": "atlases/forge.png",
+    "skillSheet": "skills/white_smith_53_mastery.png"
+  },
+  "w53_hammer": {
+    "name": "ค้อนประกายเงิน",
+    "class": "white_smith",
+    "family": "forge_impact",
+    "frames": 8,
+    "file": "atlases/forge_impact.png",
+    "skillSheet": "skills/w53_hammer.png"
+  },
+  "w53_forge": {
+    "name": "เพลิงหลอมคมศึก",
+    "class": "white_smith",
+    "family": "forge",
+    "frames": 8,
+    "file": "atlases/forge.png",
+    "skillSheet": "skills/w53_forge.png"
+  },
+  "w53_rivet": {
+    "name": "ตอกหมุดแยกเกราะ",
+    "class": "white_smith",
+    "family": "forge_impact",
+    "frames": 8,
+    "file": "atlases/forge_impact.png",
+    "skillSheet": "skills/w53_rivet.png"
+  },
+  "w53_temper": {
+    "name": "ชุบเกราะผลึกเงิน",
+    "class": "white_smith",
+    "family": "aegis",
+    "frames": 8,
+    "file": "atlases/aegis.png",
+    "skillSheet": "skills/w53_temper.png"
+  },
+  "w53_anvil": {
+    "name": "ทั่งพิพากษาอุกกาบาต",
+    "class": "white_smith",
+    "family": "forge",
+    "frames": 8,
+    "file": "atlases/forge.png",
+    "skillSheet": "skills/w53_anvil.png"
+  },
+  "life_creator_53_mastery": {
+    "name": "ชีววิทยาเวท",
+    "class": "life_creator",
+    "family": "bloom",
+    "frames": 8,
+    "file": "atlases/bloom.png",
+    "skillSheet": "skills/life_creator_53_mastery.png"
+  },
+  "l53_acid": {
+    "name": "ขวดกรดผลึกชีวะ",
+    "class": "life_creator",
+    "family": "acid",
+    "frames": 8,
+    "file": "atlases/acid.png",
+    "skillSheet": "skills/l53_acid.png"
+  },
+  "l53_heal": {
+    "name": "สารสกัดคืนชีวิต",
+    "class": "life_creator",
+    "family": "restoration",
+    "frames": 8,
+    "file": "atlases/restoration.png",
+    "skillSheet": "skills/l53_heal.png"
+  },
+  "l53_spore": {
+    "name": "สปอร์พันธนาการ",
+    "class": "life_creator",
+    "family": "venom",
+    "frames": 8,
+    "file": "atlases/venom.png",
+    "skillSheet": "skills/l53_spore.png"
+  },
+  "l53_bloom": {
+    "name": "เยื่อหุ้มชีวะ",
+    "class": "life_creator",
+    "family": "bloom",
+    "frames": 8,
+    "file": "atlases/bloom.png",
+    "skillSheet": "skills/l53_bloom.png"
+  },
+  "l53_genesis": {
+    "name": "สวนกำเนิดชีวิต",
+    "class": "life_creator",
+    "family": "bloom",
+    "frames": 8,
+    "file": "atlases/bloom.png",
+    "skillSheet": "skills/l53_genesis.png"
+  },
+  "cross_assassin_53_mastery": {
+    "name": "จังหวะคมกากบาท",
+    "class": "cross_assassin",
+    "family": "cross_blade",
+    "frames": 8,
+    "file": "atlases/cross_blade.png",
+    "skillSheet": "skills/cross_assassin_53_mastery.png"
+  },
+  "c53_cross": {
+    "name": "คมกากบาทพิษ",
+    "class": "cross_assassin",
+    "family": "cross_blade",
+    "frames": 8,
+    "file": "atlases/cross_blade.png",
+    "skillSheet": "skills/c53_cross.png"
+  },
+  "c53_step": {
+    "name": "ก้าวเงาเฉือนจันทร์",
+    "class": "cross_assassin",
+    "family": "soul_reap",
+    "frames": 8,
+    "file": "atlases/soul_reap.png",
+    "skillSheet": "skills/c53_step.png"
+  },
+  "c53_focus": {
+    "name": "สมาธิคมสังหาร",
+    "class": "cross_assassin",
+    "family": "bloom",
+    "frames": 8,
+    "file": "atlases/bloom.png",
+    "skillSheet": "skills/c53_focus.png"
+  },
+  "c53_smoke": {
+    "name": "หมอกพิษบังจิต",
+    "class": "cross_assassin",
+    "family": "venom",
+    "frames": 8,
+    "file": "atlases/venom.png",
+    "skillSheet": "skills/c53_smoke.png"
+  },
+  "c53_final": {
+    "name": "สิบทัณฑ์กากบาทราตรี",
+    "class": "cross_assassin",
+    "family": "cross_blade",
+    "frames": 8,
+    "file": "atlases/cross_blade.png",
+    "skillSheet": "skills/c53_final.png"
+  },
+  "shadow_stalker_53_mastery": {
+    "name": "รอยเท้าไร้เสียง",
+    "class": "shadow_stalker",
+    "family": "shadow_web",
+    "frames": 8,
+    "file": "atlases/shadow_web.png",
+    "skillSheet": "skills/shadow_stalker_53_mastery.png"
+  },
+  "r53_echo": {
+    "name": "ศรสะท้อนเงา",
+    "class": "shadow_stalker",
+    "family": "arrow",
+    "frames": 8,
+    "file": "atlases/arrow.png",
+    "skillSheet": "skills/r53_echo.png"
+  },
+  "r53_web": {
+    "name": "ตาข่ายรอยเงา",
+    "class": "shadow_stalker",
+    "family": "shadow_web",
+    "frames": 8,
+    "file": "atlases/shadow_web.png",
+    "skillSheet": "skills/r53_web.png"
+  },
+  "r53_veil": {
+    "name": "ย่างเท้าจันทร์ดับ",
+    "class": "shadow_stalker",
+    "family": "tailwind",
+    "frames": 8,
+    "file": "atlases/tailwind.png",
+    "skillSheet": "skills/r53_veil.png"
+  },
+  "r53_sever": {
+    "name": "ตัดรอยชะตา",
+    "class": "shadow_stalker",
+    "family": "cross_blade",
+    "frames": 8,
+    "file": "atlases/cross_blade.png",
+    "skillSheet": "skills/r53_sever.png"
+  },
+  "r53_hunt": {
+    "name": "ล่าเงาห้าทิศ",
+    "class": "shadow_stalker",
+    "family": "cross_blade",
+    "frames": 8,
+    "file": "atlases/cross_blade.png",
+    "skillSheet": "skills/r53_hunt.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "base": 53,
+  "unchangedData": [
+    "const WORLD33_MATERIALS=",
+    "const WORLD33_PLANS=",
+    "const WORLD33_PLACEMENTS=",
+    "window.SHEET_DATA=",
+    "window.COSTUME36_DATA=",
+    "window.MONSTER_DATA=",
+    "const Unlock53Design=",
+    "const UNLOCK53_ICONS="
+  ],
+  "skillDefinitionsIdentical": true,
+  "teamAndEquipmentSystemsIdentical": true,
+  "all48PreviousVfxFamiliesIdentical": true,
+  "oldFlatV53EffectAtlasesRemoved": true
+}
