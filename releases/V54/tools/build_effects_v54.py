@@ -21,6 +21,8 @@ patch("size:d.pattern==='drop'?70:d.family==='arrow'?48:d.family==='acidflask'?3
 patch("angle:['slash','pierce','backstab','fist'].includes(d.family)?a+(i%2?.18:-.18):0", "angle:(d.directional||['slash','pierce','backstab','fist'].includes(d.family))?a+(i%2?.18:-.18):0")
 patch("angle:['slash','pierce','backstab','fist','poisonclaw'].includes(family)?angle:0", "angle:(d.directional||['slash','pierce','backstab','fist','poisonclaw'].includes(family))?angle:0")
 patch("life:.42,layer:'ground'})", "life:.42,layer:'ground',angle:d.directional?(c.src.face||0):0})")
+patch("if(f.projectile&&['acidflask','healflask'].includes(sf))", "if(f.projectile&&(['acidflask','healflask'].includes(sf)||sf==='u54_acid'))")
+patch("arc:d.family==='acidflask'?28:0,spin:d.family==='acidflask'", "arc:(d.family==='acidflask'||d.family==='u54_acid')?28:0,spin:d.family==='acidflask'||d.family==='u54_acid'")
 patch("data[id].version===53?data[id].family:'heal'", "data[id].version>=53?data[id].family:'heal'")
 patch('เปิดครบ12คลาสขั้นสูง · 72สกิลต้นฉบับ · สกิลใช้งานมี12เฟรมต่อแอนิเมชัน','เปิดครบ12คลาสขั้นสูง · 72สกิลต้นฉบับ · เอฟเฟกต์วาดใหม่8เฟรมเข้าชุดเดิม')
 patch('สกิลใหม่72ชุด12เฟรม','สกิลใหม่72ชุด8เฟรม')

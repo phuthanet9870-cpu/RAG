@@ -1,5 +1,5 @@
 {
-  "htmlSha256": "aca025a82be11546a833ea67ce7fcbfc8dae6814978b59b5541398c833d65df2",
+  "htmlSha256": "3e77c05b96b49e6c89cfc86f153c2862b7845c7316d437b3e377ab7f99821763",
   "classes": [
     {
       "id": "honor_guardian",
@@ -198,6 +198,17 @@
     "cross_assassin_53_mastery",
     "shadow_stalker_53_mastery"
   ],
+  "flaskFlightAndArrival": {
+    "flightSourceSlots": [
+      0,
+      0,
+      1
+    ],
+    "travelArc": 28,
+    "spin": true,
+    "noDamageBeforeArrival": true,
+    "impactDamageAndArmorBreakAfterArrival": true
+  },
   "blockedHitNoLeechOrStatus": [
     "d53_reap",
     "f53_crack"
@@ -318,8 +329,9 @@
         "f53_infinity",
         "f53_combo",
         "f53_combo",
+        "f53_roar",
         "f53_crack",
-        "f53_roar"
+        "f53_combo"
       ]
     },
     {
@@ -498,7 +510,8 @@
         "f53_combo",
         "f53_combo",
         "f53_roar",
-        "f53_crack"
+        "f53_crack",
+        "f53_combo"
       ]
     },
     {
@@ -570,7 +583,7 @@
       "id": "h53_lance",
       "rank": 1,
       "direction": 1,
-      "damage": 3233,
+      "damage": 2723,
       "effectInk": 801
     },
     {
@@ -578,7 +591,7 @@
       "id": "h53_lance",
       "rank": 2,
       "direction": 2,
-      "damage": 2998,
+      "damage": 3497,
       "effectInk": 801
     },
     {
@@ -586,7 +599,7 @@
       "id": "h53_lance",
       "rank": 3,
       "direction": 3,
-      "damage": 4191,
+      "damage": 4340,
       "effectInk": 801
     },
     {
@@ -594,7 +607,7 @@
       "id": "h53_lance",
       "rank": 4,
       "direction": 0,
-      "damage": 4224,
+      "damage": 3701,
       "effectInk": 801
     },
     {
@@ -602,7 +615,7 @@
       "id": "h53_lance",
       "rank": 5,
       "direction": 1,
-      "damage": 7311,
+      "damage": 7082,
       "effectInk": 801
     },
     {
@@ -690,7 +703,7 @@
       "id": "h53_sweep",
       "rank": 1,
       "direction": 1,
-      "damage": 2498,
+      "damage": 2737,
       "effectInk": 20072
     },
     {
@@ -698,7 +711,7 @@
       "id": "h53_sweep",
       "rank": 2,
       "direction": 2,
-      "damage": 3075,
+      "damage": 2975,
       "effectInk": 20072
     },
     {
@@ -706,7 +719,7 @@
       "id": "h53_sweep",
       "rank": 3,
       "direction": 3,
-      "damage": 3588,
+      "damage": 3358,
       "effectInk": 20072
     },
     {
@@ -714,7 +727,7 @@
       "id": "h53_sweep",
       "rank": 4,
       "direction": 0,
-      "damage": 3438,
+      "damage": 3958,
       "effectInk": 20072
     },
     {
@@ -722,7 +735,7 @@
       "id": "h53_sweep",
       "rank": 5,
       "direction": 1,
-      "damage": 3756,
+      "damage": 4775,
       "effectInk": 20072
     },
     {
@@ -730,7 +743,7 @@
       "id": "h53_oath",
       "rank": 1,
       "direction": 1,
-      "damage": 9141,
+      "damage": 7166,
       "effectInk": 22080
     },
     {
@@ -738,7 +751,7 @@
       "id": "h53_oath",
       "rank": 2,
       "direction": 2,
-      "damage": 8153,
+      "damage": 7326,
       "effectInk": 22080
     },
     {
@@ -746,7 +759,7 @@
       "id": "h53_oath",
       "rank": 3,
       "direction": 3,
-      "damage": 10253,
+      "damage": 8779,
       "effectInk": 22080
     },
     {
@@ -754,7 +767,7 @@
       "id": "h53_oath",
       "rank": 4,
       "direction": 0,
-      "damage": 9902,
+      "damage": 13825,
       "effectInk": 22080
     },
     {
@@ -762,7 +775,7 @@
       "id": "h53_oath",
       "rank": 5,
       "direction": 1,
-      "damage": 11567,
+      "damage": 14556,
       "effectInk": 22080
     },
     {
@@ -770,7 +783,7 @@
       "id": "t53_edge",
       "rank": 1,
       "direction": 1,
-      "damage": 3031,
+      "damage": 2322,
       "effectInk": 874
     },
     {
@@ -778,7 +791,7 @@
       "id": "t53_edge",
       "rank": 2,
       "direction": 2,
-      "damage": 3184,
+      "damage": 2841,
       "effectInk": 874
     },
     {
@@ -786,7 +799,7 @@
       "id": "t53_edge",
       "rank": 3,
       "direction": 3,
-      "damage": 3457,
+      "damage": 3474,
       "effectInk": 874
     },
     {
@@ -794,7 +807,7 @@
       "id": "t53_edge",
       "rank": 4,
       "direction": 0,
-      "damage": 3748,
+      "damage": 4479,
       "effectInk": 874
     },
     {
@@ -802,7 +815,7 @@
       "id": "t53_edge",
       "rank": 5,
       "direction": 1,
-      "damage": 4536,
+      "damage": 6279,
       "effectInk": 874
     },
     {
@@ -810,7 +823,7 @@
       "id": "t53_dusk",
       "rank": 1,
       "direction": 1,
-      "damage": 219,
+      "damage": 397,
       "effectInk": 12094
     },
     {
@@ -818,7 +831,7 @@
       "id": "t53_dusk",
       "rank": 2,
       "direction": 2,
-      "damage": 268,
+      "damage": 357,
       "effectInk": 12094
     },
     {
@@ -826,7 +839,7 @@
       "id": "t53_dusk",
       "rank": 3,
       "direction": 3,
-      "damage": 554,
+      "damage": 386,
       "effectInk": 12094
     },
     {
@@ -834,7 +847,7 @@
       "id": "t53_dusk",
       "rank": 4,
       "direction": 0,
-      "damage": 380,
+      "damage": 623,
       "effectInk": 12094
     },
     {
@@ -842,7 +855,7 @@
       "id": "t53_dusk",
       "rank": 5,
       "direction": 1,
-      "damage": 411,
+      "damage": 577,
       "effectInk": 12094
     },
     {
@@ -890,7 +903,7 @@
       "id": "t53_cross",
       "rank": 1,
       "direction": 1,
-      "damage": 265,
+      "damage": 271,
       "effectInk": 1092
     },
     {
@@ -898,7 +911,7 @@
       "id": "t53_cross",
       "rank": 2,
       "direction": 2,
-      "damage": 276,
+      "damage": 461,
       "effectInk": 1092
     },
     {
@@ -906,7 +919,7 @@
       "id": "t53_cross",
       "rank": 3,
       "direction": 3,
-      "damage": 307,
+      "damage": 333,
       "effectInk": 1092
     },
     {
@@ -914,7 +927,7 @@
       "id": "t53_cross",
       "rank": 4,
       "direction": 0,
-      "damage": 427,
+      "damage": 577,
       "effectInk": 1092
     },
     {
@@ -922,7 +935,7 @@
       "id": "t53_cross",
       "rank": 5,
       "direction": 1,
-      "damage": 348,
+      "damage": 647,
       "effectInk": 1092
     },
     {
@@ -930,7 +943,7 @@
       "id": "t53_eclipse",
       "rank": 1,
       "direction": 1,
-      "damage": 410,
+      "damage": 414,
       "effectInk": 20072
     },
     {
@@ -938,7 +951,7 @@
       "id": "t53_eclipse",
       "rank": 2,
       "direction": 2,
-      "damage": 1003,
+      "damage": 449,
       "effectInk": 20072
     },
     {
@@ -946,7 +959,7 @@
       "id": "t53_eclipse",
       "rank": 3,
       "direction": 3,
-      "damage": 773,
+      "damage": 601,
       "effectInk": 20072
     },
     {
@@ -954,7 +967,7 @@
       "id": "t53_eclipse",
       "rank": 4,
       "direction": 0,
-      "damage": 1636,
+      "damage": 636,
       "effectInk": 20072
     },
     {
@@ -962,7 +975,7 @@
       "id": "t53_eclipse",
       "rank": 5,
       "direction": 1,
-      "damage": 712,
+      "damage": 727,
       "effectInk": 20072
     },
     {
@@ -970,7 +983,7 @@
       "id": "d53_reap",
       "rank": 1,
       "direction": 1,
-      "damage": 3530,
+      "damage": 3415,
       "effectInk": 1087
     },
     {
@@ -978,7 +991,7 @@
       "id": "d53_reap",
       "rank": 2,
       "direction": 2,
-      "damage": 7261,
+      "damage": 4638,
       "effectInk": 1087
     },
     {
@@ -986,7 +999,7 @@
       "id": "d53_reap",
       "rank": 3,
       "direction": 3,
-      "damage": 5164,
+      "damage": 4687,
       "effectInk": 1087
     },
     {
@@ -994,7 +1007,7 @@
       "id": "d53_reap",
       "rank": 4,
       "direction": 0,
-      "damage": 5765,
+      "damage": 8433,
       "effectInk": 1087
     },
     {
@@ -1002,7 +1015,7 @@
       "id": "d53_reap",
       "rank": 5,
       "direction": 1,
-      "damage": 7433,
+      "damage": 7923,
       "effectInk": 1087
     },
     {
@@ -1010,7 +1023,7 @@
       "id": "d53_chain",
       "rank": 1,
       "direction": 1,
-      "damage": 146,
+      "damage": 187,
       "effectInk": 1164
     },
     {
@@ -1018,7 +1031,7 @@
       "id": "d53_chain",
       "rank": 2,
       "direction": 2,
-      "damage": 443,
+      "damage": 216,
       "effectInk": 1164
     },
     {
@@ -1026,7 +1039,7 @@
       "id": "d53_chain",
       "rank": 3,
       "direction": 3,
-      "damage": 289,
+      "damage": 359,
       "effectInk": 1164
     },
     {
@@ -1034,7 +1047,7 @@
       "id": "d53_chain",
       "rank": 4,
       "direction": 0,
-      "damage": 563,
+      "damage": 334,
       "effectInk": 1164
     },
     {
@@ -1042,7 +1055,7 @@
       "id": "d53_chain",
       "rank": 5,
       "direction": 1,
-      "damage": 424,
+      "damage": 330,
       "effectInk": 1164
     },
     {
@@ -1090,7 +1103,7 @@
       "id": "d53_dread",
       "rank": 1,
       "direction": 1,
-      "damage": 281,
+      "damage": 491,
       "effectInk": 12094
     },
     {
@@ -1098,7 +1111,7 @@
       "id": "d53_dread",
       "rank": 2,
       "direction": 2,
-      "damage": 268,
+      "damage": 339,
       "effectInk": 12094
     },
     {
@@ -1106,7 +1119,7 @@
       "id": "d53_dread",
       "rank": 3,
       "direction": 3,
-      "damage": 479,
+      "damage": 474,
       "effectInk": 12094
     },
     {
@@ -1114,7 +1127,7 @@
       "id": "d53_dread",
       "rank": 4,
       "direction": 0,
-      "damage": 391,
+      "damage": 390,
       "effectInk": 12094
     },
     {
@@ -1122,7 +1135,7 @@
       "id": "d53_dread",
       "rank": 5,
       "direction": 1,
-      "damage": 572,
+      "damage": 595,
       "effectInk": 12094
     },
     {
@@ -1130,7 +1143,7 @@
       "id": "d53_requiem",
       "rank": 1,
       "direction": 1,
-      "damage": 8366,
+      "damage": 9244,
       "effectInk": 20072
     },
     {
@@ -1138,7 +1151,7 @@
       "id": "d53_requiem",
       "rank": 2,
       "direction": 2,
-      "damage": 9399,
+      "damage": 9872,
       "effectInk": 20072
     },
     {
@@ -1146,7 +1159,7 @@
       "id": "d53_requiem",
       "rank": 3,
       "direction": 3,
-      "damage": 10972,
+      "damage": 11166,
       "effectInk": 20072
     },
     {
@@ -1154,7 +1167,7 @@
       "id": "d53_requiem",
       "rank": 4,
       "direction": 0,
-      "damage": 13160,
+      "damage": 12851,
       "effectInk": 20072
     },
     {
@@ -1162,7 +1175,7 @@
       "id": "d53_requiem",
       "rank": 5,
       "direction": 1,
-      "damage": 17503,
+      "damage": 12397,
       "effectInk": 20072
     },
     {
@@ -1170,7 +1183,7 @@
       "id": "s53_threads",
       "rank": 1,
       "direction": 1,
-      "damage": 9002,
+      "damage": 11389,
       "effectInk": 1505
     },
     {
@@ -1178,7 +1191,7 @@
       "id": "s53_threads",
       "rank": 2,
       "direction": 2,
-      "damage": 10308,
+      "damage": 11207,
       "effectInk": 1505
     },
     {
@@ -1186,7 +1199,7 @@
       "id": "s53_threads",
       "rank": 3,
       "direction": 3,
-      "damage": 11455,
+      "damage": 13278,
       "effectInk": 1511
     },
     {
@@ -1194,7 +1207,7 @@
       "id": "s53_threads",
       "rank": 4,
       "direction": 0,
-      "damage": 12791,
+      "damage": 12711,
       "effectInk": 1519
     },
     {
@@ -1202,7 +1215,7 @@
       "id": "s53_threads",
       "rank": 5,
       "direction": 1,
-      "damage": 13236,
+      "damage": 15813,
       "effectInk": 1505
     },
     {
@@ -1210,7 +1223,7 @@
       "id": "s53_vortex",
       "rank": 1,
       "direction": 1,
-      "damage": 10071,
+      "damage": 8798,
       "effectInk": 12094
     },
     {
@@ -1218,7 +1231,7 @@
       "id": "s53_vortex",
       "rank": 2,
       "direction": 2,
-      "damage": 10518,
+      "damage": 11598,
       "effectInk": 12094
     },
     {
@@ -1226,7 +1239,7 @@
       "id": "s53_vortex",
       "rank": 3,
       "direction": 3,
-      "damage": 15507,
+      "damage": 13321,
       "effectInk": 12094
     },
     {
@@ -1234,7 +1247,7 @@
       "id": "s53_vortex",
       "rank": 4,
       "direction": 0,
-      "damage": 14642,
+      "damage": 16899,
       "effectInk": 12094
     },
     {
@@ -1242,7 +1255,7 @@
       "id": "s53_vortex",
       "rank": 5,
       "direction": 1,
-      "damage": 16019,
+      "damage": 21552,
       "effectInk": 12094
     },
     {
@@ -1290,7 +1303,7 @@
       "id": "s53_gale",
       "rank": 1,
       "direction": 1,
-      "damage": 7727,
+      "damage": 7279,
       "effectInk": 26198
     },
     {
@@ -1298,7 +1311,7 @@
       "id": "s53_gale",
       "rank": 2,
       "direction": 2,
-      "damage": 7353,
+      "damage": 8039,
       "effectInk": 26198
     },
     {
@@ -1306,7 +1319,7 @@
       "id": "s53_gale",
       "rank": 3,
       "direction": 3,
-      "damage": 8930,
+      "damage": 8117,
       "effectInk": 26198
     },
     {
@@ -1314,7 +1327,7 @@
       "id": "s53_gale",
       "rank": 4,
       "direction": 0,
-      "damage": 10025,
+      "damage": 11072,
       "effectInk": 26198
     },
     {
@@ -1322,7 +1335,7 @@
       "id": "s53_gale",
       "rank": 5,
       "direction": 1,
-      "damage": 12386,
+      "damage": 11629,
       "effectInk": 26198
     },
     {
@@ -1330,7 +1343,7 @@
       "id": "s53_tempest",
       "rank": 1,
       "direction": 1,
-      "damage": 17782,
+      "damage": 18669,
       "effectInk": 20072
     },
     {
@@ -1338,7 +1351,7 @@
       "id": "s53_tempest",
       "rank": 2,
       "direction": 2,
-      "damage": 19026,
+      "damage": 17788,
       "effectInk": 20072
     },
     {
@@ -1346,7 +1359,7 @@
       "id": "s53_tempest",
       "rank": 3,
       "direction": 3,
-      "damage": 22616,
+      "damage": 25735,
       "effectInk": 20072
     },
     {
@@ -1354,7 +1367,7 @@
       "id": "s53_tempest",
       "rank": 4,
       "direction": 0,
-      "damage": 31969,
+      "damage": 26976,
       "effectInk": 20072
     },
     {
@@ -1362,87 +1375,87 @@
       "id": "s53_tempest",
       "rank": 5,
       "direction": 1,
-      "damage": 32879,
+      "damage": 29166,
       "effectInk": 20072
     },
     {
       "side": "player",
       "id": "i53_shards",
       "rank": 1,
-      "direction": 1,
-      "damage": 1384,
-      "effectInk": 863
-    },
-    {
-      "side": "player",
-      "id": "i53_shards",
-      "rank": 2,
-      "direction": 2,
-      "damage": 1683,
-      "effectInk": 863
-    },
-    {
-      "side": "player",
-      "id": "i53_shards",
-      "rank": 3,
-      "direction": 3,
-      "damage": 1669,
-      "effectInk": 863
-    },
-    {
-      "side": "player",
-      "id": "i53_shards",
-      "rank": 4,
-      "direction": 0,
-      "damage": 2388,
-      "effectInk": 863
-    },
-    {
-      "side": "player",
-      "id": "i53_shards",
-      "rank": 5,
-      "direction": 1,
-      "damage": 2461,
-      "effectInk": 863
-    },
-    {
-      "side": "player",
-      "id": "i53_seal",
-      "rank": 1,
-      "direction": 1,
-      "damage": 1096,
-      "effectInk": 12413
-    },
-    {
-      "side": "player",
-      "id": "i53_seal",
-      "rank": 2,
-      "direction": 2,
-      "damage": 1084,
-      "effectInk": 12413
-    },
-    {
-      "side": "player",
-      "id": "i53_seal",
-      "rank": 3,
-      "direction": 3,
-      "damage": 1175,
-      "effectInk": 12413
-    },
-    {
-      "side": "player",
-      "id": "i53_seal",
-      "rank": 4,
-      "direction": 0,
-      "damage": 1269,
-      "effectInk": 12413
-    },
-    {
-      "side": "player",
-      "id": "i53_seal",
-      "rank": 5,
       "direction": 1,
       "damage": 1591,
+      "effectInk": 863
+    },
+    {
+      "side": "player",
+      "id": "i53_shards",
+      "rank": 2,
+      "direction": 2,
+      "damage": 1542,
+      "effectInk": 863
+    },
+    {
+      "side": "player",
+      "id": "i53_shards",
+      "rank": 3,
+      "direction": 3,
+      "damage": 1777,
+      "effectInk": 863
+    },
+    {
+      "side": "player",
+      "id": "i53_shards",
+      "rank": 4,
+      "direction": 0,
+      "damage": 2513,
+      "effectInk": 863
+    },
+    {
+      "side": "player",
+      "id": "i53_shards",
+      "rank": 5,
+      "direction": 1,
+      "damage": 2750,
+      "effectInk": 863
+    },
+    {
+      "side": "player",
+      "id": "i53_seal",
+      "rank": 1,
+      "direction": 1,
+      "damage": 996,
+      "effectInk": 12413
+    },
+    {
+      "side": "player",
+      "id": "i53_seal",
+      "rank": 2,
+      "direction": 2,
+      "damage": 1087,
+      "effectInk": 12413
+    },
+    {
+      "side": "player",
+      "id": "i53_seal",
+      "rank": 3,
+      "direction": 3,
+      "damage": 1165,
+      "effectInk": 12413
+    },
+    {
+      "side": "player",
+      "id": "i53_seal",
+      "rank": 4,
+      "direction": 0,
+      "damage": 1242,
+      "effectInk": 12413
+    },
+    {
+      "side": "player",
+      "id": "i53_seal",
+      "rank": 5,
+      "direction": 1,
+      "damage": 1606,
       "effectInk": 12413
     },
     {
@@ -1490,7 +1503,7 @@
       "id": "i53_prison",
       "rank": 1,
       "direction": 1,
-      "damage": 998,
+      "damage": 1132,
       "effectInk": 863
     },
     {
@@ -1498,7 +1511,7 @@
       "id": "i53_prison",
       "rank": 2,
       "direction": 2,
-      "damage": 1332,
+      "damage": 1308,
       "effectInk": 863
     },
     {
@@ -1506,7 +1519,7 @@
       "id": "i53_prison",
       "rank": 3,
       "direction": 3,
-      "damage": 1630,
+      "damage": 1424,
       "effectInk": 863
     },
     {
@@ -1514,7 +1527,7 @@
       "id": "i53_prison",
       "rank": 4,
       "direction": 0,
-      "damage": 2119,
+      "damage": 1949,
       "effectInk": 863
     },
     {
@@ -1530,7 +1543,7 @@
       "id": "i53_zero",
       "rank": 1,
       "direction": 1,
-      "damage": 2223,
+      "damage": 2609,
       "effectInk": 21005
     },
     {
@@ -1538,7 +1551,7 @@
       "id": "i53_zero",
       "rank": 2,
       "direction": 2,
-      "damage": 3323,
+      "damage": 2713,
       "effectInk": 21005
     },
     {
@@ -1546,7 +1559,7 @@
       "id": "i53_zero",
       "rank": 3,
       "direction": 3,
-      "damage": 3230,
+      "damage": 3081,
       "effectInk": 21005
     },
     {
@@ -1554,7 +1567,7 @@
       "id": "i53_zero",
       "rank": 4,
       "direction": 0,
-      "damage": 2957,
+      "damage": 3013,
       "effectInk": 21005
     },
     {
@@ -1562,7 +1575,7 @@
       "id": "i53_zero",
       "rank": 5,
       "direction": 1,
-      "damage": 3977,
+      "damage": 3765,
       "effectInk": 21005
     },
     {
@@ -1570,7 +1583,7 @@
       "id": "n53_pierce",
       "rank": 1,
       "direction": 1,
-      "damage": 4017,
+      "damage": 3363,
       "effectInk": 913
     },
     {
@@ -1578,7 +1591,7 @@
       "id": "n53_pierce",
       "rank": 2,
       "direction": 2,
-      "damage": 4431,
+      "damage": 3717,
       "effectInk": 923
     },
     {
@@ -1586,7 +1599,7 @@
       "id": "n53_pierce",
       "rank": 3,
       "direction": 3,
-      "damage": 5149,
+      "damage": 5597,
       "effectInk": 921
     },
     {
@@ -1594,7 +1607,7 @@
       "id": "n53_pierce",
       "rank": 4,
       "direction": 0,
-      "damage": 6572,
+      "damage": 6413,
       "effectInk": 913
     },
     {
@@ -1602,7 +1615,7 @@
       "id": "n53_pierce",
       "rank": 5,
       "direction": 1,
-      "damage": 6350,
+      "damage": 6123,
       "effectInk": 913
     },
     {
@@ -1610,7 +1623,7 @@
       "id": "n53_rain",
       "rank": 1,
       "direction": 1,
-      "damage": 4713,
+      "damage": 4117,
       "effectInk": 12094
     },
     {
@@ -1618,7 +1631,7 @@
       "id": "n53_rain",
       "rank": 2,
       "direction": 2,
-      "damage": 4107,
+      "damage": 4881,
       "effectInk": 12094
     },
     {
@@ -1626,7 +1639,7 @@
       "id": "n53_rain",
       "rank": 3,
       "direction": 3,
-      "damage": 5036,
+      "damage": 5112,
       "effectInk": 12094
     },
     {
@@ -1634,7 +1647,7 @@
       "id": "n53_rain",
       "rank": 4,
       "direction": 0,
-      "damage": 6732,
+      "damage": 5157,
       "effectInk": 12094
     },
     {
@@ -1642,7 +1655,7 @@
       "id": "n53_rain",
       "rank": 5,
       "direction": 1,
-      "damage": 6663,
+      "damage": 6436,
       "effectInk": 12094
     },
     {
@@ -1690,7 +1703,7 @@
       "id": "n53_tether",
       "rank": 1,
       "direction": 1,
-      "damage": 2231,
+      "damage": 2708,
       "effectInk": 835
     },
     {
@@ -1698,7 +1711,7 @@
       "id": "n53_tether",
       "rank": 2,
       "direction": 2,
-      "damage": 2886,
+      "damage": 2324,
       "effectInk": 835
     },
     {
@@ -1706,7 +1719,7 @@
       "id": "n53_tether",
       "rank": 3,
       "direction": 3,
-      "damage": 2560,
+      "damage": 2918,
       "effectInk": 835
     },
     {
@@ -1714,7 +1727,7 @@
       "id": "n53_tether",
       "rank": 4,
       "direction": 0,
-      "damage": 3581,
+      "damage": 3371,
       "effectInk": 835
     },
     {
@@ -1722,7 +1735,7 @@
       "id": "n53_tether",
       "rank": 5,
       "direction": 1,
-      "damage": 3631,
+      "damage": 5749,
       "effectInk": 835
     },
     {
@@ -1730,7 +1743,7 @@
       "id": "n53_horizon",
       "rank": 1,
       "direction": 1,
-      "damage": 8522,
+      "damage": 7145,
       "effectInk": 913
     },
     {
@@ -1738,7 +1751,7 @@
       "id": "n53_horizon",
       "rank": 2,
       "direction": 2,
-      "damage": 7620,
+      "damage": 7377,
       "effectInk": 923
     },
     {
@@ -1746,7 +1759,7 @@
       "id": "n53_horizon",
       "rank": 3,
       "direction": 3,
-      "damage": 11870,
+      "damage": 11039,
       "effectInk": 921
     },
     {
@@ -1754,7 +1767,7 @@
       "id": "n53_horizon",
       "rank": 4,
       "direction": 0,
-      "damage": 11325,
+      "damage": 10106,
       "effectInk": 913
     },
     {
@@ -1762,7 +1775,7 @@
       "id": "n53_horizon",
       "rank": 5,
       "direction": 1,
-      "damage": 12873,
+      "damage": 11817,
       "effectInk": 913
     },
     {
@@ -1850,7 +1863,7 @@
       "id": "p53_judge",
       "rank": 1,
       "direction": 1,
-      "damage": 5907,
+      "damage": 6651,
       "effectInk": 13498
     },
     {
@@ -1858,7 +1871,7 @@
       "id": "p53_judge",
       "rank": 2,
       "direction": 2,
-      "damage": 6626,
+      "damage": 6419,
       "effectInk": 13498
     },
     {
@@ -1866,7 +1879,7 @@
       "id": "p53_judge",
       "rank": 3,
       "direction": 3,
-      "damage": 7956,
+      "damage": 8544,
       "effectInk": 13498
     },
     {
@@ -1874,7 +1887,7 @@
       "id": "p53_judge",
       "rank": 4,
       "direction": 0,
-      "damage": 6640,
+      "damage": 9013,
       "effectInk": 13498
     },
     {
@@ -1882,7 +1895,7 @@
       "id": "p53_judge",
       "rank": 5,
       "direction": 1,
-      "damage": 9119,
+      "damage": 11097,
       "effectInk": 13498
     },
     {
@@ -1970,7 +1983,7 @@
       "id": "f53_combo",
       "rank": 1,
       "direction": 1,
-      "damage": 2331,
+      "damage": 2635,
       "effectInk": 755
     },
     {
@@ -1978,7 +1991,7 @@
       "id": "f53_combo",
       "rank": 2,
       "direction": 2,
-      "damage": 2636,
+      "damage": 3177,
       "effectInk": 755
     },
     {
@@ -1986,7 +1999,7 @@
       "id": "f53_combo",
       "rank": 3,
       "direction": 3,
-      "damage": 3474,
+      "damage": 3755,
       "effectInk": 755
     },
     {
@@ -1994,7 +2007,7 @@
       "id": "f53_combo",
       "rank": 4,
       "direction": 0,
-      "damage": 3803,
+      "damage": 5340,
       "effectInk": 755
     },
     {
@@ -2002,7 +2015,7 @@
       "id": "f53_combo",
       "rank": 5,
       "direction": 1,
-      "damage": 3590,
+      "damage": 4316,
       "effectInk": 755
     },
     {
@@ -2010,7 +2023,7 @@
       "id": "f53_crack",
       "rank": 1,
       "direction": 1,
-      "damage": 2224,
+      "damage": 2489,
       "effectInk": 1079
     },
     {
@@ -2018,7 +2031,7 @@
       "id": "f53_crack",
       "rank": 2,
       "direction": 2,
-      "damage": 2698,
+      "damage": 2381,
       "effectInk": 1079
     },
     {
@@ -2026,7 +2039,7 @@
       "id": "f53_crack",
       "rank": 3,
       "direction": 3,
-      "damage": 2819,
+      "damage": 3187,
       "effectInk": 1079
     },
     {
@@ -2034,7 +2047,7 @@
       "id": "f53_crack",
       "rank": 4,
       "direction": 0,
-      "damage": 3406,
+      "damage": 3544,
       "effectInk": 1079
     },
     {
@@ -2042,7 +2055,7 @@
       "id": "f53_crack",
       "rank": 5,
       "direction": 1,
-      "damage": 3603,
+      "damage": 3929,
       "effectInk": 1079
     },
     {
@@ -2090,7 +2103,7 @@
       "id": "f53_roar",
       "rank": 1,
       "direction": 1,
-      "damage": 1734,
+      "damage": 1766,
       "effectInk": 20072
     },
     {
@@ -2098,7 +2111,7 @@
       "id": "f53_roar",
       "rank": 2,
       "direction": 2,
-      "damage": 2116,
+      "damage": 2046,
       "effectInk": 20072
     },
     {
@@ -2106,7 +2119,7 @@
       "id": "f53_roar",
       "rank": 3,
       "direction": 3,
-      "damage": 2089,
+      "damage": 2702,
       "effectInk": 20072
     },
     {
@@ -2114,7 +2127,7 @@
       "id": "f53_roar",
       "rank": 4,
       "direction": 0,
-      "damage": 2728,
+      "damage": 2422,
       "effectInk": 20072
     },
     {
@@ -2122,7 +2135,7 @@
       "id": "f53_roar",
       "rank": 5,
       "direction": 1,
-      "damage": 3702,
+      "damage": 3238,
       "effectInk": 20072
     },
     {
@@ -2130,7 +2143,7 @@
       "id": "f53_infinity",
       "rank": 1,
       "direction": 1,
-      "damage": 5263,
+      "damage": 5343,
       "effectInk": 755
     },
     {
@@ -2138,7 +2151,7 @@
       "id": "f53_infinity",
       "rank": 2,
       "direction": 2,
-      "damage": 6079,
+      "damage": 5290,
       "effectInk": 755
     },
     {
@@ -2146,7 +2159,7 @@
       "id": "f53_infinity",
       "rank": 3,
       "direction": 3,
-      "damage": 5698,
+      "damage": 6761,
       "effectInk": 755
     },
     {
@@ -2154,7 +2167,7 @@
       "id": "f53_infinity",
       "rank": 4,
       "direction": 0,
-      "damage": 6777,
+      "damage": 8365,
       "effectInk": 755
     },
     {
@@ -2162,7 +2175,7 @@
       "id": "f53_infinity",
       "rank": 5,
       "direction": 1,
-      "damage": 8216,
+      "damage": 8338,
       "effectInk": 755
     },
     {
@@ -2170,7 +2183,7 @@
       "id": "w53_hammer",
       "rank": 1,
       "direction": 1,
-      "damage": 1988,
+      "damage": 2772,
       "effectInk": 8378
     },
     {
@@ -2178,7 +2191,7 @@
       "id": "w53_hammer",
       "rank": 2,
       "direction": 2,
-      "damage": 3031,
+      "damage": 2289,
       "effectInk": 8378
     },
     {
@@ -2186,7 +2199,7 @@
       "id": "w53_hammer",
       "rank": 3,
       "direction": 3,
-      "damage": 2861,
+      "damage": 2805,
       "effectInk": 8378
     },
     {
@@ -2194,7 +2207,7 @@
       "id": "w53_hammer",
       "rank": 4,
       "direction": 0,
-      "damage": 4943,
+      "damage": 3734,
       "effectInk": 8378
     },
     {
@@ -2202,7 +2215,7 @@
       "id": "w53_hammer",
       "rank": 5,
       "direction": 1,
-      "damage": 3770,
+      "damage": 4455,
       "effectInk": 8378
     },
     {
@@ -2250,7 +2263,7 @@
       "id": "w53_rivet",
       "rank": 1,
       "direction": 1,
-      "damage": 3628,
+      "damage": 3418,
       "effectInk": 1079
     },
     {
@@ -2258,7 +2271,7 @@
       "id": "w53_rivet",
       "rank": 2,
       "direction": 2,
-      "damage": 4510,
+      "damage": 3851,
       "effectInk": 1079
     },
     {
@@ -2266,7 +2279,7 @@
       "id": "w53_rivet",
       "rank": 3,
       "direction": 3,
-      "damage": 3563,
+      "damage": 4062,
       "effectInk": 1079
     },
     {
@@ -2274,7 +2287,7 @@
       "id": "w53_rivet",
       "rank": 4,
       "direction": 0,
-      "damage": 4502,
+      "damage": 6708,
       "effectInk": 1079
     },
     {
@@ -2282,7 +2295,7 @@
       "id": "w53_rivet",
       "rank": 5,
       "direction": 1,
-      "damage": 5062,
+      "damage": 4566,
       "effectInk": 1079
     },
     {
@@ -2330,7 +2343,7 @@
       "id": "w53_anvil",
       "rank": 1,
       "direction": 1,
-      "damage": 2665,
+      "damage": 2472,
       "effectInk": 20435
     },
     {
@@ -2338,7 +2351,7 @@
       "id": "w53_anvil",
       "rank": 2,
       "direction": 2,
-      "damage": 3143,
+      "damage": 2808,
       "effectInk": 20435
     },
     {
@@ -2346,7 +2359,7 @@
       "id": "w53_anvil",
       "rank": 3,
       "direction": 3,
-      "damage": 3917,
+      "damage": 3588,
       "effectInk": 20435
     },
     {
@@ -2354,7 +2367,7 @@
       "id": "w53_anvil",
       "rank": 4,
       "direction": 0,
-      "damage": 4211,
+      "damage": 3402,
       "effectInk": 20435
     },
     {
@@ -2362,7 +2375,7 @@
       "id": "w53_anvil",
       "rank": 5,
       "direction": 1,
-      "damage": 4519,
+      "damage": 4182,
       "effectInk": 20435
     },
     {
@@ -2370,40 +2383,40 @@
       "id": "l53_acid",
       "rank": 1,
       "direction": 1,
-      "damage": 3480,
-      "effectInk": 778
+      "damage": 3996,
+      "effectInk": 132
     },
     {
       "side": "player",
       "id": "l53_acid",
       "rank": 2,
       "direction": 2,
-      "damage": 3624,
-      "effectInk": 774
+      "damage": 4701,
+      "effectInk": 135
     },
     {
       "side": "player",
       "id": "l53_acid",
       "rank": 3,
       "direction": 3,
-      "damage": 5187,
-      "effectInk": 786
+      "damage": 4685,
+      "effectInk": 134
     },
     {
       "side": "player",
       "id": "l53_acid",
       "rank": 4,
       "direction": 0,
-      "damage": 6266,
-      "effectInk": 780
+      "damage": 6254,
+      "effectInk": 133
     },
     {
       "side": "player",
       "id": "l53_acid",
       "rank": 5,
       "direction": 1,
-      "damage": 6218,
-      "effectInk": 778
+      "damage": 5266,
+      "effectInk": 132
     },
     {
       "side": "player",
@@ -2450,7 +2463,7 @@
       "id": "l53_spore",
       "rank": 1,
       "direction": 1,
-      "damage": 4593,
+      "damage": 3640,
       "effectInk": 12094
     },
     {
@@ -2458,7 +2471,7 @@
       "id": "l53_spore",
       "rank": 2,
       "direction": 2,
-      "damage": 5033,
+      "damage": 4142,
       "effectInk": 12094
     },
     {
@@ -2466,7 +2479,7 @@
       "id": "l53_spore",
       "rank": 3,
       "direction": 3,
-      "damage": 5374,
+      "damage": 5201,
       "effectInk": 12094
     },
     {
@@ -2474,7 +2487,7 @@
       "id": "l53_spore",
       "rank": 4,
       "direction": 0,
-      "damage": 4744,
+      "damage": 5212,
       "effectInk": 12094
     },
     {
@@ -2482,7 +2495,7 @@
       "id": "l53_spore",
       "rank": 5,
       "direction": 1,
-      "damage": 7983,
+      "damage": 6500,
       "effectInk": 12094
     },
     {
@@ -2530,7 +2543,7 @@
       "id": "l53_genesis",
       "rank": 1,
       "direction": 1,
-      "damage": 6585,
+      "damage": 6748,
       "effectInk": 918
     },
     {
@@ -2538,7 +2551,7 @@
       "id": "l53_genesis",
       "rank": 2,
       "direction": 2,
-      "damage": 7732,
+      "damage": 8268,
       "effectInk": 918
     },
     {
@@ -2546,7 +2559,7 @@
       "id": "l53_genesis",
       "rank": 3,
       "direction": 3,
-      "damage": 7022,
+      "damage": 8780,
       "effectInk": 918
     },
     {
@@ -2554,7 +2567,7 @@
       "id": "l53_genesis",
       "rank": 4,
       "direction": 0,
-      "damage": 10165,
+      "damage": 9067,
       "effectInk": 918
     },
     {
@@ -2562,7 +2575,7 @@
       "id": "l53_genesis",
       "rank": 5,
       "direction": 1,
-      "damage": 9910,
+      "damage": 11301,
       "effectInk": 918
     },
     {
@@ -2570,7 +2583,7 @@
       "id": "c53_cross",
       "rank": 1,
       "direction": 1,
-      "damage": 3874,
+      "damage": 4589,
       "effectInk": 729
     },
     {
@@ -2578,7 +2591,7 @@
       "id": "c53_cross",
       "rank": 2,
       "direction": 2,
-      "damage": 5208,
+      "damage": 5039,
       "effectInk": 729
     },
     {
@@ -2586,7 +2599,7 @@
       "id": "c53_cross",
       "rank": 3,
       "direction": 3,
-      "damage": 5155,
+      "damage": 5484,
       "effectInk": 729
     },
     {
@@ -2594,7 +2607,7 @@
       "id": "c53_cross",
       "rank": 4,
       "direction": 0,
-      "damage": 5858,
+      "damage": 5562,
       "effectInk": 729
     },
     {
@@ -2602,7 +2615,7 @@
       "id": "c53_cross",
       "rank": 5,
       "direction": 1,
-      "damage": 6569,
+      "damage": 6523,
       "effectInk": 729
     },
     {
@@ -2610,7 +2623,7 @@
       "id": "c53_step",
       "rank": 1,
       "direction": 1,
-      "damage": 2507,
+      "damage": 3692,
       "effectInk": 1087
     },
     {
@@ -2618,7 +2631,7 @@
       "id": "c53_step",
       "rank": 2,
       "direction": 2,
-      "damage": 2999,
+      "damage": 2837,
       "effectInk": 1087
     },
     {
@@ -2626,7 +2639,7 @@
       "id": "c53_step",
       "rank": 3,
       "direction": 3,
-      "damage": 3927,
+      "damage": 4219,
       "effectInk": 1087
     },
     {
@@ -2634,7 +2647,7 @@
       "id": "c53_step",
       "rank": 4,
       "direction": 0,
-      "damage": 4477,
+      "damage": 3784,
       "effectInk": 1087
     },
     {
@@ -2642,7 +2655,7 @@
       "id": "c53_step",
       "rank": 5,
       "direction": 1,
-      "damage": 4030,
+      "damage": 4527,
       "effectInk": 1087
     },
     {
@@ -2690,7 +2703,7 @@
       "id": "c53_smoke",
       "rank": 1,
       "direction": 1,
-      "damage": 1557,
+      "damage": 1441,
       "effectInk": 12094
     },
     {
@@ -2698,7 +2711,7 @@
       "id": "c53_smoke",
       "rank": 2,
       "direction": 2,
-      "damage": 1947,
+      "damage": 2630,
       "effectInk": 12094
     },
     {
@@ -2706,7 +2719,7 @@
       "id": "c53_smoke",
       "rank": 3,
       "direction": 3,
-      "damage": 2509,
+      "damage": 3208,
       "effectInk": 12094
     },
     {
@@ -2714,7 +2727,7 @@
       "id": "c53_smoke",
       "rank": 4,
       "direction": 0,
-      "damage": 2602,
+      "damage": 2786,
       "effectInk": 12094
     },
     {
@@ -2722,7 +2735,7 @@
       "id": "c53_smoke",
       "rank": 5,
       "direction": 1,
-      "damage": 2954,
+      "damage": 2909,
       "effectInk": 12094
     },
     {
@@ -2730,7 +2743,7 @@
       "id": "c53_final",
       "rank": 1,
       "direction": 1,
-      "damage": 5160,
+      "damage": 5729,
       "effectInk": 729
     },
     {
@@ -2738,7 +2751,7 @@
       "id": "c53_final",
       "rank": 2,
       "direction": 2,
-      "damage": 7870,
+      "damage": 6360,
       "effectInk": 729
     },
     {
@@ -2746,7 +2759,7 @@
       "id": "c53_final",
       "rank": 3,
       "direction": 3,
-      "damage": 7599,
+      "damage": 7377,
       "effectInk": 729
     },
     {
@@ -2754,7 +2767,7 @@
       "id": "c53_final",
       "rank": 4,
       "direction": 0,
-      "damage": 8526,
+      "damage": 8539,
       "effectInk": 729
     },
     {
@@ -2762,7 +2775,7 @@
       "id": "c53_final",
       "rank": 5,
       "direction": 1,
-      "damage": 10577,
+      "damage": 10857,
       "effectInk": 729
     },
     {
@@ -2770,7 +2783,7 @@
       "id": "r53_echo",
       "rank": 1,
       "direction": 1,
-      "damage": 2541,
+      "damage": 3081,
       "effectInk": 913
     },
     {
@@ -2778,7 +2791,7 @@
       "id": "r53_echo",
       "rank": 2,
       "direction": 2,
-      "damage": 3279,
+      "damage": 3083,
       "effectInk": 923
     },
     {
@@ -2786,7 +2799,7 @@
       "id": "r53_echo",
       "rank": 3,
       "direction": 3,
-      "damage": 3219,
+      "damage": 3871,
       "effectInk": 921
     },
     {
@@ -2794,7 +2807,7 @@
       "id": "r53_echo",
       "rank": 4,
       "direction": 0,
-      "damage": 4002,
+      "damage": 4037,
       "effectInk": 913
     },
     {
@@ -2802,7 +2815,7 @@
       "id": "r53_echo",
       "rank": 5,
       "direction": 1,
-      "damage": 4718,
+      "damage": 6713,
       "effectInk": 913
     },
     {
@@ -2810,7 +2823,7 @@
       "id": "r53_web",
       "rank": 1,
       "direction": 1,
-      "damage": 215,
+      "damage": 359,
       "effectInk": 12094
     },
     {
@@ -2818,623 +2831,623 @@
       "id": "r53_web",
       "rank": 2,
       "direction": 2,
-      "damage": 336,
-      "effectInk": 12094
-    },
-    {
-      "side": "player",
-      "id": "r53_web",
-      "rank": 3,
-      "direction": 3,
-      "damage": 330,
-      "effectInk": 12094
-    },
-    {
-      "side": "player",
-      "id": "r53_web",
-      "rank": 4,
-      "direction": 0,
-      "damage": 389,
-      "effectInk": 12094
-    },
-    {
-      "side": "player",
-      "id": "r53_web",
-      "rank": 5,
-      "direction": 1,
-      "damage": 522,
-      "effectInk": 12094
-    },
-    {
-      "side": "player",
-      "id": "r53_veil",
-      "rank": 1,
-      "direction": 1,
-      "damage": 0,
-      "effectInk": 510
-    },
-    {
-      "side": "player",
-      "id": "r53_veil",
-      "rank": 2,
-      "direction": 2,
-      "damage": 0,
-      "effectInk": 510
-    },
-    {
-      "side": "player",
-      "id": "r53_veil",
-      "rank": 3,
-      "direction": 3,
-      "damage": 0,
-      "effectInk": 510
-    },
-    {
-      "side": "player",
-      "id": "r53_veil",
-      "rank": 4,
-      "direction": 0,
-      "damage": 0,
-      "effectInk": 510
-    },
-    {
-      "side": "player",
-      "id": "r53_veil",
-      "rank": 5,
-      "direction": 1,
-      "damage": 0,
-      "effectInk": 510
-    },
-    {
-      "side": "player",
-      "id": "r53_sever",
-      "rank": 1,
-      "direction": 1,
-      "damage": 3115,
-      "effectInk": 729
-    },
-    {
-      "side": "player",
-      "id": "r53_sever",
-      "rank": 2,
-      "direction": 2,
-      "damage": 2820,
-      "effectInk": 729
-    },
-    {
-      "side": "player",
-      "id": "r53_sever",
-      "rank": 3,
-      "direction": 3,
-      "damage": 3054,
-      "effectInk": 729
-    },
-    {
-      "side": "player",
-      "id": "r53_sever",
-      "rank": 4,
-      "direction": 0,
-      "damage": 4179,
-      "effectInk": 729
-    },
-    {
-      "side": "player",
-      "id": "r53_sever",
-      "rank": 5,
-      "direction": 1,
-      "damage": 5097,
-      "effectInk": 729
-    },
-    {
-      "side": "player",
-      "id": "r53_hunt",
-      "rank": 1,
-      "direction": 1,
-      "damage": 4907,
-      "effectInk": 20072
-    },
-    {
-      "side": "player",
-      "id": "r53_hunt",
-      "rank": 2,
-      "direction": 2,
-      "damage": 6562,
-      "effectInk": 20072
-    },
-    {
-      "side": "player",
-      "id": "r53_hunt",
-      "rank": 3,
-      "direction": 3,
-      "damage": 7196,
-      "effectInk": 20072
-    },
-    {
-      "side": "player",
-      "id": "r53_hunt",
-      "rank": 4,
-      "direction": 0,
-      "damage": 9580,
-      "effectInk": 20072
-    },
-    {
-      "side": "player",
-      "id": "r53_hunt",
-      "rank": 5,
-      "direction": 1,
-      "damage": 8227,
-      "effectInk": 20072
-    },
-    {
-      "side": "shadow",
-      "id": "h53_lance",
-      "rank": 1,
-      "direction": 1,
-      "damage": 1783,
-      "effectInk": 801
-    },
-    {
-      "side": "shadow",
-      "id": "h53_lance",
-      "rank": 2,
-      "direction": 2,
-      "damage": 1387,
-      "effectInk": 801
-    },
-    {
-      "side": "shadow",
-      "id": "h53_lance",
-      "rank": 3,
-      "direction": 3,
-      "damage": 2090,
-      "effectInk": 801
-    },
-    {
-      "side": "shadow",
-      "id": "h53_lance",
-      "rank": 4,
-      "direction": 0,
-      "damage": 3142,
-      "effectInk": 801
-    },
-    {
-      "side": "shadow",
-      "id": "h53_lance",
-      "rank": 5,
-      "direction": 1,
-      "damage": 2644,
-      "effectInk": 801
-    },
-    {
-      "side": "shadow",
-      "id": "h53_call",
-      "rank": 1,
-      "direction": 1,
-      "damage": 0,
-      "effectInk": 1968
-    },
-    {
-      "side": "shadow",
-      "id": "h53_call",
-      "rank": 2,
-      "direction": 2,
-      "damage": 0,
-      "effectInk": 1968
-    },
-    {
-      "side": "shadow",
-      "id": "h53_call",
-      "rank": 3,
-      "direction": 3,
-      "damage": 0,
-      "effectInk": 1968
-    },
-    {
-      "side": "shadow",
-      "id": "h53_call",
-      "rank": 4,
-      "direction": 0,
-      "damage": 0,
-      "effectInk": 1968
-    },
-    {
-      "side": "shadow",
-      "id": "h53_call",
-      "rank": 5,
-      "direction": 1,
-      "damage": 0,
-      "effectInk": 1968
-    },
-    {
-      "side": "shadow",
-      "id": "h53_wall",
-      "rank": 1,
-      "direction": 1,
-      "damage": 0,
-      "effectInk": 1164
-    },
-    {
-      "side": "shadow",
-      "id": "h53_wall",
-      "rank": 2,
-      "direction": 2,
-      "damage": 0,
-      "effectInk": 1164
-    },
-    {
-      "side": "shadow",
-      "id": "h53_wall",
-      "rank": 3,
-      "direction": 3,
-      "damage": 0,
-      "effectInk": 1164
-    },
-    {
-      "side": "shadow",
-      "id": "h53_wall",
-      "rank": 4,
-      "direction": 0,
-      "damage": 0,
-      "effectInk": 1164
-    },
-    {
-      "side": "shadow",
-      "id": "h53_wall",
-      "rank": 5,
-      "direction": 1,
-      "damage": 0,
-      "effectInk": 1164
-    },
-    {
-      "side": "shadow",
-      "id": "h53_sweep",
-      "rank": 1,
-      "direction": 1,
-      "damage": 1324,
-      "effectInk": 20072
-    },
-    {
-      "side": "shadow",
-      "id": "h53_sweep",
-      "rank": 2,
-      "direction": 2,
-      "damage": 1622,
-      "effectInk": 20072
-    },
-    {
-      "side": "shadow",
-      "id": "h53_sweep",
-      "rank": 3,
-      "direction": 3,
-      "damage": 1635,
-      "effectInk": 20072
-    },
-    {
-      "side": "shadow",
-      "id": "h53_sweep",
-      "rank": 4,
-      "direction": 0,
-      "damage": 1697,
-      "effectInk": 20072
-    },
-    {
-      "side": "shadow",
-      "id": "h53_sweep",
-      "rank": 5,
-      "direction": 1,
-      "damage": 2418,
-      "effectInk": 20072
-    },
-    {
-      "side": "shadow",
-      "id": "h53_oath",
-      "rank": 1,
-      "direction": 1,
-      "damage": 2927,
-      "effectInk": 22080
-    },
-    {
-      "side": "shadow",
-      "id": "h53_oath",
-      "rank": 2,
-      "direction": 2,
-      "damage": 4864,
-      "effectInk": 22080
-    },
-    {
-      "side": "shadow",
-      "id": "h53_oath",
-      "rank": 3,
-      "direction": 3,
-      "damage": 3991,
-      "effectInk": 22080
-    },
-    {
-      "side": "shadow",
-      "id": "h53_oath",
-      "rank": 4,
-      "direction": 0,
-      "damage": 6431,
-      "effectInk": 22080
-    },
-    {
-      "side": "shadow",
-      "id": "h53_oath",
-      "rank": 5,
-      "direction": 1,
-      "damage": 7046,
-      "effectInk": 22080
-    },
-    {
-      "side": "shadow",
-      "id": "t53_edge",
-      "rank": 1,
-      "direction": 1,
-      "damage": 1326,
-      "effectInk": 874
-    },
-    {
-      "side": "shadow",
-      "id": "t53_edge",
-      "rank": 2,
-      "direction": 2,
-      "damage": 1717,
-      "effectInk": 874
-    },
-    {
-      "side": "shadow",
-      "id": "t53_edge",
-      "rank": 3,
-      "direction": 3,
-      "damage": 1886,
-      "effectInk": 874
-    },
-    {
-      "side": "shadow",
-      "id": "t53_edge",
-      "rank": 4,
-      "direction": 0,
-      "damage": 2555,
-      "effectInk": 874
-    },
-    {
-      "side": "shadow",
-      "id": "t53_edge",
-      "rank": 5,
-      "direction": 1,
-      "damage": 2136,
-      "effectInk": 874
-    },
-    {
-      "side": "shadow",
-      "id": "t53_dusk",
-      "rank": 1,
-      "direction": 1,
-      "damage": 157,
-      "effectInk": 12094
-    },
-    {
-      "side": "shadow",
-      "id": "t53_dusk",
-      "rank": 2,
-      "direction": 2,
-      "damage": 171,
-      "effectInk": 12094
-    },
-    {
-      "side": "shadow",
-      "id": "t53_dusk",
-      "rank": 3,
-      "direction": 3,
-      "damage": 170,
-      "effectInk": 12094
-    },
-    {
-      "side": "shadow",
-      "id": "t53_dusk",
-      "rank": 4,
-      "direction": 0,
-      "damage": 192,
-      "effectInk": 12094
-    },
-    {
-      "side": "shadow",
-      "id": "t53_dusk",
-      "rank": 5,
-      "direction": 1,
-      "damage": 219,
-      "effectInk": 12094
-    },
-    {
-      "side": "shadow",
-      "id": "t53_ward",
-      "rank": 1,
-      "direction": 1,
-      "damage": 0,
-      "effectInk": 1164
-    },
-    {
-      "side": "shadow",
-      "id": "t53_ward",
-      "rank": 2,
-      "direction": 2,
-      "damage": 0,
-      "effectInk": 1164
-    },
-    {
-      "side": "shadow",
-      "id": "t53_ward",
-      "rank": 3,
-      "direction": 3,
-      "damage": 0,
-      "effectInk": 1164
-    },
-    {
-      "side": "shadow",
-      "id": "t53_ward",
-      "rank": 4,
-      "direction": 0,
-      "damage": 0,
-      "effectInk": 1164
-    },
-    {
-      "side": "shadow",
-      "id": "t53_ward",
-      "rank": 5,
-      "direction": 1,
-      "damage": 0,
-      "effectInk": 1164
-    },
-    {
-      "side": "shadow",
-      "id": "t53_cross",
-      "rank": 1,
-      "direction": 1,
-      "damage": 218,
-      "effectInk": 1092
-    },
-    {
-      "side": "shadow",
-      "id": "t53_cross",
-      "rank": 2,
-      "direction": 2,
-      "damage": 228,
-      "effectInk": 1092
-    },
-    {
-      "side": "shadow",
-      "id": "t53_cross",
-      "rank": 3,
-      "direction": 3,
-      "damage": 163,
-      "effectInk": 1092
-    },
-    {
-      "side": "shadow",
-      "id": "t53_cross",
-      "rank": 4,
-      "direction": 0,
-      "damage": 169,
-      "effectInk": 1092
-    },
-    {
-      "side": "shadow",
-      "id": "t53_cross",
-      "rank": 5,
-      "direction": 1,
-      "damage": 208,
-      "effectInk": 1092
-    },
-    {
-      "side": "shadow",
-      "id": "t53_eclipse",
-      "rank": 1,
-      "direction": 1,
-      "damage": 211,
-      "effectInk": 20072
-    },
-    {
-      "side": "shadow",
-      "id": "t53_eclipse",
-      "rank": 2,
-      "direction": 2,
-      "damage": 269,
-      "effectInk": 20072
-    },
-    {
-      "side": "shadow",
-      "id": "t53_eclipse",
-      "rank": 3,
-      "direction": 3,
-      "damage": 588,
-      "effectInk": 20072
-    },
-    {
-      "side": "shadow",
-      "id": "t53_eclipse",
-      "rank": 4,
-      "direction": 0,
-      "damage": 363,
-      "effectInk": 20072
-    },
-    {
-      "side": "shadow",
-      "id": "t53_eclipse",
-      "rank": 5,
-      "direction": 1,
-      "damage": 587,
-      "effectInk": 20072
-    },
-    {
-      "side": "shadow",
-      "id": "d53_reap",
-      "rank": 1,
-      "direction": 1,
-      "damage": 1937,
-      "effectInk": 1087
-    },
-    {
-      "side": "shadow",
-      "id": "d53_reap",
-      "rank": 2,
-      "direction": 2,
-      "damage": 3309,
-      "effectInk": 1087
-    },
-    {
-      "side": "shadow",
-      "id": "d53_reap",
-      "rank": 3,
-      "direction": 3,
-      "damage": 2362,
-      "effectInk": 1087
-    },
-    {
-      "side": "shadow",
-      "id": "d53_reap",
-      "rank": 4,
-      "direction": 0,
-      "damage": 2688,
-      "effectInk": 1087
-    },
-    {
-      "side": "shadow",
-      "id": "d53_reap",
-      "rank": 5,
-      "direction": 1,
-      "damage": 3326,
-      "effectInk": 1087
-    },
-    {
-      "side": "shadow",
-      "id": "d53_chain",
-      "rank": 1,
-      "direction": 1,
-      "damage": 138,
-      "effectInk": 1164
-    },
-    {
-      "side": "shadow",
-      "id": "d53_chain",
-      "rank": 2,
-      "direction": 2,
-      "damage": 94,
-      "effectInk": 1164
-    },
-    {
-      "side": "shadow",
-      "id": "d53_chain",
-      "rank": 3,
-      "direction": 3,
-      "damage": 126,
-      "effectInk": 1164
-    },
-    {
-      "side": "shadow",
-      "id": "d53_chain",
-      "rank": 4,
-      "direction": 0,
       "damage": 360,
+      "effectInk": 12094
+    },
+    {
+      "side": "player",
+      "id": "r53_web",
+      "rank": 3,
+      "direction": 3,
+      "damage": 371,
+      "effectInk": 12094
+    },
+    {
+      "side": "player",
+      "id": "r53_web",
+      "rank": 4,
+      "direction": 0,
+      "damage": 334,
+      "effectInk": 12094
+    },
+    {
+      "side": "player",
+      "id": "r53_web",
+      "rank": 5,
+      "direction": 1,
+      "damage": 504,
+      "effectInk": 12094
+    },
+    {
+      "side": "player",
+      "id": "r53_veil",
+      "rank": 1,
+      "direction": 1,
+      "damage": 0,
+      "effectInk": 510
+    },
+    {
+      "side": "player",
+      "id": "r53_veil",
+      "rank": 2,
+      "direction": 2,
+      "damage": 0,
+      "effectInk": 510
+    },
+    {
+      "side": "player",
+      "id": "r53_veil",
+      "rank": 3,
+      "direction": 3,
+      "damage": 0,
+      "effectInk": 510
+    },
+    {
+      "side": "player",
+      "id": "r53_veil",
+      "rank": 4,
+      "direction": 0,
+      "damage": 0,
+      "effectInk": 510
+    },
+    {
+      "side": "player",
+      "id": "r53_veil",
+      "rank": 5,
+      "direction": 1,
+      "damage": 0,
+      "effectInk": 510
+    },
+    {
+      "side": "player",
+      "id": "r53_sever",
+      "rank": 1,
+      "direction": 1,
+      "damage": 2388,
+      "effectInk": 729
+    },
+    {
+      "side": "player",
+      "id": "r53_sever",
+      "rank": 2,
+      "direction": 2,
+      "damage": 3122,
+      "effectInk": 729
+    },
+    {
+      "side": "player",
+      "id": "r53_sever",
+      "rank": 3,
+      "direction": 3,
+      "damage": 2836,
+      "effectInk": 729
+    },
+    {
+      "side": "player",
+      "id": "r53_sever",
+      "rank": 4,
+      "direction": 0,
+      "damage": 3379,
+      "effectInk": 729
+    },
+    {
+      "side": "player",
+      "id": "r53_sever",
+      "rank": 5,
+      "direction": 1,
+      "damage": 4202,
+      "effectInk": 729
+    },
+    {
+      "side": "player",
+      "id": "r53_hunt",
+      "rank": 1,
+      "direction": 1,
+      "damage": 5209,
+      "effectInk": 20072
+    },
+    {
+      "side": "player",
+      "id": "r53_hunt",
+      "rank": 2,
+      "direction": 2,
+      "damage": 6884,
+      "effectInk": 20072
+    },
+    {
+      "side": "player",
+      "id": "r53_hunt",
+      "rank": 3,
+      "direction": 3,
+      "damage": 8895,
+      "effectInk": 20072
+    },
+    {
+      "side": "player",
+      "id": "r53_hunt",
+      "rank": 4,
+      "direction": 0,
+      "damage": 9031,
+      "effectInk": 20072
+    },
+    {
+      "side": "player",
+      "id": "r53_hunt",
+      "rank": 5,
+      "direction": 1,
+      "damage": 7007,
+      "effectInk": 20072
+    },
+    {
+      "side": "shadow",
+      "id": "h53_lance",
+      "rank": 1,
+      "direction": 1,
+      "damage": 1635,
+      "effectInk": 801
+    },
+    {
+      "side": "shadow",
+      "id": "h53_lance",
+      "rank": 2,
+      "direction": 2,
+      "damage": 1926,
+      "effectInk": 801
+    },
+    {
+      "side": "shadow",
+      "id": "h53_lance",
+      "rank": 3,
+      "direction": 3,
+      "damage": 1824,
+      "effectInk": 801
+    },
+    {
+      "side": "shadow",
+      "id": "h53_lance",
+      "rank": 4,
+      "direction": 0,
+      "damage": 1871,
+      "effectInk": 801
+    },
+    {
+      "side": "shadow",
+      "id": "h53_lance",
+      "rank": 5,
+      "direction": 1,
+      "damage": 2762,
+      "effectInk": 801
+    },
+    {
+      "side": "shadow",
+      "id": "h53_call",
+      "rank": 1,
+      "direction": 1,
+      "damage": 0,
+      "effectInk": 1968
+    },
+    {
+      "side": "shadow",
+      "id": "h53_call",
+      "rank": 2,
+      "direction": 2,
+      "damage": 0,
+      "effectInk": 1968
+    },
+    {
+      "side": "shadow",
+      "id": "h53_call",
+      "rank": 3,
+      "direction": 3,
+      "damage": 0,
+      "effectInk": 1968
+    },
+    {
+      "side": "shadow",
+      "id": "h53_call",
+      "rank": 4,
+      "direction": 0,
+      "damage": 0,
+      "effectInk": 1968
+    },
+    {
+      "side": "shadow",
+      "id": "h53_call",
+      "rank": 5,
+      "direction": 1,
+      "damage": 0,
+      "effectInk": 1968
+    },
+    {
+      "side": "shadow",
+      "id": "h53_wall",
+      "rank": 1,
+      "direction": 1,
+      "damage": 0,
+      "effectInk": 1164
+    },
+    {
+      "side": "shadow",
+      "id": "h53_wall",
+      "rank": 2,
+      "direction": 2,
+      "damage": 0,
+      "effectInk": 1164
+    },
+    {
+      "side": "shadow",
+      "id": "h53_wall",
+      "rank": 3,
+      "direction": 3,
+      "damage": 0,
+      "effectInk": 1164
+    },
+    {
+      "side": "shadow",
+      "id": "h53_wall",
+      "rank": 4,
+      "direction": 0,
+      "damage": 0,
+      "effectInk": 1164
+    },
+    {
+      "side": "shadow",
+      "id": "h53_wall",
+      "rank": 5,
+      "direction": 1,
+      "damage": 0,
+      "effectInk": 1164
+    },
+    {
+      "side": "shadow",
+      "id": "h53_sweep",
+      "rank": 1,
+      "direction": 1,
+      "damage": 1222,
+      "effectInk": 20072
+    },
+    {
+      "side": "shadow",
+      "id": "h53_sweep",
+      "rank": 2,
+      "direction": 2,
+      "damage": 1535,
+      "effectInk": 20072
+    },
+    {
+      "side": "shadow",
+      "id": "h53_sweep",
+      "rank": 3,
+      "direction": 3,
+      "damage": 1253,
+      "effectInk": 20072
+    },
+    {
+      "side": "shadow",
+      "id": "h53_sweep",
+      "rank": 4,
+      "direction": 0,
+      "damage": 2264,
+      "effectInk": 20072
+    },
+    {
+      "side": "shadow",
+      "id": "h53_sweep",
+      "rank": 5,
+      "direction": 1,
+      "damage": 3059,
+      "effectInk": 20072
+    },
+    {
+      "side": "shadow",
+      "id": "h53_oath",
+      "rank": 1,
+      "direction": 1,
+      "damage": 4208,
+      "effectInk": 22080
+    },
+    {
+      "side": "shadow",
+      "id": "h53_oath",
+      "rank": 2,
+      "direction": 2,
+      "damage": 5305,
+      "effectInk": 22080
+    },
+    {
+      "side": "shadow",
+      "id": "h53_oath",
+      "rank": 3,
+      "direction": 3,
+      "damage": 5290,
+      "effectInk": 22080
+    },
+    {
+      "side": "shadow",
+      "id": "h53_oath",
+      "rank": 4,
+      "direction": 0,
+      "damage": 5107,
+      "effectInk": 22080
+    },
+    {
+      "side": "shadow",
+      "id": "h53_oath",
+      "rank": 5,
+      "direction": 1,
+      "damage": 5635,
+      "effectInk": 22080
+    },
+    {
+      "side": "shadow",
+      "id": "t53_edge",
+      "rank": 1,
+      "direction": 1,
+      "damage": 1620,
+      "effectInk": 874
+    },
+    {
+      "side": "shadow",
+      "id": "t53_edge",
+      "rank": 2,
+      "direction": 2,
+      "damage": 1557,
+      "effectInk": 874
+    },
+    {
+      "side": "shadow",
+      "id": "t53_edge",
+      "rank": 3,
+      "direction": 3,
+      "damage": 1728,
+      "effectInk": 874
+    },
+    {
+      "side": "shadow",
+      "id": "t53_edge",
+      "rank": 4,
+      "direction": 0,
+      "damage": 2078,
+      "effectInk": 874
+    },
+    {
+      "side": "shadow",
+      "id": "t53_edge",
+      "rank": 5,
+      "direction": 1,
+      "damage": 2403,
+      "effectInk": 874
+    },
+    {
+      "side": "shadow",
+      "id": "t53_dusk",
+      "rank": 1,
+      "direction": 1,
+      "damage": 198,
+      "effectInk": 12094
+    },
+    {
+      "side": "shadow",
+      "id": "t53_dusk",
+      "rank": 2,
+      "direction": 2,
+      "damage": 125,
+      "effectInk": 12094
+    },
+    {
+      "side": "shadow",
+      "id": "t53_dusk",
+      "rank": 3,
+      "direction": 3,
+      "damage": 177,
+      "effectInk": 12094
+    },
+    {
+      "side": "shadow",
+      "id": "t53_dusk",
+      "rank": 4,
+      "direction": 0,
+      "damage": 257,
+      "effectInk": 12094
+    },
+    {
+      "side": "shadow",
+      "id": "t53_dusk",
+      "rank": 5,
+      "direction": 1,
+      "damage": 186,
+      "effectInk": 12094
+    },
+    {
+      "side": "shadow",
+      "id": "t53_ward",
+      "rank": 1,
+      "direction": 1,
+      "damage": 0,
+      "effectInk": 1164
+    },
+    {
+      "side": "shadow",
+      "id": "t53_ward",
+      "rank": 2,
+      "direction": 2,
+      "damage": 0,
+      "effectInk": 1164
+    },
+    {
+      "side": "shadow",
+      "id": "t53_ward",
+      "rank": 3,
+      "direction": 3,
+      "damage": 0,
+      "effectInk": 1164
+    },
+    {
+      "side": "shadow",
+      "id": "t53_ward",
+      "rank": 4,
+      "direction": 0,
+      "damage": 0,
+      "effectInk": 1164
+    },
+    {
+      "side": "shadow",
+      "id": "t53_ward",
+      "rank": 5,
+      "direction": 1,
+      "damage": 0,
+      "effectInk": 1164
+    },
+    {
+      "side": "shadow",
+      "id": "t53_cross",
+      "rank": 1,
+      "direction": 1,
+      "damage": 104,
+      "effectInk": 1092
+    },
+    {
+      "side": "shadow",
+      "id": "t53_cross",
+      "rank": 2,
+      "direction": 2,
+      "damage": 306,
+      "effectInk": 1092
+    },
+    {
+      "side": "shadow",
+      "id": "t53_cross",
+      "rank": 3,
+      "direction": 3,
+      "damage": 164,
+      "effectInk": 1092
+    },
+    {
+      "side": "shadow",
+      "id": "t53_cross",
+      "rank": 4,
+      "direction": 0,
+      "damage": 430,
+      "effectInk": 1092
+    },
+    {
+      "side": "shadow",
+      "id": "t53_cross",
+      "rank": 5,
+      "direction": 1,
+      "damage": 258,
+      "effectInk": 1092
+    },
+    {
+      "side": "shadow",
+      "id": "t53_eclipse",
+      "rank": 1,
+      "direction": 1,
+      "damage": 388,
+      "effectInk": 20072
+    },
+    {
+      "side": "shadow",
+      "id": "t53_eclipse",
+      "rank": 2,
+      "direction": 2,
+      "damage": 261,
+      "effectInk": 20072
+    },
+    {
+      "side": "shadow",
+      "id": "t53_eclipse",
+      "rank": 3,
+      "direction": 3,
+      "damage": 407,
+      "effectInk": 20072
+    },
+    {
+      "side": "shadow",
+      "id": "t53_eclipse",
+      "rank": 4,
+      "direction": 0,
+      "damage": 852,
+      "effectInk": 20072
+    },
+    {
+      "side": "shadow",
+      "id": "t53_eclipse",
+      "rank": 5,
+      "direction": 1,
+      "damage": 321,
+      "effectInk": 20072
+    },
+    {
+      "side": "shadow",
+      "id": "d53_reap",
+      "rank": 1,
+      "direction": 1,
+      "damage": 1870,
+      "effectInk": 1087
+    },
+    {
+      "side": "shadow",
+      "id": "d53_reap",
+      "rank": 2,
+      "direction": 2,
+      "damage": 2407,
+      "effectInk": 1087
+    },
+    {
+      "side": "shadow",
+      "id": "d53_reap",
+      "rank": 3,
+      "direction": 3,
+      "damage": 2302,
+      "effectInk": 1087
+    },
+    {
+      "side": "shadow",
+      "id": "d53_reap",
+      "rank": 4,
+      "direction": 0,
+      "damage": 2691,
+      "effectInk": 1087
+    },
+    {
+      "side": "shadow",
+      "id": "d53_reap",
+      "rank": 5,
+      "direction": 1,
+      "damage": 3171,
+      "effectInk": 1087
+    },
+    {
+      "side": "shadow",
+      "id": "d53_chain",
+      "rank": 1,
+      "direction": 1,
+      "damage": 83,
+      "effectInk": 1164
+    },
+    {
+      "side": "shadow",
+      "id": "d53_chain",
+      "rank": 2,
+      "direction": 2,
+      "damage": 134,
+      "effectInk": 1164
+    },
+    {
+      "side": "shadow",
+      "id": "d53_chain",
+      "rank": 3,
+      "direction": 3,
+      "damage": 149,
+      "effectInk": 1164
+    },
+    {
+      "side": "shadow",
+      "id": "d53_chain",
+      "rank": 4,
+      "direction": 0,
+      "damage": 221,
       "effectInk": 1164
     },
     {
@@ -3442,7 +3455,7 @@
       "id": "d53_chain",
       "rank": 5,
       "direction": 1,
-      "damage": 319,
+      "damage": 194,
       "effectInk": 1164
     },
     {
@@ -3490,7 +3503,7 @@
       "id": "d53_dread",
       "rank": 1,
       "direction": 1,
-      "damage": 164,
+      "damage": 136,
       "effectInk": 12094
     },
     {
@@ -3498,7 +3511,7 @@
       "id": "d53_dread",
       "rank": 2,
       "direction": 2,
-      "damage": 200,
+      "damage": 121,
       "effectInk": 12094
     },
     {
@@ -3506,7 +3519,7 @@
       "id": "d53_dread",
       "rank": 3,
       "direction": 3,
-      "damage": 185,
+      "damage": 268,
       "effectInk": 12094
     },
     {
@@ -3514,7 +3527,7 @@
       "id": "d53_dread",
       "rank": 4,
       "direction": 0,
-      "damage": 207,
+      "damage": 236,
       "effectInk": 12094
     },
     {
@@ -3522,7 +3535,7 @@
       "id": "d53_dread",
       "rank": 5,
       "direction": 1,
-      "damage": 338,
+      "damage": 210,
       "effectInk": 12094
     },
     {
@@ -3530,7 +3543,7 @@
       "id": "d53_requiem",
       "rank": 1,
       "direction": 1,
-      "damage": 4324,
+      "damage": 3642,
       "effectInk": 20072
     },
     {
@@ -3538,7 +3551,7 @@
       "id": "d53_requiem",
       "rank": 2,
       "direction": 2,
-      "damage": 5672,
+      "damage": 6049,
       "effectInk": 20072
     },
     {
@@ -3546,7 +3559,7 @@
       "id": "d53_requiem",
       "rank": 3,
       "direction": 3,
-      "damage": 4821,
+      "damage": 4925,
       "effectInk": 20072
     },
     {
@@ -3554,7 +3567,7 @@
       "id": "d53_requiem",
       "rank": 4,
       "direction": 0,
-      "damage": 8022,
+      "damage": 5942,
       "effectInk": 20072
     },
     {
@@ -3562,7 +3575,7 @@
       "id": "d53_requiem",
       "rank": 5,
       "direction": 1,
-      "damage": 8535,
+      "damage": 7925,
       "effectInk": 20072
     },
     {
@@ -3570,7 +3583,7 @@
       "id": "s53_threads",
       "rank": 1,
       "direction": 1,
-      "damage": 3357,
+      "damage": 2274,
       "effectInk": 1513
     },
     {
@@ -3578,7 +3591,7 @@
       "id": "s53_threads",
       "rank": 2,
       "direction": 2,
-      "damage": 3239,
+      "damage": 3627,
       "effectInk": 1512
     },
     {
@@ -3586,7 +3599,7 @@
       "id": "s53_threads",
       "rank": 3,
       "direction": 3,
-      "damage": 3778,
+      "damage": 3807,
       "effectInk": 1502
     },
     {
@@ -3594,7 +3607,7 @@
       "id": "s53_threads",
       "rank": 4,
       "direction": 0,
-      "damage": 4305,
+      "damage": 3910,
       "effectInk": 1519
     },
     {
@@ -3602,7 +3615,7 @@
       "id": "s53_threads",
       "rank": 5,
       "direction": 1,
-      "damage": 5044,
+      "damage": 4356,
       "effectInk": 1513
     },
     {
@@ -3610,7 +3623,7 @@
       "id": "s53_vortex",
       "rank": 1,
       "direction": 1,
-      "damage": 2916,
+      "damage": 3166,
       "effectInk": 12094
     },
     {
@@ -3618,7 +3631,7 @@
       "id": "s53_vortex",
       "rank": 2,
       "direction": 2,
-      "damage": 5029,
+      "damage": 4624,
       "effectInk": 12094
     },
     {
@@ -3626,7 +3639,7 @@
       "id": "s53_vortex",
       "rank": 3,
       "direction": 3,
-      "damage": 4785,
+      "damage": 3940,
       "effectInk": 12094
     },
     {
@@ -3634,7 +3647,7 @@
       "id": "s53_vortex",
       "rank": 4,
       "direction": 0,
-      "damage": 5181,
+      "damage": 5101,
       "effectInk": 12094
     },
     {
@@ -3642,7 +3655,7 @@
       "id": "s53_vortex",
       "rank": 5,
       "direction": 1,
-      "damage": 5823,
+      "damage": 6324,
       "effectInk": 12094
     },
     {
@@ -3690,7 +3703,7 @@
       "id": "s53_gale",
       "rank": 1,
       "direction": 1,
-      "damage": 2029,
+      "damage": 2291,
       "effectInk": 26198
     },
     {
@@ -3698,7 +3711,7 @@
       "id": "s53_gale",
       "rank": 2,
       "direction": 2,
-      "damage": 2769,
+      "damage": 2963,
       "effectInk": 26198
     },
     {
@@ -3706,7 +3719,7 @@
       "id": "s53_gale",
       "rank": 3,
       "direction": 3,
-      "damage": 3026,
+      "damage": 3147,
       "effectInk": 26198
     },
     {
@@ -3714,7 +3727,7 @@
       "id": "s53_gale",
       "rank": 4,
       "direction": 0,
-      "damage": 3134,
+      "damage": 3251,
       "effectInk": 26198
     },
     {
@@ -3722,7 +3735,7 @@
       "id": "s53_gale",
       "rank": 5,
       "direction": 1,
-      "damage": 3863,
+      "damage": 3733,
       "effectInk": 26198
     },
     {
@@ -3730,7 +3743,7 @@
       "id": "s53_tempest",
       "rank": 1,
       "direction": 1,
-      "damage": 5709,
+      "damage": 5701,
       "effectInk": 20072
     },
     {
@@ -3738,7 +3751,7 @@
       "id": "s53_tempest",
       "rank": 2,
       "direction": 2,
-      "damage": 8355,
+      "damage": 6302,
       "effectInk": 20072
     },
     {
@@ -3746,7 +3759,7 @@
       "id": "s53_tempest",
       "rank": 3,
       "direction": 3,
-      "damage": 8648,
+      "damage": 7552,
       "effectInk": 20072
     },
     {
@@ -3754,7 +3767,7 @@
       "id": "s53_tempest",
       "rank": 4,
       "direction": 0,
-      "damage": 9548,
+      "damage": 9885,
       "effectInk": 20072
     },
     {
@@ -3762,7 +3775,7 @@
       "id": "s53_tempest",
       "rank": 5,
       "direction": 1,
-      "damage": 10177,
+      "damage": 11576,
       "effectInk": 20072
     },
     {
@@ -3770,7 +3783,7 @@
       "id": "i53_shards",
       "rank": 1,
       "direction": 1,
-      "damage": 2712,
+      "damage": 3386,
       "effectInk": 863
     },
     {
@@ -3778,7 +3791,7 @@
       "id": "i53_shards",
       "rank": 2,
       "direction": 2,
-      "damage": 3691,
+      "damage": 2990,
       "effectInk": 863
     },
     {
@@ -3786,7 +3799,7 @@
       "id": "i53_shards",
       "rank": 3,
       "direction": 3,
-      "damage": 4165,
+      "damage": 4317,
       "effectInk": 863
     },
     {
@@ -3794,7 +3807,7 @@
       "id": "i53_shards",
       "rank": 4,
       "direction": 0,
-      "damage": 4101,
+      "damage": 3631,
       "effectInk": 863
     },
     {
@@ -3802,7 +3815,7 @@
       "id": "i53_shards",
       "rank": 5,
       "direction": 1,
-      "damage": 4908,
+      "damage": 5012,
       "effectInk": 863
     },
     {
@@ -3810,7 +3823,7 @@
       "id": "i53_seal",
       "rank": 1,
       "direction": 1,
-      "damage": 2393,
+      "damage": 1863,
       "effectInk": 12413
     },
     {
@@ -3818,7 +3831,7 @@
       "id": "i53_seal",
       "rank": 2,
       "direction": 2,
-      "damage": 2183,
+      "damage": 1857,
       "effectInk": 12413
     },
     {
@@ -3826,7 +3839,7 @@
       "id": "i53_seal",
       "rank": 3,
       "direction": 3,
-      "damage": 2271,
+      "damage": 2485,
       "effectInk": 12413
     },
     {
@@ -3834,7 +3847,7 @@
       "id": "i53_seal",
       "rank": 4,
       "direction": 0,
-      "damage": 2276,
+      "damage": 2305,
       "effectInk": 12413
     },
     {
@@ -3842,7 +3855,7 @@
       "id": "i53_seal",
       "rank": 5,
       "direction": 1,
-      "damage": 3323,
+      "damage": 3482,
       "effectInk": 12413
     },
     {
@@ -3890,7 +3903,7 @@
       "id": "i53_prison",
       "rank": 1,
       "direction": 1,
-      "damage": 2648,
+      "damage": 2394,
       "effectInk": 863
     },
     {
@@ -3898,7 +3911,7 @@
       "id": "i53_prison",
       "rank": 2,
       "direction": 2,
-      "damage": 2739,
+      "damage": 2185,
       "effectInk": 863
     },
     {
@@ -3906,7 +3919,7 @@
       "id": "i53_prison",
       "rank": 3,
       "direction": 3,
-      "damage": 2842,
+      "damage": 3736,
       "effectInk": 863
     },
     {
@@ -3914,7 +3927,7 @@
       "id": "i53_prison",
       "rank": 4,
       "direction": 0,
-      "damage": 3735,
+      "damage": 3347,
       "effectInk": 863
     },
     {
@@ -3922,7 +3935,7 @@
       "id": "i53_prison",
       "rank": 5,
       "direction": 1,
-      "damage": 4328,
+      "damage": 4079,
       "effectInk": 863
     },
     {
@@ -3930,591 +3943,591 @@
       "id": "i53_zero",
       "rank": 1,
       "direction": 1,
-      "damage": 1962,
-      "effectInk": 21005
-    },
-    {
-      "side": "shadow",
-      "id": "i53_zero",
-      "rank": 2,
-      "direction": 2,
-      "damage": 1943,
-      "effectInk": 21005
-    },
-    {
-      "side": "shadow",
-      "id": "i53_zero",
-      "rank": 3,
-      "direction": 3,
-      "damage": 2322,
-      "effectInk": 21005
-    },
-    {
-      "side": "shadow",
-      "id": "i53_zero",
-      "rank": 4,
-      "direction": 0,
-      "damage": 2549,
-      "effectInk": 21005
-    },
-    {
-      "side": "shadow",
-      "id": "i53_zero",
-      "rank": 5,
-      "direction": 1,
-      "damage": 3310,
-      "effectInk": 21005
-    },
-    {
-      "side": "shadow",
-      "id": "n53_pierce",
-      "rank": 1,
-      "direction": 1,
-      "damage": 1775,
-      "effectInk": 907
-    },
-    {
-      "side": "shadow",
-      "id": "n53_pierce",
-      "rank": 2,
-      "direction": 2,
-      "damage": 2276,
-      "effectInk": 922
-    },
-    {
-      "side": "shadow",
-      "id": "n53_pierce",
-      "rank": 3,
-      "direction": 3,
-      "damage": 2473,
-      "effectInk": 922
-    },
-    {
-      "side": "shadow",
-      "id": "n53_pierce",
-      "rank": 4,
-      "direction": 0,
-      "damage": 3064,
-      "effectInk": 911
-    },
-    {
-      "side": "shadow",
-      "id": "n53_pierce",
-      "rank": 5,
-      "direction": 1,
-      "damage": 2573,
-      "effectInk": 907
-    },
-    {
-      "side": "shadow",
-      "id": "n53_rain",
-      "rank": 1,
-      "direction": 1,
-      "damage": 1832,
-      "effectInk": 12094
-    },
-    {
-      "side": "shadow",
-      "id": "n53_rain",
-      "rank": 2,
-      "direction": 2,
-      "damage": 2897,
-      "effectInk": 12094
-    },
-    {
-      "side": "shadow",
-      "id": "n53_rain",
-      "rank": 3,
-      "direction": 3,
-      "damage": 3130,
-      "effectInk": 12094
-    },
-    {
-      "side": "shadow",
-      "id": "n53_rain",
-      "rank": 4,
-      "direction": 0,
-      "damage": 3246,
-      "effectInk": 12094
-    },
-    {
-      "side": "shadow",
-      "id": "n53_rain",
-      "rank": 5,
-      "direction": 1,
-      "damage": 3171,
-      "effectInk": 12094
-    },
-    {
-      "side": "shadow",
-      "id": "n53_focus",
-      "rank": 1,
-      "direction": 1,
-      "damage": 0,
-      "effectInk": 1058
-    },
-    {
-      "side": "shadow",
-      "id": "n53_focus",
-      "rank": 2,
-      "direction": 2,
-      "damage": 0,
-      "effectInk": 1058
-    },
-    {
-      "side": "shadow",
-      "id": "n53_focus",
-      "rank": 3,
-      "direction": 3,
-      "damage": 0,
-      "effectInk": 1058
-    },
-    {
-      "side": "shadow",
-      "id": "n53_focus",
-      "rank": 4,
-      "direction": 0,
-      "damage": 0,
-      "effectInk": 1058
-    },
-    {
-      "side": "shadow",
-      "id": "n53_focus",
-      "rank": 5,
-      "direction": 1,
-      "damage": 0,
-      "effectInk": 1058
-    },
-    {
-      "side": "shadow",
-      "id": "n53_tether",
-      "rank": 1,
-      "direction": 1,
-      "damage": 1095,
-      "effectInk": 835
-    },
-    {
-      "side": "shadow",
-      "id": "n53_tether",
-      "rank": 2,
-      "direction": 2,
-      "damage": 1350,
-      "effectInk": 835
-    },
-    {
-      "side": "shadow",
-      "id": "n53_tether",
-      "rank": 3,
-      "direction": 3,
-      "damage": 1405,
-      "effectInk": 835
-    },
-    {
-      "side": "shadow",
-      "id": "n53_tether",
-      "rank": 4,
-      "direction": 0,
-      "damage": 1770,
-      "effectInk": 835
-    },
-    {
-      "side": "shadow",
-      "id": "n53_tether",
-      "rank": 5,
-      "direction": 1,
-      "damage": 1783,
-      "effectInk": 835
-    },
-    {
-      "side": "shadow",
-      "id": "n53_horizon",
-      "rank": 1,
-      "direction": 1,
-      "damage": 3225,
-      "effectInk": 907
-    },
-    {
-      "side": "shadow",
-      "id": "n53_horizon",
-      "rank": 2,
-      "direction": 2,
-      "damage": 3931,
-      "effectInk": 922
-    },
-    {
-      "side": "shadow",
-      "id": "n53_horizon",
-      "rank": 3,
-      "direction": 3,
-      "damage": 5241,
-      "effectInk": 922
-    },
-    {
-      "side": "shadow",
-      "id": "n53_horizon",
-      "rank": 4,
-      "direction": 0,
-      "damage": 5832,
-      "effectInk": 911
-    },
-    {
-      "side": "shadow",
-      "id": "n53_horizon",
-      "rank": 5,
-      "direction": 1,
-      "damage": 5437,
-      "effectInk": 907
-    },
-    {
-      "side": "shadow",
-      "id": "p53_heal",
-      "rank": 1,
-      "direction": 1,
-      "damage": 0,
-      "effectInk": 1203
-    },
-    {
-      "side": "shadow",
-      "id": "p53_heal",
-      "rank": 2,
-      "direction": 2,
-      "damage": 0,
-      "effectInk": 1203
-    },
-    {
-      "side": "shadow",
-      "id": "p53_heal",
-      "rank": 3,
-      "direction": 3,
-      "damage": 0,
-      "effectInk": 1203
-    },
-    {
-      "side": "shadow",
-      "id": "p53_heal",
-      "rank": 4,
-      "direction": 0,
-      "damage": 0,
-      "effectInk": 1203
-    },
-    {
-      "side": "shadow",
-      "id": "p53_heal",
-      "rank": 5,
-      "direction": 1,
-      "damage": 0,
-      "effectInk": 1203
-    },
-    {
-      "side": "shadow",
-      "id": "p53_sanctum",
-      "rank": 1,
-      "direction": 1,
-      "damage": 0,
-      "effectInk": 1164
-    },
-    {
-      "side": "shadow",
-      "id": "p53_sanctum",
-      "rank": 2,
-      "direction": 2,
-      "damage": 0,
-      "effectInk": 1164
-    },
-    {
-      "side": "shadow",
-      "id": "p53_sanctum",
-      "rank": 3,
-      "direction": 3,
-      "damage": 0,
-      "effectInk": 1164
-    },
-    {
-      "side": "shadow",
-      "id": "p53_sanctum",
-      "rank": 4,
-      "direction": 0,
-      "damage": 0,
-      "effectInk": 1164
-    },
-    {
-      "side": "shadow",
-      "id": "p53_sanctum",
-      "rank": 5,
-      "direction": 1,
-      "damage": 0,
-      "effectInk": 1164
-    },
-    {
-      "side": "shadow",
-      "id": "p53_judge",
-      "rank": 1,
-      "direction": 1,
-      "damage": 2429,
-      "effectInk": 13498
-    },
-    {
-      "side": "shadow",
-      "id": "p53_judge",
-      "rank": 2,
-      "direction": 2,
-      "damage": 3025,
-      "effectInk": 13498
-    },
-    {
-      "side": "shadow",
-      "id": "p53_judge",
-      "rank": 3,
-      "direction": 3,
-      "damage": 4259,
-      "effectInk": 13498
-    },
-    {
-      "side": "shadow",
-      "id": "p53_judge",
-      "rank": 4,
-      "direction": 0,
-      "damage": 4207,
-      "effectInk": 13498
-    },
-    {
-      "side": "shadow",
-      "id": "p53_judge",
-      "rank": 5,
-      "direction": 1,
-      "damage": 4285,
-      "effectInk": 13498
-    },
-    {
-      "side": "shadow",
-      "id": "p53_cleanse",
-      "rank": 1,
-      "direction": 1,
-      "damage": 0,
-      "effectInk": 1203
-    },
-    {
-      "side": "shadow",
-      "id": "p53_cleanse",
-      "rank": 2,
-      "direction": 2,
-      "damage": 0,
-      "effectInk": 1203
-    },
-    {
-      "side": "shadow",
-      "id": "p53_cleanse",
-      "rank": 3,
-      "direction": 3,
-      "damage": 0,
-      "effectInk": 1203
-    },
-    {
-      "side": "shadow",
-      "id": "p53_cleanse",
-      "rank": 4,
-      "direction": 0,
-      "damage": 0,
-      "effectInk": 1203
-    },
-    {
-      "side": "shadow",
-      "id": "p53_cleanse",
-      "rank": 5,
-      "direction": 1,
-      "damage": 0,
-      "effectInk": 1203
-    },
-    {
-      "side": "shadow",
-      "id": "p53_return",
-      "rank": 1,
-      "direction": 1,
-      "damage": 0,
-      "effectInk": 2592
-    },
-    {
-      "side": "shadow",
-      "id": "p53_return",
-      "rank": 2,
-      "direction": 2,
-      "damage": 0,
-      "effectInk": 2592
-    },
-    {
-      "side": "shadow",
-      "id": "p53_return",
-      "rank": 3,
-      "direction": 3,
-      "damage": 0,
-      "effectInk": 2592
-    },
-    {
-      "side": "shadow",
-      "id": "p53_return",
-      "rank": 4,
-      "direction": 0,
-      "damage": 0,
-      "effectInk": 2592
-    },
-    {
-      "side": "shadow",
-      "id": "p53_return",
-      "rank": 5,
-      "direction": 1,
-      "damage": 0,
-      "effectInk": 2592
-    },
-    {
-      "side": "shadow",
-      "id": "f53_combo",
-      "rank": 1,
-      "direction": 1,
-      "damage": 1421,
-      "effectInk": 755
-    },
-    {
-      "side": "shadow",
-      "id": "f53_combo",
-      "rank": 2,
-      "direction": 2,
-      "damage": 1912,
-      "effectInk": 755
-    },
-    {
-      "side": "shadow",
-      "id": "f53_combo",
-      "rank": 3,
-      "direction": 3,
-      "damage": 1878,
-      "effectInk": 755
-    },
-    {
-      "side": "shadow",
-      "id": "f53_combo",
-      "rank": 4,
-      "direction": 0,
-      "damage": 2237,
-      "effectInk": 755
-    },
-    {
-      "side": "shadow",
-      "id": "f53_combo",
-      "rank": 5,
-      "direction": 1,
-      "damage": 2114,
-      "effectInk": 755
-    },
-    {
-      "side": "shadow",
-      "id": "f53_crack",
-      "rank": 1,
-      "direction": 1,
-      "damage": 1232,
-      "effectInk": 1079
-    },
-    {
-      "side": "shadow",
-      "id": "f53_crack",
-      "rank": 2,
-      "direction": 2,
-      "damage": 1955,
-      "effectInk": 1079
-    },
-    {
-      "side": "shadow",
-      "id": "f53_crack",
-      "rank": 3,
-      "direction": 3,
-      "damage": 1599,
-      "effectInk": 1079
-    },
-    {
-      "side": "shadow",
-      "id": "f53_crack",
-      "rank": 4,
-      "direction": 0,
-      "damage": 1905,
-      "effectInk": 1079
-    },
-    {
-      "side": "shadow",
-      "id": "f53_crack",
-      "rank": 5,
-      "direction": 1,
-      "damage": 2141,
-      "effectInk": 1079
-    },
-    {
-      "side": "shadow",
-      "id": "f53_breath",
-      "rank": 1,
-      "direction": 1,
-      "damage": 0,
-      "effectInk": 701
-    },
-    {
-      "side": "shadow",
-      "id": "f53_breath",
-      "rank": 2,
-      "direction": 2,
-      "damage": 0,
-      "effectInk": 701
-    },
-    {
-      "side": "shadow",
-      "id": "f53_breath",
-      "rank": 3,
-      "direction": 3,
-      "damage": 0,
-      "effectInk": 701
-    },
-    {
-      "side": "shadow",
-      "id": "f53_breath",
-      "rank": 4,
-      "direction": 0,
-      "damage": 0,
-      "effectInk": 701
-    },
-    {
-      "side": "shadow",
-      "id": "f53_breath",
-      "rank": 5,
-      "direction": 1,
-      "damage": 0,
-      "effectInk": 701
-    },
-    {
-      "side": "shadow",
-      "id": "f53_roar",
-      "rank": 1,
-      "direction": 1,
-      "damage": 727,
-      "effectInk": 20072
-    },
-    {
-      "side": "shadow",
-      "id": "f53_roar",
-      "rank": 2,
-      "direction": 2,
-      "damage": 987,
-      "effectInk": 20072
-    },
-    {
-      "side": "shadow",
-      "id": "f53_roar",
-      "rank": 3,
-      "direction": 3,
-      "damage": 1221,
-      "effectInk": 20072
-    },
-    {
-      "side": "shadow",
-      "id": "f53_roar",
-      "rank": 4,
-      "direction": 0,
       "damage": 1632,
+      "effectInk": 21005
+    },
+    {
+      "side": "shadow",
+      "id": "i53_zero",
+      "rank": 2,
+      "direction": 2,
+      "damage": 2400,
+      "effectInk": 21005
+    },
+    {
+      "side": "shadow",
+      "id": "i53_zero",
+      "rank": 3,
+      "direction": 3,
+      "damage": 2597,
+      "effectInk": 21005
+    },
+    {
+      "side": "shadow",
+      "id": "i53_zero",
+      "rank": 4,
+      "direction": 0,
+      "damage": 2472,
+      "effectInk": 21005
+    },
+    {
+      "side": "shadow",
+      "id": "i53_zero",
+      "rank": 5,
+      "direction": 1,
+      "damage": 2959,
+      "effectInk": 21005
+    },
+    {
+      "side": "shadow",
+      "id": "n53_pierce",
+      "rank": 1,
+      "direction": 1,
+      "damage": 1730,
+      "effectInk": 907
+    },
+    {
+      "side": "shadow",
+      "id": "n53_pierce",
+      "rank": 2,
+      "direction": 2,
+      "damage": 2404,
+      "effectInk": 922
+    },
+    {
+      "side": "shadow",
+      "id": "n53_pierce",
+      "rank": 3,
+      "direction": 3,
+      "damage": 3512,
+      "effectInk": 922
+    },
+    {
+      "side": "shadow",
+      "id": "n53_pierce",
+      "rank": 4,
+      "direction": 0,
+      "damage": 3973,
+      "effectInk": 911
+    },
+    {
+      "side": "shadow",
+      "id": "n53_pierce",
+      "rank": 5,
+      "direction": 1,
+      "damage": 2613,
+      "effectInk": 907
+    },
+    {
+      "side": "shadow",
+      "id": "n53_rain",
+      "rank": 1,
+      "direction": 1,
+      "damage": 1732,
+      "effectInk": 12094
+    },
+    {
+      "side": "shadow",
+      "id": "n53_rain",
+      "rank": 2,
+      "direction": 2,
+      "damage": 2256,
+      "effectInk": 12094
+    },
+    {
+      "side": "shadow",
+      "id": "n53_rain",
+      "rank": 3,
+      "direction": 3,
+      "damage": 2491,
+      "effectInk": 12094
+    },
+    {
+      "side": "shadow",
+      "id": "n53_rain",
+      "rank": 4,
+      "direction": 0,
+      "damage": 2644,
+      "effectInk": 12094
+    },
+    {
+      "side": "shadow",
+      "id": "n53_rain",
+      "rank": 5,
+      "direction": 1,
+      "damage": 3065,
+      "effectInk": 12094
+    },
+    {
+      "side": "shadow",
+      "id": "n53_focus",
+      "rank": 1,
+      "direction": 1,
+      "damage": 0,
+      "effectInk": 1058
+    },
+    {
+      "side": "shadow",
+      "id": "n53_focus",
+      "rank": 2,
+      "direction": 2,
+      "damage": 0,
+      "effectInk": 1058
+    },
+    {
+      "side": "shadow",
+      "id": "n53_focus",
+      "rank": 3,
+      "direction": 3,
+      "damage": 0,
+      "effectInk": 1058
+    },
+    {
+      "side": "shadow",
+      "id": "n53_focus",
+      "rank": 4,
+      "direction": 0,
+      "damage": 0,
+      "effectInk": 1058
+    },
+    {
+      "side": "shadow",
+      "id": "n53_focus",
+      "rank": 5,
+      "direction": 1,
+      "damage": 0,
+      "effectInk": 1058
+    },
+    {
+      "side": "shadow",
+      "id": "n53_tether",
+      "rank": 1,
+      "direction": 1,
+      "damage": 1057,
+      "effectInk": 835
+    },
+    {
+      "side": "shadow",
+      "id": "n53_tether",
+      "rank": 2,
+      "direction": 2,
+      "damage": 1253,
+      "effectInk": 835
+    },
+    {
+      "side": "shadow",
+      "id": "n53_tether",
+      "rank": 3,
+      "direction": 3,
+      "damage": 1584,
+      "effectInk": 835
+    },
+    {
+      "side": "shadow",
+      "id": "n53_tether",
+      "rank": 4,
+      "direction": 0,
+      "damage": 1559,
+      "effectInk": 835
+    },
+    {
+      "side": "shadow",
+      "id": "n53_tether",
+      "rank": 5,
+      "direction": 1,
+      "damage": 1743,
+      "effectInk": 835
+    },
+    {
+      "side": "shadow",
+      "id": "n53_horizon",
+      "rank": 1,
+      "direction": 1,
+      "damage": 2806,
+      "effectInk": 907
+    },
+    {
+      "side": "shadow",
+      "id": "n53_horizon",
+      "rank": 2,
+      "direction": 2,
+      "damage": 3536,
+      "effectInk": 922
+    },
+    {
+      "side": "shadow",
+      "id": "n53_horizon",
+      "rank": 3,
+      "direction": 3,
+      "damage": 4328,
+      "effectInk": 922
+    },
+    {
+      "side": "shadow",
+      "id": "n53_horizon",
+      "rank": 4,
+      "direction": 0,
+      "damage": 5072,
+      "effectInk": 911
+    },
+    {
+      "side": "shadow",
+      "id": "n53_horizon",
+      "rank": 5,
+      "direction": 1,
+      "damage": 6937,
+      "effectInk": 907
+    },
+    {
+      "side": "shadow",
+      "id": "p53_heal",
+      "rank": 1,
+      "direction": 1,
+      "damage": 0,
+      "effectInk": 1203
+    },
+    {
+      "side": "shadow",
+      "id": "p53_heal",
+      "rank": 2,
+      "direction": 2,
+      "damage": 0,
+      "effectInk": 1203
+    },
+    {
+      "side": "shadow",
+      "id": "p53_heal",
+      "rank": 3,
+      "direction": 3,
+      "damage": 0,
+      "effectInk": 1203
+    },
+    {
+      "side": "shadow",
+      "id": "p53_heal",
+      "rank": 4,
+      "direction": 0,
+      "damage": 0,
+      "effectInk": 1203
+    },
+    {
+      "side": "shadow",
+      "id": "p53_heal",
+      "rank": 5,
+      "direction": 1,
+      "damage": 0,
+      "effectInk": 1203
+    },
+    {
+      "side": "shadow",
+      "id": "p53_sanctum",
+      "rank": 1,
+      "direction": 1,
+      "damage": 0,
+      "effectInk": 1164
+    },
+    {
+      "side": "shadow",
+      "id": "p53_sanctum",
+      "rank": 2,
+      "direction": 2,
+      "damage": 0,
+      "effectInk": 1164
+    },
+    {
+      "side": "shadow",
+      "id": "p53_sanctum",
+      "rank": 3,
+      "direction": 3,
+      "damage": 0,
+      "effectInk": 1164
+    },
+    {
+      "side": "shadow",
+      "id": "p53_sanctum",
+      "rank": 4,
+      "direction": 0,
+      "damage": 0,
+      "effectInk": 1164
+    },
+    {
+      "side": "shadow",
+      "id": "p53_sanctum",
+      "rank": 5,
+      "direction": 1,
+      "damage": 0,
+      "effectInk": 1164
+    },
+    {
+      "side": "shadow",
+      "id": "p53_judge",
+      "rank": 1,
+      "direction": 1,
+      "damage": 2518,
+      "effectInk": 13498
+    },
+    {
+      "side": "shadow",
+      "id": "p53_judge",
+      "rank": 2,
+      "direction": 2,
+      "damage": 3335,
+      "effectInk": 13498
+    },
+    {
+      "side": "shadow",
+      "id": "p53_judge",
+      "rank": 3,
+      "direction": 3,
+      "damage": 4636,
+      "effectInk": 13498
+    },
+    {
+      "side": "shadow",
+      "id": "p53_judge",
+      "rank": 4,
+      "direction": 0,
+      "damage": 4938,
+      "effectInk": 13498
+    },
+    {
+      "side": "shadow",
+      "id": "p53_judge",
+      "rank": 5,
+      "direction": 1,
+      "damage": 4458,
+      "effectInk": 13498
+    },
+    {
+      "side": "shadow",
+      "id": "p53_cleanse",
+      "rank": 1,
+      "direction": 1,
+      "damage": 0,
+      "effectInk": 1203
+    },
+    {
+      "side": "shadow",
+      "id": "p53_cleanse",
+      "rank": 2,
+      "direction": 2,
+      "damage": 0,
+      "effectInk": 1203
+    },
+    {
+      "side": "shadow",
+      "id": "p53_cleanse",
+      "rank": 3,
+      "direction": 3,
+      "damage": 0,
+      "effectInk": 1203
+    },
+    {
+      "side": "shadow",
+      "id": "p53_cleanse",
+      "rank": 4,
+      "direction": 0,
+      "damage": 0,
+      "effectInk": 1203
+    },
+    {
+      "side": "shadow",
+      "id": "p53_cleanse",
+      "rank": 5,
+      "direction": 1,
+      "damage": 0,
+      "effectInk": 1203
+    },
+    {
+      "side": "shadow",
+      "id": "p53_return",
+      "rank": 1,
+      "direction": 1,
+      "damage": 0,
+      "effectInk": 2592
+    },
+    {
+      "side": "shadow",
+      "id": "p53_return",
+      "rank": 2,
+      "direction": 2,
+      "damage": 0,
+      "effectInk": 2592
+    },
+    {
+      "side": "shadow",
+      "id": "p53_return",
+      "rank": 3,
+      "direction": 3,
+      "damage": 0,
+      "effectInk": 2592
+    },
+    {
+      "side": "shadow",
+      "id": "p53_return",
+      "rank": 4,
+      "direction": 0,
+      "damage": 0,
+      "effectInk": 2592
+    },
+    {
+      "side": "shadow",
+      "id": "p53_return",
+      "rank": 5,
+      "direction": 1,
+      "damage": 0,
+      "effectInk": 2592
+    },
+    {
+      "side": "shadow",
+      "id": "f53_combo",
+      "rank": 1,
+      "direction": 1,
+      "damage": 975,
+      "effectInk": 755
+    },
+    {
+      "side": "shadow",
+      "id": "f53_combo",
+      "rank": 2,
+      "direction": 2,
+      "damage": 1424,
+      "effectInk": 755
+    },
+    {
+      "side": "shadow",
+      "id": "f53_combo",
+      "rank": 3,
+      "direction": 3,
+      "damage": 1750,
+      "effectInk": 755
+    },
+    {
+      "side": "shadow",
+      "id": "f53_combo",
+      "rank": 4,
+      "direction": 0,
+      "damage": 1614,
+      "effectInk": 755
+    },
+    {
+      "side": "shadow",
+      "id": "f53_combo",
+      "rank": 5,
+      "direction": 1,
+      "damage": 2005,
+      "effectInk": 755
+    },
+    {
+      "side": "shadow",
+      "id": "f53_crack",
+      "rank": 1,
+      "direction": 1,
+      "damage": 1192,
+      "effectInk": 1079
+    },
+    {
+      "side": "shadow",
+      "id": "f53_crack",
+      "rank": 2,
+      "direction": 2,
+      "damage": 1842,
+      "effectInk": 1079
+    },
+    {
+      "side": "shadow",
+      "id": "f53_crack",
+      "rank": 3,
+      "direction": 3,
+      "damage": 2383,
+      "effectInk": 1079
+    },
+    {
+      "side": "shadow",
+      "id": "f53_crack",
+      "rank": 4,
+      "direction": 0,
+      "damage": 1634,
+      "effectInk": 1079
+    },
+    {
+      "side": "shadow",
+      "id": "f53_crack",
+      "rank": 5,
+      "direction": 1,
+      "damage": 2215,
+      "effectInk": 1079
+    },
+    {
+      "side": "shadow",
+      "id": "f53_breath",
+      "rank": 1,
+      "direction": 1,
+      "damage": 0,
+      "effectInk": 701
+    },
+    {
+      "side": "shadow",
+      "id": "f53_breath",
+      "rank": 2,
+      "direction": 2,
+      "damage": 0,
+      "effectInk": 701
+    },
+    {
+      "side": "shadow",
+      "id": "f53_breath",
+      "rank": 3,
+      "direction": 3,
+      "damage": 0,
+      "effectInk": 701
+    },
+    {
+      "side": "shadow",
+      "id": "f53_breath",
+      "rank": 4,
+      "direction": 0,
+      "damage": 0,
+      "effectInk": 701
+    },
+    {
+      "side": "shadow",
+      "id": "f53_breath",
+      "rank": 5,
+      "direction": 1,
+      "damage": 0,
+      "effectInk": 701
+    },
+    {
+      "side": "shadow",
+      "id": "f53_roar",
+      "rank": 1,
+      "direction": 1,
+      "damage": 1011,
+      "effectInk": 20072
+    },
+    {
+      "side": "shadow",
+      "id": "f53_roar",
+      "rank": 2,
+      "direction": 2,
+      "damage": 1590,
+      "effectInk": 20072
+    },
+    {
+      "side": "shadow",
+      "id": "f53_roar",
+      "rank": 3,
+      "direction": 3,
+      "damage": 1161,
+      "effectInk": 20072
+    },
+    {
+      "side": "shadow",
+      "id": "f53_roar",
+      "rank": 4,
+      "direction": 0,
+      "damage": 1303,
       "effectInk": 20072
     },
     {
@@ -4522,7 +4535,7 @@
       "id": "f53_roar",
       "rank": 5,
       "direction": 1,
-      "damage": 1641,
+      "damage": 1781,
       "effectInk": 20072
     },
     {
@@ -4530,7 +4543,7 @@
       "id": "f53_infinity",
       "rank": 1,
       "direction": 1,
-      "damage": 2746,
+      "damage": 2513,
       "effectInk": 755
     },
     {
@@ -4538,7 +4551,7 @@
       "id": "f53_infinity",
       "rank": 2,
       "direction": 2,
-      "damage": 2648,
+      "damage": 3433,
       "effectInk": 755
     },
     {
@@ -4546,7 +4559,7 @@
       "id": "f53_infinity",
       "rank": 3,
       "direction": 3,
-      "damage": 3915,
+      "damage": 3490,
       "effectInk": 755
     },
     {
@@ -4554,7 +4567,7 @@
       "id": "f53_infinity",
       "rank": 4,
       "direction": 0,
-      "damage": 3456,
+      "damage": 3426,
       "effectInk": 755
     },
     {
@@ -4562,7 +4575,7 @@
       "id": "f53_infinity",
       "rank": 5,
       "direction": 1,
-      "damage": 4265,
+      "damage": 4440,
       "effectInk": 755
     },
     {
@@ -4570,7 +4583,7 @@
       "id": "w53_hammer",
       "rank": 1,
       "direction": 1,
-      "damage": 1098,
+      "damage": 1240,
       "effectInk": 8378
     },
     {
@@ -4578,7 +4591,7 @@
       "id": "w53_hammer",
       "rank": 2,
       "direction": 2,
-      "damage": 2218,
+      "damage": 1331,
       "effectInk": 8378
     },
     {
@@ -4586,7 +4599,7 @@
       "id": "w53_hammer",
       "rank": 3,
       "direction": 3,
-      "damage": 1772,
+      "damage": 1552,
       "effectInk": 8378
     },
     {
@@ -4594,7 +4607,7 @@
       "id": "w53_hammer",
       "rank": 4,
       "direction": 0,
-      "damage": 1986,
+      "damage": 2188,
       "effectInk": 8378
     },
     {
@@ -4602,7 +4615,7 @@
       "id": "w53_hammer",
       "rank": 5,
       "direction": 1,
-      "damage": 3006,
+      "damage": 1606,
       "effectInk": 8378
     },
     {
@@ -4650,7 +4663,7 @@
       "id": "w53_rivet",
       "rank": 1,
       "direction": 1,
-      "damage": 1675,
+      "damage": 1547,
       "effectInk": 1079
     },
     {
@@ -4658,7 +4671,7 @@
       "id": "w53_rivet",
       "rank": 2,
       "direction": 2,
-      "damage": 1854,
+      "damage": 2878,
       "effectInk": 1079
     },
     {
@@ -4666,7 +4679,7 @@
       "id": "w53_rivet",
       "rank": 3,
       "direction": 3,
-      "damage": 2944,
+      "damage": 2635,
       "effectInk": 1079
     },
     {
@@ -4674,7 +4687,7 @@
       "id": "w53_rivet",
       "rank": 4,
       "direction": 0,
-      "damage": 2050,
+      "damage": 2294,
       "effectInk": 1079
     },
     {
@@ -4682,7 +4695,7 @@
       "id": "w53_rivet",
       "rank": 5,
       "direction": 1,
-      "damage": 3113,
+      "damage": 2675,
       "effectInk": 1079
     },
     {
@@ -4730,7 +4743,7 @@
       "id": "w53_anvil",
       "rank": 1,
       "direction": 1,
-      "damage": 2426,
+      "damage": 3326,
       "effectInk": 20435
     },
     {
@@ -4738,7 +4751,7 @@
       "id": "w53_anvil",
       "rank": 2,
       "direction": 2,
-      "damage": 3443,
+      "damage": 2970,
       "effectInk": 20435
     },
     {
@@ -4746,7 +4759,7 @@
       "id": "w53_anvil",
       "rank": 3,
       "direction": 3,
-      "damage": 3806,
+      "damage": 4093,
       "effectInk": 20435
     },
     {
@@ -4754,7 +4767,7 @@
       "id": "w53_anvil",
       "rank": 4,
       "direction": 0,
-      "damage": 4227,
+      "damage": 4146,
       "effectInk": 20435
     },
     {
@@ -4762,7 +4775,7 @@
       "id": "w53_anvil",
       "rank": 5,
       "direction": 1,
-      "damage": 4133,
+      "damage": 4397,
       "effectInk": 20435
     },
     {
@@ -4770,40 +4783,40 @@
       "id": "l53_acid",
       "rank": 1,
       "direction": 1,
-      "damage": 1446,
-      "effectInk": 771
+      "damage": 1614,
+      "effectInk": 136
     },
     {
       "side": "shadow",
       "id": "l53_acid",
       "rank": 2,
       "direction": 2,
-      "damage": 1683,
-      "effectInk": 774
+      "damage": 1887,
+      "effectInk": 135
     },
     {
       "side": "shadow",
       "id": "l53_acid",
       "rank": 3,
       "direction": 3,
-      "damage": 1787,
-      "effectInk": 764
+      "damage": 2182,
+      "effectInk": 135
     },
     {
       "side": "shadow",
       "id": "l53_acid",
       "rank": 4,
       "direction": 0,
-      "damage": 2573,
-      "effectInk": 780
+      "damage": 2537,
+      "effectInk": 133
     },
     {
       "side": "shadow",
       "id": "l53_acid",
       "rank": 5,
       "direction": 1,
-      "damage": 2302,
-      "effectInk": 771
+      "damage": 2068,
+      "effectInk": 136
     },
     {
       "side": "shadow",
@@ -4850,7 +4863,7 @@
       "id": "l53_spore",
       "rank": 1,
       "direction": 1,
-      "damage": 1779,
+      "damage": 1313,
       "effectInk": 12094
     },
     {
@@ -4858,7 +4871,7 @@
       "id": "l53_spore",
       "rank": 2,
       "direction": 2,
-      "damage": 2381,
+      "damage": 1758,
       "effectInk": 12094
     },
     {
@@ -4866,7 +4879,7 @@
       "id": "l53_spore",
       "rank": 3,
       "direction": 3,
-      "damage": 2322,
+      "damage": 2355,
       "effectInk": 12094
     },
     {
@@ -4874,7 +4887,7 @@
       "id": "l53_spore",
       "rank": 4,
       "direction": 0,
-      "damage": 2763,
+      "damage": 2153,
       "effectInk": 12094
     },
     {
@@ -4882,7 +4895,7 @@
       "id": "l53_spore",
       "rank": 5,
       "direction": 1,
-      "damage": 3353,
+      "damage": 2982,
       "effectInk": 12094
     },
     {
@@ -4930,7 +4943,7 @@
       "id": "l53_genesis",
       "rank": 1,
       "direction": 1,
-      "damage": 2787,
+      "damage": 2886,
       "effectInk": 918
     },
     {
@@ -4938,7 +4951,7 @@
       "id": "l53_genesis",
       "rank": 2,
       "direction": 2,
-      "damage": 3031,
+      "damage": 3603,
       "effectInk": 918
     },
     {
@@ -4946,7 +4959,7 @@
       "id": "l53_genesis",
       "rank": 3,
       "direction": 3,
-      "damage": 3727,
+      "damage": 3376,
       "effectInk": 918
     },
     {
@@ -4954,7 +4967,7 @@
       "id": "l53_genesis",
       "rank": 4,
       "direction": 0,
-      "damage": 4052,
+      "damage": 4485,
       "effectInk": 918
     },
     {
@@ -4962,7 +4975,7 @@
       "id": "l53_genesis",
       "rank": 5,
       "direction": 1,
-      "damage": 4786,
+      "damage": 5062,
       "effectInk": 918
     },
     {
@@ -4970,7 +4983,7 @@
       "id": "c53_cross",
       "rank": 1,
       "direction": 1,
-      "damage": 1834,
+      "damage": 1418,
       "effectInk": 729
     },
     {
@@ -4978,7 +4991,7 @@
       "id": "c53_cross",
       "rank": 2,
       "direction": 2,
-      "damage": 1648,
+      "damage": 2141,
       "effectInk": 729
     },
     {
@@ -4986,7 +4999,7 @@
       "id": "c53_cross",
       "rank": 3,
       "direction": 3,
-      "damage": 2234,
+      "damage": 2071,
       "effectInk": 729
     },
     {
@@ -4994,7 +5007,7 @@
       "id": "c53_cross",
       "rank": 4,
       "direction": 0,
-      "damage": 2371,
+      "damage": 2325,
       "effectInk": 729
     },
     {
@@ -5002,7 +5015,7 @@
       "id": "c53_cross",
       "rank": 5,
       "direction": 1,
-      "damage": 2207,
+      "damage": 2811,
       "effectInk": 729
     },
     {
@@ -5010,7 +5023,7 @@
       "id": "c53_step",
       "rank": 1,
       "direction": 1,
-      "damage": 1130,
+      "damage": 1219,
       "effectInk": 1087
     },
     {
@@ -5018,7 +5031,7 @@
       "id": "c53_step",
       "rank": 2,
       "direction": 2,
-      "damage": 2118,
+      "damage": 1475,
       "effectInk": 1087
     },
     {
@@ -5026,7 +5039,7 @@
       "id": "c53_step",
       "rank": 3,
       "direction": 3,
-      "damage": 1829,
+      "damage": 1408,
       "effectInk": 1087
     },
     {
@@ -5034,7 +5047,7 @@
       "id": "c53_step",
       "rank": 4,
       "direction": 0,
-      "damage": 2012,
+      "damage": 2046,
       "effectInk": 1087
     },
     {
@@ -5042,7 +5055,7 @@
       "id": "c53_step",
       "rank": 5,
       "direction": 1,
-      "damage": 2366,
+      "damage": 2123,
       "effectInk": 1087
     },
     {
@@ -5090,7 +5103,7 @@
       "id": "c53_smoke",
       "rank": 1,
       "direction": 1,
-      "damage": 927,
+      "damage": 753,
       "effectInk": 12094
     },
     {
@@ -5098,7 +5111,7 @@
       "id": "c53_smoke",
       "rank": 2,
       "direction": 2,
-      "damage": 890,
+      "damage": 1029,
       "effectInk": 12094
     },
     {
@@ -5106,7 +5119,7 @@
       "id": "c53_smoke",
       "rank": 3,
       "direction": 3,
-      "damage": 878,
+      "damage": 941,
       "effectInk": 12094
     },
     {
@@ -5114,7 +5127,7 @@
       "id": "c53_smoke",
       "rank": 4,
       "direction": 0,
-      "damage": 1202,
+      "damage": 1798,
       "effectInk": 12094
     },
     {
@@ -5122,7 +5135,7 @@
       "id": "c53_smoke",
       "rank": 5,
       "direction": 1,
-      "damage": 1168,
+      "damage": 1873,
       "effectInk": 12094
     },
     {
@@ -5130,7 +5143,7 @@
       "id": "c53_final",
       "rank": 1,
       "direction": 1,
-      "damage": 3040,
+      "damage": 3078,
       "effectInk": 729
     },
     {
@@ -5138,7 +5151,7 @@
       "id": "c53_final",
       "rank": 2,
       "direction": 2,
-      "damage": 4091,
+      "damage": 3771,
       "effectInk": 729
     },
     {
@@ -5146,7 +5159,7 @@
       "id": "c53_final",
       "rank": 3,
       "direction": 3,
-      "damage": 4054,
+      "damage": 3661,
       "effectInk": 729
     },
     {
@@ -5154,7 +5167,7 @@
       "id": "c53_final",
       "rank": 4,
       "direction": 0,
-      "damage": 4298,
+      "damage": 4568,
       "effectInk": 729
     },
     {
@@ -5162,7 +5175,7 @@
       "id": "c53_final",
       "rank": 5,
       "direction": 1,
-      "damage": 6199,
+      "damage": 6129,
       "effectInk": 729
     },
     {
@@ -5170,7 +5183,7 @@
       "id": "r53_echo",
       "rank": 1,
       "direction": 1,
-      "damage": 1838,
+      "damage": 1235,
       "effectInk": 907
     },
     {
@@ -5178,7 +5191,7 @@
       "id": "r53_echo",
       "rank": 2,
       "direction": 2,
-      "damage": 1244,
+      "damage": 1504,
       "effectInk": 922
     },
     {
@@ -5186,7 +5199,7 @@
       "id": "r53_echo",
       "rank": 3,
       "direction": 3,
-      "damage": 1678,
+      "damage": 1356,
       "effectInk": 922
     },
     {
@@ -5194,7 +5207,7 @@
       "id": "r53_echo",
       "rank": 4,
       "direction": 0,
-      "damage": 2095,
+      "damage": 1950,
       "effectInk": 911
     },
     {
@@ -5202,7 +5215,7 @@
       "id": "r53_echo",
       "rank": 5,
       "direction": 1,
-      "damage": 2787,
+      "damage": 2143,
       "effectInk": 907
     },
     {
@@ -5210,7 +5223,7 @@
       "id": "r53_web",
       "rank": 1,
       "direction": 1,
-      "damage": 128,
+      "damage": 119,
       "effectInk": 12094
     },
     {
@@ -5218,7 +5231,7 @@
       "id": "r53_web",
       "rank": 2,
       "direction": 2,
-      "damage": 169,
+      "damage": 210,
       "effectInk": 12094
     },
     {
@@ -5226,7 +5239,7 @@
       "id": "r53_web",
       "rank": 3,
       "direction": 3,
-      "damage": 222,
+      "damage": 188,
       "effectInk": 12094
     },
     {
@@ -5234,7 +5247,7 @@
       "id": "r53_web",
       "rank": 4,
       "direction": 0,
-      "damage": 166,
+      "damage": 228,
       "effectInk": 12094
     },
     {
@@ -5242,7 +5255,7 @@
       "id": "r53_web",
       "rank": 5,
       "direction": 1,
-      "damage": 256,
+      "damage": 212,
       "effectInk": 12094
     },
     {
@@ -5290,7 +5303,7 @@
       "id": "r53_sever",
       "rank": 1,
       "direction": 1,
-      "damage": 1286,
+      "damage": 1176,
       "effectInk": 729
     },
     {
@@ -5298,7 +5311,7 @@
       "id": "r53_sever",
       "rank": 2,
       "direction": 2,
-      "damage": 1465,
+      "damage": 1745,
       "effectInk": 729
     },
     {
@@ -5306,7 +5319,7 @@
       "id": "r53_sever",
       "rank": 3,
       "direction": 3,
-      "damage": 1848,
+      "damage": 1587,
       "effectInk": 729
     },
     {
@@ -5314,7 +5327,7 @@
       "id": "r53_sever",
       "rank": 4,
       "direction": 0,
-      "damage": 1837,
+      "damage": 1767,
       "effectInk": 729
     },
     {
@@ -5322,7 +5335,7 @@
       "id": "r53_sever",
       "rank": 5,
       "direction": 1,
-      "damage": 1960,
+      "damage": 1997,
       "effectInk": 729
     },
     {
@@ -5330,7 +5343,7 @@
       "id": "r53_hunt",
       "rank": 1,
       "direction": 1,
-      "damage": 2410,
+      "damage": 2716,
       "effectInk": 20072
     },
     {
@@ -5338,7 +5351,7 @@
       "id": "r53_hunt",
       "rank": 2,
       "direction": 2,
-      "damage": 3435,
+      "damage": 2993,
       "effectInk": 20072
     },
     {
@@ -5346,7 +5359,7 @@
       "id": "r53_hunt",
       "rank": 3,
       "direction": 3,
-      "damage": 3365,
+      "damage": 4424,
       "effectInk": 20072
     },
     {
@@ -5354,7 +5367,7 @@
       "id": "r53_hunt",
       "rank": 4,
       "direction": 0,
-      "damage": 3565,
+      "damage": 4442,
       "effectInk": 20072
     },
     {
@@ -5362,7 +5375,7 @@
       "id": "r53_hunt",
       "rank": 5,
       "direction": 1,
-      "damage": 5719,
+      "damage": 4277,
       "effectInk": 20072
     }
   ],

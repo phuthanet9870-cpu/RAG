@@ -2,8 +2,8 @@ from pathlib import Path
 from PIL import Image
 import json,hashlib,zipfile,shutil
 R=Path('/workspace/RAG');E=R/'evidence/effects-v54';A=R/'assets/effects-v54';O=R/'build/Runevale-Recast-V54';v=json.loads((E/'validation.json').read_text());assert not v['browserErrors'];assert v['rankFactionCases']==600;sha=hashlib.sha256((O/'index.html').read_bytes()).hexdigest();assert sha==v['htmlSha256']==json.loads((E/'build.json').read_text())['htmlSha256']
-s=(O/'index.html').read_text();base=(R/'build/Runevale-Recast-V53/index.html').read_text();preserved=[]
-def get(t,m):return json.JSONDecoder().raw_decode(t[t.index(m)+len(m):])[0]
+s=(O/'index.html').read_bytes().decode('latin1');base=(R/'build/Runevale-Recast-V53/index.html').read_bytes().decode('latin1');preserved=[]
+def get(t,m):return json.JSONDecoder().raw_decode(t,t.index(m)+len(m))[0]
 for m in ['const WORLD33_MATERIALS=','const WORLD33_PLANS=','const WORLD33_PLACEMENTS=','window.SHEET_DATA=','window.COSTUME36_DATA=','window.MONSTER_DATA=','const Unlock53Design=','const UNLOCK53_ICONS=']:
  assert get(s,m)==get(base,m),m;preserved.append(m)
 for marker,end in [('const Unlock53Rules=','const SKILL_COUNT ='),('const Team48=','window.Team48=Team48;'),('const Gear50=','const UNLOCK53_ICONS=')]:

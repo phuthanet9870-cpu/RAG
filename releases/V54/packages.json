@@ -1,12 +1,12 @@
 [
   {
     "name": "Runevale-Recast-V54.zip",
-    "bytes": 113998861,
-    "sha256": "3decd5240511a9c472e3a2b1c24470adba4c405eb30c7c1cc9fbdd8f3680244f"
+    "bytes": 113998903,
+    "sha256": "fd7929e2f2c7b60c972e71eccdc35f22570ea6cf6c2e761a238dfce3d997c405"
   },
   {
     "name": "Runevale-Skill-Sprite-Sheets-V54.zip",
     "bytes": 6170153,
-    "sha256": "f0cd52c8896d4a083d72e44912b587433188a98097a1637d6b51e98fcd08f7a3"
+    "sha256": "1732d438421d3ecb5083ac862fbd897dee049a34f7298801e26e767eba96d57c"
   }
 ]
