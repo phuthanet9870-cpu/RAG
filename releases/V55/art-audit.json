@@ -1,0 +1,768 @@
+{
+  "npcRoles": 20,
+  "nativeFrames": 20,
+  "frontViewOnly": true,
+  "staticNoAnimation": true,
+  "sprites": [
+    {
+      "id": "shop",
+      "source": "exec-a7185b3a-1cb2-48c4-9ffa-19bced28682e.png",
+      "sourceBounds": [
+        19,
+        146,
+        311,
+        937
+      ],
+      "sourceNotClipped": true,
+      "masterSize": [
+        292,
+        791
+      ],
+      "nativeSize": [
+        192,
+        160
+      ],
+      "nativeInkBounds": [
+        74,
+        18,
+        121,
+        144
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "footSource": [
+        138.18,
+        790
+      ],
+      "scale": 0.15949367088607594,
+      "direction": "front",
+      "pose": "standing",
+      "frames": 1,
+      "sha256": "18e3be2cb7e0e68251c5b2acf49966196a8174a126553a3151aaf6c93ca7482e"
+    },
+    {
+      "id": "smith",
+      "source": "exec-a7185b3a-1cb2-48c4-9ffa-19bced28682e.png",
+      "sourceBounds": [
+        291,
+        105,
+        653,
+        936
+      ],
+      "sourceNotClipped": true,
+      "masterSize": [
+        362,
+        831
+      ],
+      "nativeSize": [
+        192,
+        160
+      ],
+      "nativeInkBounds": [
+        66,
+        10,
+        124,
+        144
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "footSource": [
+        182.75,
+        830
+      ],
+      "scale": 0.1614457831325301,
+      "direction": "front",
+      "pose": "standing",
+      "frames": 1,
+      "sha256": "3169c8be467d257cb77d848f3c4b657b6efd55148bc05ca6227ee97f143f224c"
+    },
+    {
+      "id": "enchant",
+      "source": "exec-a7185b3a-1cb2-48c4-9ffa-19bced28682e.png",
+      "sourceBounds": [
+        628,
+        143,
+        937,
+        938
+      ],
+      "sourceNotClipped": true,
+      "masterSize": [
+        309,
+        795
+      ],
+      "nativeSize": [
+        192,
+        160
+      ],
+      "nativeInkBounds": [
+        72,
+        18,
+        121,
+        144
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "footSource": [
+        149.81,
+        794
+      ],
+      "scale": 0.15869017632241814,
+      "direction": "front",
+      "pose": "standing",
+      "frames": 1,
+      "sha256": "e323c817866e190faf7a974ea667485672c7120acc570c856ef03cc3d2b358a1"
+    },
+    {
+      "id": "cardsmith",
+      "source": "exec-a7185b3a-1cb2-48c4-9ffa-19bced28682e.png",
+      "sourceBounds": [
+        946,
+        146,
+        1210,
+        940
+      ],
+      "sourceNotClipped": true,
+      "masterSize": [
+        264,
+        794
+      ],
+      "nativeSize": [
+        192,
+        160
+      ],
+      "nativeInkBounds": [
+        75,
+        18,
+        117,
+        144
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "footSource": [
+        132.91,
+        793
+      ],
+      "scale": 0.15889029003783103,
+      "direction": "front",
+      "pose": "standing",
+      "frames": 1,
+      "sha256": "f569c30fe664456968eb7c41f0d5c71f7d18ccbcb78179c085738db026fc9c32"
+    },
+    {
+      "id": "stable",
+      "source": "exec-a7185b3a-1cb2-48c4-9ffa-19bced28682e.png",
+      "sourceBounds": [
+        1217,
+        108,
+        1520,
+        938
+      ],
+      "sourceNotClipped": true,
+      "masterSize": [
+        303,
+        830
+      ],
+      "nativeSize": [
+        192,
+        160
+      ],
+      "nativeInkBounds": [
+        71,
+        14,
+        119,
+        144
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "footSource": [
+        158.56,
+        829
+      ],
+      "scale": 0.15681544028950542,
+      "direction": "front",
+      "pose": "standing",
+      "frames": 1,
+      "sha256": "0674d47d67411c6f8dda2bda831fd9196225c51beebeac5d464f807c4f949bab"
+    },
+    {
+      "id": "reset",
+      "source": "exec-9420f376-44f7-4269-bcfa-cdd1bd7e6b79.png",
+      "sourceBounds": [
+        16,
+        144,
+        298,
+        943
+      ],
+      "sourceNotClipped": true,
+      "masterSize": [
+        282,
+        799
+      ],
+      "nativeSize": [
+        192,
+        160
+      ],
+      "nativeInkBounds": [
+        74,
+        18,
+        119,
+        144
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "footSource": [
+        138.47,
+        797
+      ],
+      "scale": 0.15809284818067754,
+      "direction": "front",
+      "pose": "standing",
+      "frames": 1,
+      "sha256": "00091315313518d03716e4dce9e60f600cacdc16c812d6937db55c22ff2172a5"
+    },
+    {
+      "id": "storage",
+      "source": "exec-9420f376-44f7-4269-bcfa-cdd1bd7e6b79.png",
+      "sourceBounds": [
+        284,
+        120,
+        625,
+        941
+      ],
+      "sourceNotClipped": true,
+      "masterSize": [
+        341,
+        821
+      ],
+      "nativeSize": [
+        192,
+        160
+      ],
+      "nativeInkBounds": [
+        69,
+        14,
+        123,
+        144
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "footSource": [
+        167.86,
+        820
+      ],
+      "scale": 0.15853658536585366,
+      "direction": "front",
+      "pose": "standing",
+      "frames": 1,
+      "sha256": "9927529f784d6fc032ebe6e6e224f8016d61e0bb7b5a66f984f9c79c24c589d3"
+    },
+    {
+      "id": "warp",
+      "source": "exec-9420f376-44f7-4269-bcfa-cdd1bd7e6b79.png",
+      "sourceBounds": [
+        594,
+        102,
+        941,
+        941
+      ],
+      "sourceNotClipped": true,
+      "masterSize": [
+        347,
+        839
+      ],
+      "nativeSize": [
+        192,
+        160
+      ],
+      "nativeInkBounds": [
+        73,
+        18,
+        125,
+        144
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "footSource": [
+        149.87,
+        837
+      ],
+      "scale": 0.15053763440860216,
+      "direction": "front",
+      "pose": "standing",
+      "frames": 1,
+      "sha256": "a332beca8df381a9c063b5d002cb7c3f01c64350b206033cec322fe438e6822a"
+    },
+    {
+      "id": "guild",
+      "source": "exec-9420f376-44f7-4269-bcfa-cdd1bd7e6b79.png",
+      "sourceBounds": [
+        912,
+        113,
+        1223,
+        941
+      ],
+      "sourceNotClipped": true,
+      "masterSize": [
+        311,
+        828
+      ],
+      "nativeSize": [
+        192,
+        160
+      ],
+      "nativeInkBounds": [
+        71,
+        10,
+        121,
+        144
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "footSource": [
+        154.59,
+        827
+      ],
+      "scale": 0.16203143893591293,
+      "direction": "front",
+      "pose": "standing",
+      "frames": 1,
+      "sha256": "d0ab56349c013ad95457c69a5611ed524fd5edea7305896f95ecd174fd24531d"
+    },
+    {
+      "id": "merc",
+      "source": "exec-9420f376-44f7-4269-bcfa-cdd1bd7e6b79.png",
+      "sourceBounds": [
+        1215,
+        106,
+        1532,
+        941
+      ],
+      "sourceNotClipped": true,
+      "masterSize": [
+        317,
+        835
+      ],
+      "nativeSize": [
+        192,
+        160
+      ],
+      "nativeInkBounds": [
+        69,
+        10,
+        120,
+        144
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "footSource": [
+        166.19,
+        833
+      ],
+      "scale": 0.1608643457382953,
+      "direction": "front",
+      "pose": "standing",
+      "frames": 1,
+      "sha256": "6b81472e97d7d2621e92e247c67b2f9a1830236d1e644b909d61f6ad59463a35"
+    },
+    {
+      "id": "market",
+      "source": "exec-843badc8-1879-466b-a8f8-c37b29516dcf.png",
+      "sourceBounds": [
+        2,
+        78,
+        310,
+        934
+      ],
+      "sourceNotClipped": true,
+      "masterSize": [
+        308,
+        856
+      ],
+      "nativeSize": [
+        192,
+        160
+      ],
+      "nativeInkBounds": [
+        73,
+        14,
+        120,
+        144
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "footSource": [
+        153.85,
+        855
+      ],
+      "scale": 0.15204678362573099,
+      "direction": "front",
+      "pose": "standing",
+      "frames": 1,
+      "sha256": "6066e531d76ff63be2342515228cc0d8e2504468db45930a80bd853b5f4412ae"
+    },
+    {
+      "id": "tower",
+      "source": "exec-843badc8-1879-466b-a8f8-c37b29516dcf.png",
+      "sourceBounds": [
+        309,
+        90,
+        628,
+        933
+      ],
+      "sourceNotClipped": true,
+      "masterSize": [
+        319,
+        843
+      ],
+      "nativeSize": [
+        192,
+        160
+      ],
+      "nativeInkBounds": [
+        72,
+        14,
+        121,
+        144
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "footSource": [
+        153.41,
+        842
+      ],
+      "scale": 0.1543942992874109,
+      "direction": "front",
+      "pose": "standing",
+      "frames": 1,
+      "sha256": "01f094bc524dc01080fa4800e1b11fd99aec8e6e14543466aa9cba5b52c1d4ec"
+    },
+    {
+      "id": "training",
+      "source": "exec-843badc8-1879-466b-a8f8-c37b29516dcf.png",
+      "sourceBounds": [
+        623,
+        94,
+        912,
+        934
+      ],
+      "sourceNotClipped": true,
+      "masterSize": [
+        289,
+        840
+      ],
+      "nativeSize": [
+        192,
+        160
+      ],
+      "nativeInkBounds": [
+        74,
+        14,
+        119,
+        144
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "footSource": [
+        142.34,
+        839
+      ],
+      "scale": 0.15494636471990464,
+      "direction": "front",
+      "pose": "standing",
+      "frames": 1,
+      "sha256": "03216ac80098e98f763d80eb26250bc53fd807d39af8e81a8a78c8c961640b69"
+    },
+    {
+      "id": "eggs",
+      "source": "exec-843badc8-1879-466b-a8f8-c37b29516dcf.png",
+      "sourceBounds": [
+        906,
+        143,
+        1226,
+        935
+      ],
+      "sourceNotClipped": true,
+      "masterSize": [
+        320,
+        792
+      ],
+      "nativeSize": [
+        192,
+        160
+      ],
+      "nativeInkBounds": [
+        72,
+        18,
+        123,
+        144
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "footSource": [
+        153.76,
+        791
+      ],
+      "scale": 0.1592920353982301,
+      "direction": "front",
+      "pose": "standing",
+      "frames": 1,
+      "sha256": "8418c57c7b3561674cb814e77d594da5bbecaea2d993c0d1b4acd448bf851f81"
+    },
+    {
+      "id": "arena",
+      "source": "exec-c577460b-eb69-4324-8db6-32eac2961f93.png",
+      "sourceBounds": [
+        165,
+        41,
+        859,
+        1466
+      ],
+      "sourceNotClipped": true,
+      "masterSize": [
+        694,
+        1425
+      ],
+      "nativeSize": [
+        192,
+        160
+      ],
+      "nativeInkBounds": [
+        63,
+        10,
+        128,
+        144
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "footSource": [
+        346.69,
+        1424
+      ],
+      "scale": 0.09410112359550561,
+      "direction": "front",
+      "pose": "standing",
+      "frames": 1,
+      "sha256": "c75be0f5ba9a6cb8de4991286680cc83cc588d63f30c6fc2069ef8935f0c59eb"
+    },
+    {
+      "id": "mail",
+      "source": "exec-74f3a2e1-05ef-49b1-b91d-0bd6ead49847.png",
+      "sourceBounds": [
+        10,
+        76,
+        298,
+        943
+      ],
+      "sourceNotClipped": true,
+      "masterSize": [
+        288,
+        867
+      ],
+      "nativeSize": [
+        192,
+        160
+      ],
+      "nativeInkBounds": [
+        74,
+        14,
+        117,
+        144
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "footSource": [
+        147.83,
+        866
+      ],
+      "scale": 0.15011547344110854,
+      "direction": "front",
+      "pose": "standing",
+      "frames": 1,
+      "sha256": "999c29998f80e2861440f57b8765fc4a262838ceff38f67775eb6ddc27856b15"
+    },
+    {
+      "id": "token",
+      "source": "exec-74f3a2e1-05ef-49b1-b91d-0bd6ead49847.png",
+      "sourceBounds": [
+        314,
+        82,
+        605,
+        945
+      ],
+      "sourceNotClipped": true,
+      "masterSize": [
+        291,
+        863
+      ],
+      "nativeSize": [
+        192,
+        160
+      ],
+      "nativeInkBounds": [
+        73,
+        14,
+        117,
+        144
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "footSource": [
+        153.07,
+        862
+      ],
+      "scale": 0.15081206496519722,
+      "direction": "front",
+      "pose": "standing",
+      "frames": 1,
+      "sha256": "3a0561ef26ccc203f092e50e9a30898dc05bc2c0ed29a5dd80e5faea7dbe65c7"
+    },
+    {
+      "id": "collector",
+      "source": "exec-74f3a2e1-05ef-49b1-b91d-0bd6ead49847.png",
+      "sourceBounds": [
+        613,
+        81,
+        942,
+        945
+      ],
+      "sourceNotClipped": true,
+      "masterSize": [
+        329,
+        864
+      ],
+      "nativeSize": [
+        192,
+        160
+      ],
+      "nativeInkBounds": [
+        73,
+        15,
+        123,
+        144
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "footSource": [
+        151.24,
+        862
+      ],
+      "scale": 0.15081206496519722,
+      "direction": "front",
+      "pose": "standing",
+      "frames": 1,
+      "sha256": "1780875b9b6fe51034ca83486a44e4c47d978414324ee13e117a9af5dd515a79"
+    },
+    {
+      "id": "job",
+      "source": "exec-74f3a2e1-05ef-49b1-b91d-0bd6ead49847.png",
+      "sourceBounds": [
+        930,
+        131,
+        1236,
+        942
+      ],
+      "sourceNotClipped": true,
+      "masterSize": [
+        306,
+        811
+      ],
+      "nativeSize": [
+        192,
+        160
+      ],
+      "nativeInkBounds": [
+        73,
+        18,
+        121,
+        144
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "footSource": [
+        145.64,
+        810
+      ],
+      "scale": 0.15555555555555556,
+      "direction": "front",
+      "pose": "standing",
+      "frames": 1,
+      "sha256": "507ccf38e14779018ede9e1953f2311a2a2a3f04428b3148e0315549e3b3390b"
+    },
+    {
+      "id": "costumegacha",
+      "source": "exec-74f3a2e1-05ef-49b1-b91d-0bd6ead49847.png",
+      "sourceBounds": [
+        1249,
+        129,
+        1524,
+        943
+      ],
+      "sourceNotClipped": true,
+      "masterSize": [
+        275,
+        814
+      ],
+      "nativeSize": [
+        192,
+        160
+      ],
+      "nativeInkBounds": [
+        75,
+        18,
+        118,
+        144
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "footSource": [
+        135.07,
+        813
+      ],
+      "scale": 0.15498154981549817,
+      "direction": "front",
+      "pose": "standing",
+      "frames": 1,
+      "sha256": "4a495d9b7b356914a8f6096dc17f7758b60c78521915dc93d00e3375aa9c43c8"
+    }
+  ]
+}

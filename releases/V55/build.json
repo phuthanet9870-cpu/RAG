@@ -1,0 +1,18 @@
+{
+  "version": 55,
+  "base": 54,
+  "npcRoles": 20,
+  "npcSpawnInstances": 30,
+  "frameSize": [
+    192,
+    160
+  ],
+  "anchor": [
+    96,
+    144
+  ],
+  "framesPerRole": 1,
+  "direction": "front",
+  "htmlSha256": "f46d5a603ed86bc47eb55c3ad5c26d596eac6653f88587c9e1200d97e9b749a5",
+  "gameplayAndPositionsUnchanged": true
+}

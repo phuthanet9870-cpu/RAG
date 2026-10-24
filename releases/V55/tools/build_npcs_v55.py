@@ -1,0 +1,5 @@
+from pathlib import Path
+import json,hashlib
+R=Path('/workspace/RAG');A=R/'assets/npcs-v55';s=(R/'build/Runevale-Recast-V54/index.html').read_text();data=json.loads((A/'embedded.json').read_text())
+s=s.replace("document.createTextNode(' · V54 · ชีตเอฟเฟกต์ชุดใหม่')","document.createTextNode(' · V55 · NPC ยืนด้านหน้า')").replace("document.title='Runevale Online V54 · ชีตเอฟเฟกต์ชุดใหม่'","document.title='Runevale Online V55 · NPC ยืนด้านหน้า'")
+s=s.replace('</script></body></html>','\nconst NPC55_ART='+json.dumps(data,ensure_ascii=False,separators=(',',':'))+';\n'+(R/'tools/npcs-v55.js').read_text()+'\n</script></body></html>');O=R/'build/Runevale-Recast-V55';O.mkdir(exist_ok=True);(O/'index.html').write_text(s);E=R/'evidence/npcs-v55';E.mkdir(exist_ok=True);(E/'build.json').write_text(json.dumps({'version':55,'base':54,'npcRoles':20,'npcSpawnInstances':30,'frameSize':[192,160],'anchor':[96,144],'framesPerRole':1,'direction':'front','htmlSha256':hashlib.sha256(s.encode()).hexdigest(),'gameplayAndPositionsUnchanged':True},indent=2));print('Built V55',flush=True)

@@ -1,0 +1,378 @@
+{
+  "htmlSha256": "f46d5a603ed86bc47eb55c3ad5c26d596eac6653f88587c9e1200d97e9b749a5",
+  "npcRoles": 20,
+  "npcLocations": [
+    {
+      "map": "0",
+      "role": "shop",
+      "name": "ลีนา · ร้านขายของ",
+      "x": 799,
+      "y": 1398,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "smith",
+      "name": "บรูโน · ช่างตีเหล็ก",
+      "x": 2382,
+      "y": 1405,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "enchant",
+      "name": "เซเลน · เสริมพลัง",
+      "x": 2816,
+      "y": 1312,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "cardsmith",
+      "name": "ไอริส · การ์ด",
+      "x": 2816,
+      "y": 1982,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "stable",
+      "name": "โรแวน · คอกสัตว์",
+      "x": 366,
+      "y": 632,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "reset",
+      "name": "นีฟ · รีเซ็ตสเตตัส",
+      "x": 780,
+      "y": 1980,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "storage",
+      "name": "ออสวอลด์ · คลังสินค้า",
+      "x": 798,
+      "y": 2572,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "warp",
+      "name": "ไลรา · ผู้ดูแลวาร์ป",
+      "x": 2382,
+      "y": 2555,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "guild",
+      "name": "อัลดริก · กิลด์",
+      "x": 1215,
+      "y": 3072,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "merc",
+      "name": "กาเร็ต · ทหารรับจ้าง",
+      "x": 1968,
+      "y": 3064,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "market",
+      "name": "ฟินน์ · ตลาด",
+      "x": 366,
+      "y": 2095,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "tower",
+      "name": "ออร์ริน · หอคอย",
+      "x": 2832,
+      "y": 2448,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "training",
+      "name": "เร็น · ฝึกฝน",
+      "x": 2984,
+      "y": 2738,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "eggs",
+      "name": "ลูลู · สุ่มไข่",
+      "x": 2398,
+      "y": 3072,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "arena",
+      "name": "วาเลน · ประลอง",
+      "x": 2551,
+      "y": 662,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "mail",
+      "name": "พิป · ไปรษณีย์",
+      "x": 382,
+      "y": 1522,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "token",
+      "name": "เลโอ · แลกเหรียญ",
+      "x": 898,
+      "y": 638,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "collector",
+      "name": "คอร์วิน · นักสะสม",
+      "x": 366,
+      "y": 2482,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "costumegacha",
+      "name": "ออโรรา · สุ่มคอสตูม",
+      "x": 382,
+      "y": 2978,
+      "path": true
+    },
+    {
+      "map": "15",
+      "role": "shop",
+      "name": "ลีนา · ร้านขายของ",
+      "x": 3515.6,
+      "y": 3256,
+      "path": true
+    },
+    {
+      "map": "15",
+      "role": "smith",
+      "name": "บรูโน · ช่างตีเหล็ก",
+      "x": 3721.3248383023656,
+      "y": 3309.4752415750145,
+      "path": true
+    },
+    {
+      "map": "15",
+      "role": "enchant",
+      "name": "เซเลน · เสริมพลัง",
+      "x": 3848.4697807033035,
+      "y": 3449.475241575015,
+      "path": true
+    },
+    {
+      "map": "15",
+      "role": "storage",
+      "name": "ออสวอลด์ · คลังสินค้า",
+      "x": 3848.4697807033035,
+      "y": 3622.524758424985,
+      "path": true
+    },
+    {
+      "map": "15",
+      "role": "warp",
+      "name": "ไลรา · ผู้ดูแลวาร์ป",
+      "x": 3721.3248383023656,
+      "y": 3762.5247584249855,
+      "path": true
+    },
+    {
+      "map": "15",
+      "role": "job",
+      "name": "อาเรีย · เปลี่ยนอาชีพ",
+      "x": 3515.6,
+      "y": 3816,
+      "path": true
+    },
+    {
+      "map": "15",
+      "role": "reset",
+      "name": "นีฟ · รีเซ็ตสเตตัส",
+      "x": 3309.875161697634,
+      "y": 3762.5247584249855,
+      "path": true
+    },
+    {
+      "map": "15",
+      "role": "market",
+      "name": "ฟินน์ · ตลาด",
+      "x": 3182.7302192966963,
+      "y": 3622.5247584249855,
+      "path": true
+    },
+    {
+      "map": "15",
+      "role": "cardsmith",
+      "name": "ไอริส · การ์ด",
+      "x": 3182.7302192966963,
+      "y": 3449.475241575015,
+      "path": true
+    },
+    {
+      "map": "15",
+      "role": "stable",
+      "name": "โรแวน · คอกสัตว์",
+      "x": 3309.875161697634,
+      "y": 3309.475241575015,
+      "path": true
+    },
+    {
+      "map": "r_castle",
+      "role": "job",
+      "name": "อาเรีย · เปลี่ยนอาชีพ",
+      "x": 614.4,
+      "y": 2352,
+      "path": true
+    }
+  ],
+  "staticFrontPoseChecks": [
+    {
+      "role": "shop",
+      "hash": 1128852068,
+      "timeAndFacingStatesChecked": 8
+    },
+    {
+      "role": "smith",
+      "hash": 2070840875,
+      "timeAndFacingStatesChecked": 8
+    },
+    {
+      "role": "enchant",
+      "hash": 1181100355,
+      "timeAndFacingStatesChecked": 8
+    },
+    {
+      "role": "cardsmith",
+      "hash": 1803430981,
+      "timeAndFacingStatesChecked": 8
+    },
+    {
+      "role": "stable",
+      "hash": 866973135,
+      "timeAndFacingStatesChecked": 8
+    },
+    {
+      "role": "reset",
+      "hash": 394846803,
+      "timeAndFacingStatesChecked": 8
+    },
+    {
+      "role": "storage",
+      "hash": 917495068,
+      "timeAndFacingStatesChecked": 8
+    },
+    {
+      "role": "warp",
+      "hash": 3544438791,
+      "timeAndFacingStatesChecked": 8
+    },
+    {
+      "role": "guild",
+      "hash": 3748526624,
+      "timeAndFacingStatesChecked": 8
+    },
+    {
+      "role": "merc",
+      "hash": 1919908786,
+      "timeAndFacingStatesChecked": 8
+    },
+    {
+      "role": "market",
+      "hash": 2607110997,
+      "timeAndFacingStatesChecked": 8
+    },
+    {
+      "role": "tower",
+      "hash": 625362736,
+      "timeAndFacingStatesChecked": 8
+    },
+    {
+      "role": "training",
+      "hash": 2231609737,
+      "timeAndFacingStatesChecked": 8
+    },
+    {
+      "role": "eggs",
+      "hash": 3865118465,
+      "timeAndFacingStatesChecked": 8
+    },
+    {
+      "role": "arena",
+      "hash": 830681314,
+      "timeAndFacingStatesChecked": 8
+    },
+    {
+      "role": "mail",
+      "hash": 2778582819,
+      "timeAndFacingStatesChecked": 8
+    },
+    {
+      "role": "token",
+      "hash": 1331177093,
+      "timeAndFacingStatesChecked": 8
+    },
+    {
+      "role": "collector",
+      "hash": 2748977369,
+      "timeAndFacingStatesChecked": 8
+    },
+    {
+      "role": "job",
+      "hash": 2351744336,
+      "timeAndFacingStatesChecked": 8
+    },
+    {
+      "role": "costumegacha",
+      "hash": 3855304688,
+      "timeAndFacingStatesChecked": 8
+    }
+  ],
+  "servicesOpened": [
+    "shop",
+    "smith",
+    "enchant",
+    "cardsmith",
+    "stable",
+    "reset",
+    "storage",
+    "warp",
+    "guild",
+    "merc",
+    "market",
+    "tower",
+    "training",
+    "eggs",
+    "arena",
+    "mail",
+    "token",
+    "collector",
+    "job",
+    "costumegacha"
+  ],
+  "doesNotUseCharacterAnimationRenderer": true,
+  "gmAll20PlacedAndCleared": true,
+  "gmCastleAndCaravanVisit": true,
+  "mobileViewports": [
+    390,
+    844
+  ],
+  "browserErrors": []
+}

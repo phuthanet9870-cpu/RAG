@@ -1,0 +1,725 @@
+{
+  "version": 55,
+  "npcRoles": 20,
+  "spawnLocations": [
+    {
+      "map": "0",
+      "role": "shop",
+      "name": "ลีนา · ร้านขายของ",
+      "x": 799,
+      "y": 1398,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "smith",
+      "name": "บรูโน · ช่างตีเหล็ก",
+      "x": 2382,
+      "y": 1405,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "enchant",
+      "name": "เซเลน · เสริมพลัง",
+      "x": 2816,
+      "y": 1312,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "cardsmith",
+      "name": "ไอริส · การ์ด",
+      "x": 2816,
+      "y": 1982,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "stable",
+      "name": "โรแวน · คอกสัตว์",
+      "x": 366,
+      "y": 632,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "reset",
+      "name": "นีฟ · รีเซ็ตสเตตัส",
+      "x": 780,
+      "y": 1980,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "storage",
+      "name": "ออสวอลด์ · คลังสินค้า",
+      "x": 798,
+      "y": 2572,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "warp",
+      "name": "ไลรา · ผู้ดูแลวาร์ป",
+      "x": 2382,
+      "y": 2555,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "guild",
+      "name": "อัลดริก · กิลด์",
+      "x": 1215,
+      "y": 3072,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "merc",
+      "name": "กาเร็ต · ทหารรับจ้าง",
+      "x": 1968,
+      "y": 3064,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "market",
+      "name": "ฟินน์ · ตลาด",
+      "x": 366,
+      "y": 2095,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "tower",
+      "name": "ออร์ริน · หอคอย",
+      "x": 2832,
+      "y": 2448,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "training",
+      "name": "เร็น · ฝึกฝน",
+      "x": 2984,
+      "y": 2738,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "eggs",
+      "name": "ลูลู · สุ่มไข่",
+      "x": 2398,
+      "y": 3072,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "arena",
+      "name": "วาเลน · ประลอง",
+      "x": 2551,
+      "y": 662,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "mail",
+      "name": "พิป · ไปรษณีย์",
+      "x": 382,
+      "y": 1522,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "token",
+      "name": "เลโอ · แลกเหรียญ",
+      "x": 898,
+      "y": 638,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "collector",
+      "name": "คอร์วิน · นักสะสม",
+      "x": 366,
+      "y": 2482,
+      "path": true
+    },
+    {
+      "map": "0",
+      "role": "costumegacha",
+      "name": "ออโรรา · สุ่มคอสตูม",
+      "x": 382,
+      "y": 2978,
+      "path": true
+    },
+    {
+      "map": "15",
+      "role": "shop",
+      "name": "ลีนา · ร้านขายของ",
+      "x": 3515.6,
+      "y": 3256,
+      "path": true
+    },
+    {
+      "map": "15",
+      "role": "smith",
+      "name": "บรูโน · ช่างตีเหล็ก",
+      "x": 3721.3248383023656,
+      "y": 3309.4752415750145,
+      "path": true
+    },
+    {
+      "map": "15",
+      "role": "enchant",
+      "name": "เซเลน · เสริมพลัง",
+      "x": 3848.4697807033035,
+      "y": 3449.475241575015,
+      "path": true
+    },
+    {
+      "map": "15",
+      "role": "storage",
+      "name": "ออสวอลด์ · คลังสินค้า",
+      "x": 3848.4697807033035,
+      "y": 3622.524758424985,
+      "path": true
+    },
+    {
+      "map": "15",
+      "role": "warp",
+      "name": "ไลรา · ผู้ดูแลวาร์ป",
+      "x": 3721.3248383023656,
+      "y": 3762.5247584249855,
+      "path": true
+    },
+    {
+      "map": "15",
+      "role": "job",
+      "name": "อาเรีย · เปลี่ยนอาชีพ",
+      "x": 3515.6,
+      "y": 3816,
+      "path": true
+    },
+    {
+      "map": "15",
+      "role": "reset",
+      "name": "นีฟ · รีเซ็ตสเตตัส",
+      "x": 3309.875161697634,
+      "y": 3762.5247584249855,
+      "path": true
+    },
+    {
+      "map": "15",
+      "role": "market",
+      "name": "ฟินน์ · ตลาด",
+      "x": 3182.7302192966963,
+      "y": 3622.5247584249855,
+      "path": true
+    },
+    {
+      "map": "15",
+      "role": "cardsmith",
+      "name": "ไอริส · การ์ด",
+      "x": 3182.7302192966963,
+      "y": 3449.475241575015,
+      "path": true
+    },
+    {
+      "map": "15",
+      "role": "stable",
+      "name": "โรแวน · คอกสัตว์",
+      "x": 3309.875161697634,
+      "y": 3309.475241575015,
+      "path": true
+    },
+    {
+      "map": "r_castle",
+      "role": "job",
+      "name": "อาเรีย · เปลี่ยนอาชีพ",
+      "x": 614.4,
+      "y": 2352,
+      "path": true
+    }
+  ],
+  "atlas": "npc-front-atlas.png",
+  "atlasSize": [
+    960,
+    640
+  ],
+  "frameSize": [
+    192,
+    160
+  ],
+  "transparent": true,
+  "actions": [
+    "standing"
+  ],
+  "directions": [
+    "front"
+  ],
+  "framesPerNpc": 1,
+  "records": [
+    {
+      "id": "shop",
+      "name": "ลีนา",
+      "service": "ร้านขายของ",
+      "description": "young adult female merchant, chestnut bob hair, warm ochre dress, ivory blouse, leather waist apron, small potion pouch and closed ledger",
+      "sprite": "sprites/shop.png",
+      "master": "masters/shop.png",
+      "rect": [
+        0,
+        0,
+        192,
+        160
+      ],
+      "pivot": [
+        96,
+        144
+      ],
+      "direction": "front",
+      "action": "standing",
+      "frames": 1,
+      "fps": 0,
+      "loop": false
+    },
+    {
+      "id": "smith",
+      "name": "บรูโน",
+      "service": "ช่างตีเหล็ก",
+      "description": "stocky middle-aged male blacksmith, short auburn beard, rolled ivory sleeves, dark brown leather apron, leather gloves, small steel hammer held relaxed at side",
+      "sprite": "sprites/smith.png",
+      "master": "masters/smith.png",
+      "rect": [
+        192,
+        0,
+        192,
+        160
+      ],
+      "pivot": [
+        96,
+        144
+      ],
+      "direction": "front",
+      "action": "standing",
+      "frames": 1,
+      "fps": 0,
+      "loop": false
+    },
+    {
+      "id": "enchant",
+      "name": "เซเลน",
+      "service": "เสริมพลัง",
+      "description": "adult female rune scholar, long lavender hair, navy violet scholar robe with turquoise embroidery, closed rune tome held at waist, no glowing runes",
+      "sprite": "sprites/enchant.png",
+      "master": "masters/enchant.png",
+      "rect": [
+        384,
+        0,
+        192,
+        160
+      ],
+      "pivot": [
+        96,
+        144
+      ],
+      "direction": "front",
+      "action": "standing",
+      "frames": 1,
+      "fps": 0,
+      "loop": false
+    },
+    {
+      "id": "cardsmith",
+      "name": "ไอริส",
+      "service": "การ์ด",
+      "description": "adult female card artisan, copper braid, sage green tunic and cream sleeves, purple sash, small deck of illustrated cards held at waist, tool belt",
+      "sprite": "sprites/cardsmith.png",
+      "master": "masters/cardsmith.png",
+      "rect": [
+        576,
+        0,
+        192,
+        160
+      ],
+      "pivot": [
+        96,
+        144
+      ],
+      "direction": "front",
+      "action": "standing",
+      "frames": 1,
+      "fps": 0,
+      "loop": false
+    },
+    {
+      "id": "stable",
+      "name": "โรแวน",
+      "service": "คอกสัตว์",
+      "description": "adult male animal caretaker, sandy brown hair, forest green vest over tan shirt, leather boots, feed pouch and coiled bridle at belt, no animal",
+      "sprite": "sprites/stable.png",
+      "master": "masters/stable.png",
+      "rect": [
+        768,
+        0,
+        192,
+        160
+      ],
+      "pivot": [
+        96,
+        144
+      ],
+      "direction": "front",
+      "action": "standing",
+      "frames": 1,
+      "fps": 0,
+      "loop": false
+    },
+    {
+      "id": "reset",
+      "name": "นีฟ",
+      "service": "รีเซ็ตสเตตัส",
+      "description": "adult female archivist, silver short hair, pale blue robe with ivory trim and dark blue skirt, small brass hourglass held quietly at waist",
+      "sprite": "sprites/reset.png",
+      "master": "masters/reset.png",
+      "rect": [
+        0,
+        160,
+        192,
+        160
+      ],
+      "pivot": [
+        96,
+        144
+      ],
+      "direction": "front",
+      "action": "standing",
+      "frames": 1,
+      "fps": 0,
+      "loop": false
+    },
+    {
+      "id": "storage",
+      "name": "ออสวอลด์",
+      "service": "คลังสินค้า",
+      "description": "older male warehouse keeper, tidy grey moustache, round spectacles, brown waistcoat, muted blue shirt and leather apron, large brass key ring and parcel pouch",
+      "sprite": "sprites/storage.png",
+      "master": "masters/storage.png",
+      "rect": [
+        192,
+        160,
+        192,
+        160
+      ],
+      "pivot": [
+        96,
+        144
+      ],
+      "direction": "front",
+      "action": "standing",
+      "frames": 1,
+      "fps": 0,
+      "loop": false
+    },
+    {
+      "id": "warp",
+      "name": "ไลรา",
+      "service": "ผู้ดูแลวาร์ป",
+      "description": "adult female travel mage, dark blue shoulder-length hair, elegant blue hat and blue ivory travel robe, slim wooden staff held upright at side with an unlit blue crystal, no magic effect",
+      "sprite": "sprites/warp.png",
+      "master": "masters/warp.png",
+      "rect": [
+        384,
+        160,
+        192,
+        160
+      ],
+      "pivot": [
+        96,
+        144
+      ],
+      "direction": "front",
+      "action": "standing",
+      "frames": 1,
+      "fps": 0,
+      "loop": false
+    },
+    {
+      "id": "guild",
+      "name": "อัลดริก",
+      "service": "กิลด์",
+      "description": "adult male guild officer, neat blond hair, white and gold formal tabard over navy outfit, polished boots, rolled charter scroll held at waist",
+      "sprite": "sprites/guild.png",
+      "master": "masters/guild.png",
+      "rect": [
+        576,
+        160,
+        192,
+        160
+      ],
+      "pivot": [
+        96,
+        144
+      ],
+      "direction": "front",
+      "action": "standing",
+      "frames": 1,
+      "fps": 0,
+      "loop": false
+    },
+    {
+      "id": "merc",
+      "name": "กาเร็ต",
+      "service": "ทหารรับจ้าง",
+      "description": "middle-aged male mercenary captain, short black hair and light stubble, small cheek scar, dark grey leather and steel armor, burgundy shoulder cloak, sheathed sword at belt, empty relaxed hands",
+      "sprite": "sprites/merc.png",
+      "master": "masters/merc.png",
+      "rect": [
+        768,
+        160,
+        192,
+        160
+      ],
+      "pivot": [
+        96,
+        144
+      ],
+      "direction": "front",
+      "action": "standing",
+      "frames": 1,
+      "fps": 0,
+      "loop": false
+    },
+    {
+      "id": "market",
+      "name": "ฟินน์",
+      "service": "ตลาด",
+      "description": "adult male market broker, warm brown swept hair, amber ochre coat over cream shirt and olive trousers, leather ledger satchel and small balance-scale emblem, closed account book",
+      "sprite": "sprites/market.png",
+      "master": "masters/market.png",
+      "rect": [
+        0,
+        320,
+        192,
+        160
+      ],
+      "pivot": [
+        96,
+        144
+      ],
+      "direction": "front",
+      "action": "standing",
+      "frames": 1,
+      "fps": 0,
+      "loop": false
+    },
+    {
+      "id": "tower",
+      "name": "ออร์ริน",
+      "service": "หอคอย",
+      "description": "elderly male tower custodian, long silver hair and short white beard, plum violet long robe with gold geometric trim, brass telescope tucked at belt and old keys, no effects",
+      "sprite": "sprites/tower.png",
+      "master": "masters/tower.png",
+      "rect": [
+        192,
+        320,
+        192,
+        160
+      ],
+      "pivot": [
+        96,
+        144
+      ],
+      "direction": "front",
+      "action": "standing",
+      "frames": 1,
+      "fps": 0,
+      "loop": false
+    },
+    {
+      "id": "training",
+      "name": "เร็น",
+      "service": "ฝึกฝน",
+      "description": "adult male martial arts instructor, short brown hair and red headband, ivory training tunic, rust red sash, dark loose trousers and simple boots, hand wraps, arms relaxed not fighting",
+      "sprite": "sprites/training.png",
+      "master": "masters/training.png",
+      "rect": [
+        384,
+        320,
+        192,
+        160
+      ],
+      "pivot": [
+        96,
+        144
+      ],
+      "direction": "front",
+      "action": "standing",
+      "frames": 1,
+      "fps": 0,
+      "loop": false
+    },
+    {
+      "id": "eggs",
+      "name": "ลูลู",
+      "service": "สุ่มไข่",
+      "description": "young adult female egg keeper, strawberry pink side braid, cream and rose dress with small sage green capelet, basket holding three plain patterned eggs held low, no glow",
+      "sprite": "sprites/eggs.png",
+      "master": "masters/eggs.png",
+      "rect": [
+        576,
+        320,
+        192,
+        160
+      ],
+      "pivot": [
+        96,
+        144
+      ],
+      "direction": "front",
+      "action": "standing",
+      "frames": 1,
+      "fps": 0,
+      "loop": false
+    },
+    {
+      "id": "arena",
+      "name": "วาเลน",
+      "service": "ประลอง",
+      "description": "adult male arena marshal, silver blond short hair, white and steel light armor with warm gold trim and teal cloth, referee whistle at chest and small closed signet book, no fighting pose",
+      "sprite": "sprites/arena.png",
+      "master": "masters/arena.png",
+      "rect": [
+        768,
+        320,
+        192,
+        160
+      ],
+      "pivot": [
+        96,
+        144
+      ],
+      "direction": "front",
+      "action": "standing",
+      "frames": 1,
+      "fps": 0,
+      "loop": false
+    },
+    {
+      "id": "mail",
+      "name": "พิป",
+      "service": "ไปรษณีย์",
+      "description": "young adult male mail courier, tousled brown hair, blue courier cap and blue cream uniform, large brown postal satchel with white sealed envelopes peeking out, relaxed arms",
+      "sprite": "sprites/mail.png",
+      "master": "masters/mail.png",
+      "rect": [
+        0,
+        480,
+        192,
+        160
+      ],
+      "pivot": [
+        96,
+        144
+      ],
+      "direction": "front",
+      "action": "standing",
+      "frames": 1,
+      "fps": 0,
+      "loop": false
+    },
+    {
+      "id": "token",
+      "name": "เลโอ",
+      "service": "แลกเหรียญ",
+      "description": "adult male token cashier, neat golden brown hair, ivory shirt, rich golden waistcoat and brown trousers, leather coin pouch, small stack of mundane coins held at waist, no shining effect",
+      "sprite": "sprites/token.png",
+      "master": "masters/token.png",
+      "rect": [
+        192,
+        480,
+        192,
+        160
+      ],
+      "pivot": [
+        96,
+        144
+      ],
+      "direction": "front",
+      "action": "standing",
+      "frames": 1,
+      "fps": 0,
+      "loop": false
+    },
+    {
+      "id": "collector",
+      "name": "คอร์วิน",
+      "service": "นักสะสม",
+      "description": "older male eccentric collector, untidy silver grey hair, monocle, muted purple coat, tan scarf, backpack with small trinkets, magnifying glass held at side",
+      "sprite": "sprites/collector.png",
+      "master": "masters/collector.png",
+      "rect": [
+        384,
+        480,
+        192,
+        160
+      ],
+      "pivot": [
+        96,
+        144
+      ],
+      "direction": "front",
+      "action": "standing",
+      "frames": 1,
+      "fps": 0,
+      "loop": false
+    },
+    {
+      "id": "job",
+      "name": "อาเรีย",
+      "service": "เปลี่ยนอาชีพ",
+      "description": "adult female profession mentor, long honey blond hair, ivory and gold academic priestly robe with muted crimson sash, closed scholarly book held at waist, no halo or magic",
+      "sprite": "sprites/job.png",
+      "master": "masters/job.png",
+      "rect": [
+        576,
+        480,
+        192,
+        160
+      ],
+      "pivot": [
+        96,
+        144
+      ],
+      "direction": "front",
+      "action": "standing",
+      "frames": 1,
+      "fps": 0,
+      "loop": false
+    },
+    {
+      "id": "costumegacha",
+      "name": "ออโรรา",
+      "service": "สุ่มคอสตูม",
+      "description": "adult female costume designer, dark teal bob hair with navy ribbon, aqua and cream tailored long coat over navy dress, measuring tape at neck and folded colorful cloth at waist, sewing pouch, no effects",
+      "sprite": "sprites/costumegacha.png",
+      "master": "masters/costumegacha.png",
+      "rect": [
+        768,
+        480,
+        192,
+        160
+      ],
+      "pivot": [
+        96,
+        144
+      ],
+      "direction": "front",
+      "action": "standing",
+      "frames": 1,
+      "fps": 0,
+      "loop": false
+    }
+  ]
+}
